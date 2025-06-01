@@ -78,7 +78,7 @@
       ]
     },
     {
-      "title": "✨ SONHOS E SINAIS - Versão 2",
+      "title": "✨ SONHOS E SINAIS ",
       "text": "Qual foi a última vez que você sentiu um 'pressentimento' forte que se confirmou?",
       "options": [
         "Recentemente, foi impressionante",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "title": "⚡ ENERGIA PESSOAL - Versão 2",
+      "title": "⚡ ENERGIA PESSOAL",
       "text": "Como você se sente ao entrar em um ambiente novo?",
       "options": [
         "Sinto a energia do local, sou sensível",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "title": "⚡ ENERGIA PESSOAL - Versão 2",
+      "title": "⚡ ENERGIA PESSOAL ",
       "text": "Você se sente mais atraído(a) por lugares tranquilos ou agitados?",
       "options": [
         "Tranquilos, para recarregar as energias",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "title": "🔮 CONEXÃO ESPIRITUAL - Versão 2",
+      "title": "🔮 CONEXÃO ESPIRITUAL",
       "text": "Você acredita em algum tipo de força maior ou destino?",
       "options": [
         "Sim, firmemente",
@@ -116,7 +116,7 @@
   ],
   [
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Com qual frequência você se sente 'conectado(a)' a pessoas sem precisar de palavras?",
       "options": [
         "Quase sempre, é natural pra mim",
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL ",
       "text": "Você já sentiu a presença de alguém que não estava fisicamente presente?",
       "options": [
         "Sim, e era bem real",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Qual cor mais te atrai e te transmite energia no momento?",
       "options": [
         "Azul/Roxo (Calma, espiritualidade)",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL ",
       "text": "Seu ambiente atual reflete sua paz interior?",
       "options": [
         "Sim, é meu santuário",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL ",
       "text": "Você se sente mais atraído(a) por símbolos antigos ou por inovações tecnológicas?",
       "options": [
         "Símbolos antigos e a sabedoria ancestral",
