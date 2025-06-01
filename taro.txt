@@ -174,7 +174,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA ",
       "text": "Você costuma falar com plantas ou animais como se eles entendessem?",
       "options": [
         "Sim, sinto uma conexão real",
