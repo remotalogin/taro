@@ -183,7 +183,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA",
       "text": "Qual tipo de cristal ou pedra te chama mais atenção?",
       "options": [
         "Ametista (calma, intuição)",
