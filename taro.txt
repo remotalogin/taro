@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
+      "title": "💔 AMOR NÃO RESOLVIDO ",
       "text": "O que você gostaria de perguntar pra ele hoje?",
       "options": [
         "Por que ele se afastou?",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO - Versão 1",
+      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO",
       "text": "Você já viu sinais repetidos como horas iguais ou nomes?",
       "options": [
         "Sim, direto",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO - Versão 1",
+      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO",
       "text": "Como anda sua intuição ultimamente?",
       "options": [
         "Forte e ativa",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "🔮 RITUAL/INTERAÇÃO - Versão 1",
+      "title": "🔮 RITUAL/INTERAÇÃO ",
       "text": "Qual dessas ações você já fez por ele?",
       "options": [
         "Orei ou mentalizei",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "title": "🔮 RITUAL/INTERAÇÃO - Versão 1",
+      "title": "🔮 RITUAL/INTERAÇÃO",
       "text": "Se ele voltasse hoje, você:",
       "options": [
         "Correria pros braços dele",
@@ -69,7 +69,7 @@
   ],
   [
     {
-      "title": "✨ SONHOS E SINAIS - Versão 2",
+      "title": "✨ SONHOS E SINAIS",
       "text": "Você tem tido sonhos vívidos ou recorrentes ultimamente?",
       "options": [
         "Sim, e parecem mensagens",
