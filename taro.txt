@@ -193,7 +193,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA ",
       "text": "Você prefere meditar em um local fechado ou ao ar livre?",
       "options": [
         "Ao ar livre, em contato com a natureza",
