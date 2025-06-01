@@ -599,5 +599,4704 @@
         "Teria uma conversa profunda"
       ]
     }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA PESSOAL",
+      "text": "Com qual frequência você se sente 'drenado(a)' após interações sociais intensas?",
+      "options": [
+        "Quase sempre, preciso de tempo para recarregar",
+        "Às vezes, depende das pessoas e do ambiente",
+        "Raramente, me sinto energizado(a) por interações"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL",
+      "text": "Qual é a sua principal fonte de recarga energética?",
+      "options": [
+        "Estar na natureza e em silêncio",
+        "Praticar um hobby criativo ou arte",
+        "Fazer exercícios físicos intensos",
+        "Passar tempo com pessoas que amo"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL",
+      "text": "Você já sentiu a 'aura' ou a energia de um lugar assim que entrou nele?",
+      "options": [
+        "Sim, sou muito sensível a ambientes",
+        "Às vezes, tenho uma sensação estranha",
+        "Não, não percebo nada assim"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL",
+      "text": "Qual dos seguintes sons te traz mais paz interior?",
+      "options": [
+        "O som da chuva ou do mar",
+        "Música calma e instrumental",
+        "O silêncio absoluto",
+        "O canto dos pássaros ou o som da floresta"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL",
+      "text": "Seu corpo costuma dar sinais sobre seu estado emocional ou energético antes mesmo de você perceber?",
+      "options": [
+        "Sim, sinto no corpo antes de entender na mente",
+        "Às vezes, percebo alguma tensão ou cansaço",
+        "Não, só percebo quando a emoção já está clara"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌙 SONHOS E MENSAGENS",
+      "text": "Você costuma se lembrar dos seus sonhos com clareza?",
+      "options": [
+        "Sim, detalhadamente e quase toda noite",
+        "Às vezes, lembro de alguns fragmentos",
+        "Raramente ou nunca me lembro dos sonhos"
+      ]
+    },
+    {
+      "title": "🌙 SONHOS E MENSAGENS",
+      "text": "Você acredita que sonhos podem ser mensagens ou avisos?",
+      "options": [
+        "Sim, eles trazem insights importantes",
+        "Talvez, mas não tenho certeza como interpretá-los",
+        "Não, são apenas reflexos do dia a dia"
+      ]
+    },
+    {
+      "title": "🌙 SONHOS E MENSAGENS",
+      "text": "Já sonhou com pessoas ou situações que depois se concretizaram?",
+      "options": [
+        "Sim, e foi impressionante",
+        "Tive algumas coincidências, mas nada claro",
+        "Não, nunca tive sonhos proféticos"
+      ]
+    },
+    {
+      "title": "🌙 SONHOS E MENSAGENS",
+      "text": "Qual animal aparece com mais frequência nos seus sonhos ou te chama atenção na vida real?",
+      "options": [
+        "Coruja (sabedoria, mistério)",
+        "Serpente (transformação, cura)",
+        "Leão (força, liderança)",
+        "Borboleta (mudança, alma)"
+      ]
+    },
+    {
+      "title": "🌙 SONHOS E MENSAGENS",
+      "text": "Você costuma buscar o significado dos seus sonhos?",
+      "options": [
+        "Sim, uso livros ou a internet para interpretá-los",
+        "Às vezes, se o sonho for muito vívido",
+        "Não, não me interesso por isso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌱 CRESCIMENTO ESPIRITUAL",
+      "text": "Qual prática você utiliza para se conectar com seu lado espiritual?",
+      "options": [
+        "Meditação ou yoga",
+        "Reza ou oração",
+        "Caminhada na natureza",
+        "Estudo de filosofias ou religiões"
+      ]
+    },
+    {
+      "title": "🌱 CRESCIMENTO ESPIRITUAL",
+      "text": "Você se considera uma pessoa mais espiritual ou mais religiosa?",
+      "options": [
+        "Mais espiritual, valorizo a conexão interna",
+        "Mais religiosa, sigo doutrinas e rituais",
+        "Ambos, busco o melhor de cada um",
+        "Nenhum dos dois"
+      ]
+    },
+    {
+      "title": "🌱 CRESCIMENTO ESPIRITUAL",
+      "text": "Qual a sua visão sobre a vida após a morte?",
+      "options": [
+        "Acredito em reencarnação ou outra forma de continuidade",
+        "Não tenho certeza, mas tenho fé",
+        "Não acredito em nada depois da morte física"
+      ]
+    },
+    {
+      "title": "🌱 CRESCIMENTO ESPIRITUAL",
+      "text": "Você busca conhecimento em áreas como astrologia, numerologia ou tarot?",
+      "options": [
+        "Sim, leio e estudo sobre o assunto",
+        "Tenho curiosidade, mas não me aprofundo",
+        "Não, não me interesso"
+      ]
+    },
+    {
+      "title": "🌱 CRESCIMENTO ESPIRITUAL",
+      "text": "Em momentos de crise, o que te dá mais força e esperança?",
+      "options": [
+        "Minha fé ou espiritualidade",
+        "O apoio de amigos e família",
+        "Minha própria resiliência e força interna",
+        "Ajudar outras pessoas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "💖 RELACIONAMENTOS CÁRMICOS",
+      "text": "Você acredita em 'almas gêmeas' ou 'conexões de alma' que transcende o tempo?",
+      "options": [
+        "Sim, sinto que já vivi isso",
+        "Acredito em conexões profundas, mas não em destino pré-definido",
+        "Não, para mim é tudo sobre química e compatibilidade"
+      ]
+    },
+    {
+      "title": "💖 RELACIONAMENTOS CÁRMICOS",
+      "text": "Já teve a sensação de 'já conhecer' alguém que acabou de encontrar?",
+      "options": [
+        "Sim, como se a alma reconhecesse",
+        "Às vezes, uma afinidade muito rápida",
+        "Não, cada pessoa é uma nova descoberta"
+      ]
+    },
+    {
+      "title": "💖 RELACIONAMENTOS CÁRMICOS",
+      "text": "Em um relacionamento que te trouxe muito sofrimento, você consegue ver algum aprendizado espiritual?",
+      "options": [
+        "Sim, foi uma lição cármica importante",
+        "Com o tempo, consigo ver o lado positivo",
+        "Não, só vejo dor e perdas"
+      ]
+    },
+    {
+      "title": "💖 RELACIONAMENTOS CÁRMICOS",
+      "text": "Você sente que certas pessoas 'voltam' à sua vida em diferentes ciclos?",
+      "options": [
+        "Sim, é impressionante como a vida as traz de volta",
+        "Às vezes, é uma coincidência",
+        "Não, meus ciclos são bem definidos"
+      ]
+    },
+    {
+      "title": "💖 RELACIONAMENTOS CÁRMICOS",
+      "text": "Qual é o papel do perdão em seus relacionamentos (passados e presentes)?",
+      "options": [
+        "Essencial para a cura e libertação",
+        "Importante, mas difícil de praticar",
+        "Não é sempre necessário, depende da situação"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 ORÁCULOS E SINAIS",
+      "text": "Você já consultou um oráculo (tarot, runas, búzios) alguma vez?",
+      "options": [
+        "Sim, e foi revelador",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E SINAIS",
+      "text": "Quando você está em dúvida, o que você busca para ter clareza?",
+      "options": [
+        "Sinais do universo ou consulta a oráculos",
+        "Conselhos de pessoas de confiança",
+        "Pesquisa e análise racional",
+        "Meditação e introspecção"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E SINAIS",
+      "text": "Você costuma encontrar penas, moedas ou outros objetos de forma inesperada que parecem 'sinais'?",
+      "options": [
+        "Sim, frequentemente, e busco o significado",
+        "Às vezes, mas acho que é coincidência",
+        "Não, nunca reparei"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E SINAIS",
+      "text": "Qual tipo de animal você associa mais a mensagens ou presságios?",
+      "options": [
+        "Pássaros (liberdade, comunicação)",
+        "Gatos (intuição, mistério)",
+        "Cachorros (lealdade, proteção)",
+        "Insetos (transformação, persistência)"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E SINAIS",
+      "text": "Você já teve uma leitura de mão ou de mapa astral?",
+      "options": [
+        "Sim, e me identifico muito",
+        "Tenho vontade, mas nunca fiz",
+        "Não, não me interesso por essas práticas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 UNIVERSO E PROPÓSITO",
+      "text": "Você acredita que existe um propósito maior para sua vida?",
+      "options": [
+        "Sim, estou em busca de descobri-lo ou já o encontrei",
+        "Não tenho certeza, vivo um dia de cada vez",
+        "Não, acredito que cada um cria seu próprio propósito"
+      ]
+    },
+    {
+      "title": "🌌 UNIVERSO E PROPÓSITO",
+      "text": "Qual sua maior aspiração para o futuro?",
+      "options": [
+        "Ajudar o maior número de pessoas possível",
+        "Alcançar sucesso profissional e estabilidade",
+        "Encontrar paz interior e felicidade",
+        "Conhecer o mundo e ter muitas experiências"
+      ]
+    },
+    {
+      "title": "🌌 UNIVERSO E PROPÓSITO",
+      "text": "Você se sente mais conectado(a) com a vastidão do universo ou com a energia do planeta Terra?",
+      "options": [
+        "Com a vastidão do universo, o cosmos me inspira",
+        "Com a energia da Terra, sinto-me enraizado(a)",
+        "Com ambos, sinto a conexão com tudo"
+      ]
+    },
+    {
+      "title": "🌌 UNIVERSO E PROPÓSITO",
+      "text": "Quando você olha para as estrelas à noite, qual sentimento predomina?",
+      "options": [
+        "Maravilhamento e senso de mistério",
+        "Insignificância e solidão",
+        "Inspiração para sonhar grande",
+        "Paz e conexão"
+      ]
+    },
+    {
+      "title": "🌌 UNIVERSO E PROPÓSITO",
+      "text": "Você acredita que somos todos parte de uma mesma energia ou consciência universal?",
+      "options": [
+        "Sim, somos todos um",
+        "É uma ideia bonita, mas não tenho certeza",
+        "Não, somos indivíduos separados"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🛡️ PROTEÇÃO ENERGÉTICA",
+      "text": "Você já se sentiu 'pesado(a)' ou 'carregado(a)' em certos ambientes ou perto de certas pessoas?",
+      "options": [
+        "Sim, e sei que é energia negativa",
+        "Às vezes me sinto cansado(a), mas não ligo à energia",
+        "Não, não percebo isso"
+      ]
+    },
+    {
+      "title": "🛡️ PROTEÇÃO ENERGÉTICA",
+      "text": "Qual a sua primeira reação ao sentir um ambiente com energia densa?",
+      "options": [
+        "Busco me proteger ou me afastar",
+        "Tento ignorar e focar no positivo",
+        "Não percebo a energia do ambiente"
+      ]
+    },
+    {
+      "title": "🛡️ PROTEÇÃO ENERGÉTICA",
+      "text": "Você usa amuletos, talismãs ou símbolos de proteção?",
+      "options": [
+        "Sim, e sinto-me mais seguro(a)",
+        "Tenho alguns, mas não uso sempre",
+        "Não, não acredito neles"
+      ]
+    },
+    {
+      "title": "🛡️ PROTEÇÃO ENERGÉTICA",
+      "text": "Qual elemento você usa para 'limpar' a energia de um ambiente?",
+      "options": [
+        "Sal grosso ou incensos",
+        "Água corrente ou vento",
+        "Música ou sons vibracionais",
+        "Não uso nada, não faço limpezas"
+      ]
+    },
+    {
+      "title": "🛡️ PROTEÇÃO ENERGÉTICA",
+      "text": "Você se sente mais vulnerável a energias externas quando está emocionalmente fragilizado(a)?",
+      "options": [
+        "Sim, sou como uma esponja",
+        "Em parte, mas consigo me manter firme",
+        "Não, minhas emoções não afetam minha proteção"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🧘 MEDITAÇÃO E CONEXÃO",
+      "text": "Com qual frequência você pratica meditação ou momentos de introspecção?",
+      "options": [
+        "Diariamente ou quase diariamente",
+        "Algumas vezes por semana",
+        "Raramente ou nunca"
+      ]
+    },
+    {
+      "title": "🧘 MEDITAÇÃO E CONEXÃO",
+      "text": "Qual é o seu maior desafio ao tentar meditar ou se concentrar?",
+      "options": [
+        "Manter a mente focada, muitos pensamentos",
+        "Encontrar tempo e um lugar tranquilo",
+        "Sentir-se desconfortável ou entediado(a)"
+      ]
+    },
+    {
+      "title": "🧘 MEDITAÇÃO E CONEXÃO",
+      "text": "Você acredita que a meditação pode trazer insights ou mensagens?",
+      "options": [
+        "Sim, é uma fonte de sabedoria",
+        "Talvez, sinto uma calma mental",
+        "Não, é só relaxamento"
+      ]
+    },
+    {
+      "title": "🧘 MEDITAÇÃO E CONEXÃO",
+      "text": "Qual ambiente é o ideal para você se desconectar e relaxar profundamente?",
+      "options": [
+        "Um lugar na natureza (floresta, praia)",
+        "Em casa, em um canto tranquilo",
+        "Um spa ou local de bem-estar",
+        "Não preciso de um lugar específico, me adapto"
+      ]
+    },
+    {
+      "title": "🧘 MEDITAÇÃO E CONEXÃO",
+      "text": "Você se sente mais conectado(a) com sua intuição durante o dia ou à noite?",
+      "options": [
+        "Durante o dia, quando estou ativo(a)",
+        "À noite, antes de dormir ou ao acordar",
+        "Não há um horário específico, depende do meu estado"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🍃 AÇÃO E MANIFESTAÇÃO",
+      "text": "Quando você visualiza algo que deseja, costuma se concretizar?",
+      "options": [
+        "Sim, a Lei da Atração funciona pra mim",
+        "Às vezes, com muito foco e esforço",
+        "Não, é mais sobre sorte e oportunidade"
+      ]
+    },
+    {
+      "title": "🍃 AÇÃO E MANIFESTAÇÃO",
+      "text": "Qual o seu maior desafio ao tentar manifestar seus desejos?",
+      "options": [
+        "Manter a fé e a positividade",
+        "Definir claramente o que eu quero",
+        "Agir e dar os passos necessários",
+        "Lidar com a impaciência"
+      ]
+    },
+    {
+      "title": "🍃 AÇÃO E MANIFESTAÇÃO",
+      "text": "Você costuma criar 'quadros de visão' ou listas de metas visíveis?",
+      "options": [
+        "Sim, para focar minhas intenções",
+        "Tenho metas na mente, mas não visualizo assim",
+        "Não, prefiro viver o presente"
+      ]
+    },
+    {
+      "title": "🍃 AÇÃO E MANIFESTAÇÃO",
+      "text": "Qual a sua maior dificuldade em manter a disciplina para alcançar seus objetivos?",
+      "options": [
+        "Começar e dar o primeiro passo",
+        "Manter a consistência a longo prazo",
+        "Superar obstáculos e desmotivação",
+        "Não me cobro tanto, aceito o fluxo"
+      ]
+    },
+    {
+      "title": "🍃 AÇÃO E MANIFESTAÇÃO",
+      "text": "Você acredita que pedir ajuda ao universo ou a forças superiores é importante para a manifestação?",
+      "options": [
+        "Sim, a cocriação é fundamental",
+        "Ajuda, mas a ação é mais importante",
+        "Não, é tudo sobre meu próprio esforço"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "💎 SABEDORIA INTERIOR",
+      "text": "Qual o seu maior presente ou talento que você reconhece em si?",
+      "options": [
+        "Minha intuição aguçada",
+        "Minha capacidade de comunicação",
+        "Minha força e resiliência",
+        "Minha criatividade e imaginação"
+      ]
+    },
+    {
+      "title": "💎 SABEDORIA INTERIOR",
+      "text": "Você se sente mais confortável em expressar suas emoções ou em mantê-las guardadas?",
+      "options": [
+        "Expressar, sou transparente",
+        "Depende da situação e da pessoa",
+        "Manter guardadas, sou mais reservado(a)"
+      ]
+    },
+    {
+      "title": "💎 SABEDORIA INTERIOR",
+      "text": "Qual a sua maior sabedoria vinda de experiências passadas?",
+      "options": [
+        "Que tudo passa e a vida continua",
+        "Que o autoconhecimento é a chave",
+        "Que a felicidade está nas pequenas coisas",
+        "Que devemos confiar no processo da vida"
+      ]
+    },
+    {
+      "title": "💎 SABEDORIA INTERIOR",
+      "text": "Quando você precisa de um conselho, para quem você se volta primeiro?",
+      "options": [
+        "Minha própria voz interior e intuição",
+        "Amigos próximos ou familiares",
+        "Especialistas ou mentores",
+        "Oráculos ou sinais do universo"
+      ]
+    },
+    {
+      "title": "💎 SABEDORIA INTERIOR",
+      "text": "Qual emoção você sente que precisa trabalhar mais em si para alcançar a paz interior?",
+      "options": [
+        "A raiva ou a frustração",
+        "A tristeza ou o desânimo",
+        "O medo ou a insegurança",
+        "A impaciência ou a ansiedade"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 LUZ E SOMBRA",
+      "text": "Você se sente mais atraído(a) pelos mistérios da luz ou pelos mistérios da sombra?",
+      "options": [
+        "Pela luz, busco a clareza e a positividade",
+        "Pela sombra, busco o que está oculto e profundo",
+        "Busco o equilíbrio entre os dois"
+      ]
+    },
+    {
+      "title": "🔮 LUZ E SOMBRA",
+      "text": "Qual a sua maior dificuldade em aceitar seus próprios 'defeitos' ou fraquezas?",
+      "options": [
+        "Achar que não sou bom(boa) o suficiente",
+        "Medo de ser julgado(a)",
+        "Acreditar que não posso mudar",
+        "Não vejo meus 'defeitos' como algo negativo"
+      ]
+    },
+    {
+      "title": "🔮 LUZ E SOMBRA",
+      "text": "Você acredita que a vida é um constante aprendizado entre o bem e o mal?",
+      "options": [
+        "Sim, é uma dualidade para a evolução",
+        "Acredito mais no bem, mas o mal existe",
+        "Não, prefiro focar apenas no positivo"
+      ]
+    },
+    {
+      "title": "🔮 LUZ E SOMBRA",
+      "text": "Em momentos de introspecção, você prefere focar em suas qualidades ou nos pontos a melhorar?",
+      "options": [
+        "Focar nas qualidades para fortalecer o ego",
+        "Focar nos pontos a melhorar para evoluir",
+        "Focar no equilíbrio e aceitação de ambos"
+      ]
+    },
+    {
+      "title": "🔮 LUZ E SOMBRA",
+      "text": "Qual o seu maior desafio em perdoar alguém que te magoou profundamente?",
+      "options": [
+        "Libertar a raiva e o ressentimento",
+        "Confiar novamente na pessoa",
+        "Entender as motivações do outro",
+        "Perdoar a si mesmo(a) por ter permitido"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 VIBRAÇÃO E CURA",
+      "text": "Qual a sua percepção sobre a energia dos alimentos que você ingere?",
+      "options": [
+        "Busco alimentos que vibrem alto e me energizem",
+        "Penso na nutrição, mas não na energia",
+        "Não me preocupo com a energia dos alimentos"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO E CURA",
+      "text": "Você acredita que a sua intenção pode influenciar a energia de objetos ou ambientes?",
+      "options": [
+        "Sim, a intenção tem poder criador",
+        "Talvez, é uma possibilidade",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO E CURA",
+      "text": "Qual tipo de contato físico te traz mais conforto e cura?",
+      "options": [
+        "Um abraço apertado e demorado",
+        "Um toque suave nas mãos ou ombros",
+        "Massagem relaxante ou terapêutica",
+        "Apenas a presença, sem contato físico"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO E CURA",
+      "text": "Você já utilizou alguma terapia energética (Reiki, acupuntura, florais) e sentiu benefícios?",
+      "options": [
+        "Sim, e acredito no poder da cura energética",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, prefiro abordagens mais tradicionais"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO E CURA",
+      "text": "Qual das seguintes frases mais ressoa com você?",
+      "options": [
+        "Eu sou a energia que eu atraio.",
+        "A saúde começa na mente.",
+        "Tudo o que preciso está dentro de mim.",
+        "A gratidão abre portas para a cura."
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ESPELHO INTERIOR",
+      "text": "Qual qualidade em outras pessoas você mais admira e gostaria de ter mais em si?",
+      "options": [
+        "A coragem para seguir os sonhos",
+        "A calma e paciência diante de desafios",
+        "A capacidade de perdoar e amar incondicionalmente",
+        "A criatividade e originalidade"
+      ]
+    },
+    {
+      "title": "✨ ESPELHO INTERIOR",
+      "text": "Você se considera uma pessoa que reflete mais a luz ou a sombra dos outros?",
+      "options": [
+        "A luz, sempre busco o positivo",
+        "A sombra, me conecto com as dores e desafios",
+        "Ambos, sou um espelho da dualidade"
+      ]
+    },
+    {
+      "title": "✨ ESPELHO INTERIOR",
+      "text": "Qual a sua maior dificuldade em receber elogios ou reconhecimento?",
+      "options": [
+        "Acreditar que mereço",
+        "Sentir-me desconfortável com a atenção",
+        "Não dar importância à opinião alheia",
+        "Preferir que meu trabalho fale por si"
+      ]
+    },
+    {
+      "title": "✨ ESPELHO INTERIOR",
+      "text": "Quando você se sente frustrado(a) consigo mesmo(a), qual é a sua primeira reação?",
+      "options": [
+        "Busco entender a causa e aprender com o erro",
+        "Me culpo e fico remoendo",
+        "Distraio-me com outras coisas para não pensar",
+        "Busco apoio e conselhos de amigos"
+      ]
+    },
+    {
+      "title": "✨ ESPELHO INTERIOR",
+      "text": "Você acredita que as pessoas que entram na sua vida são 'espelhos' para o seu próprio crescimento?",
+      "options": [
+        "Sim, cada um traz uma lição",
+        "É uma perspectiva interessante, mas não me apego",
+        "Não, cada um vive sua própria jornada"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌀 CICLOS DA VIDA",
+      "text": "Qual fase da vida você se sente mais pleno(a) ou realizado(a)?",
+      "options": [
+        "Minha infância, pela inocência e alegria",
+        "Minha juventude, pela energia e descobertas",
+        "Minha fase adulta, pela responsabilidade e conquistas",
+        "Minha fase atual, vivendo o presente"
+      ]
+    },
+    {
+      "title": "🌀 CICLOS DA VIDA",
+      "text": "Você se sente mais confortável em iniciar novos ciclos ou em finalizar os antigos?",
+      "options": [
+        "Iniciar, sou movido(a) por novidades",
+        "Finalizar, valorizo o fechamento de ciclos",
+        "Ambos são necessários para o crescimento"
+      ]
+    },
+    {
+      "title": "🌀 CICLOS DA VIDA",
+      "text": "Qual estação do ano mais te inspira ou te traz uma energia diferente?",
+      "options": [
+        "Primavera (renovação, florescimento)",
+        "Verão (energia, expansão)",
+        "Outono (transformação, desapego)",
+        "Inverno (introspecção, renovação interna)"
+      ]
+    },
+    {
+      "title": "🌀 CICLOS DA VIDA",
+      "text": "Você acredita que a vida é feita de ciclos de aprendizado e evolução?",
+      "options": [
+        "Sim, é uma jornada contínua",
+        "Talvez, vejo padrões, mas não tenho certeza",
+        "Não, a vida é mais linear para mim"
+      ]
+    },
+    {
+      "title": "🌀 CICLOS DA VIDA",
+      "text": "Qual a sua maior dificuldade em deixar ir o que não te serve mais?",
+      "options": [
+        "O apego emocional a pessoas ou coisas",
+        "O medo do novo e do desconhecido",
+        "A dificuldade em aceitar mudanças",
+        "Não vejo a necessidade de deixar ir"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "👁️ DESPERTAR DA CONSCIÊNCIA",
+      "text": "Você se sente mais conectado(a) com sua alma ou com seu ego?",
+      "options": [
+        "Com minha alma, busco a verdade interior",
+        "Com meu ego, busco o sucesso e reconhecimento",
+        "Busco equilibrar os dois"
+      ]
+    },
+    {
+      "title": "👁️ DESPERTAR DA CONSCIÊNCIA",
+      "text": "Qual a sua maior descoberta recente sobre si mesmo(a)?",
+      "options": [
+        "Minha força interior para superar desafios",
+        "A importância de me amar primeiro",
+        "Que sou mais capaz do que imaginava",
+        "Que a felicidade está nas coisas simples"
+      ]
+    },
+    {
+      "title": "👁️ DESPERTAR DA CONSCIÊNCIA",
+      "text": "Você busca conhecimento em livros, documentários ou cursos sobre espiritualidade e autoconhecimento?",
+      "options": [
+        "Sim, sou um(a) eterno(a) aprendiz",
+        "Às vezes, quando algo me chama atenção",
+        "Não, prefiro aprender com a vida"
+      ]
+    },
+    {
+      "title": "👁️ DESPERTAR DA CONSCIÊNCIA",
+      "text": "Qual a sua visão sobre a importância de viver no presente?",
+      "options": [
+        "Essencial para a paz e plenitude",
+        "Importante, mas difícil de praticar sempre",
+        "Prefiro focar no futuro ou aprender com o passado"
+      ]
+    },
+    {
+      "title": "👁️ DESPERTAR DA CONSCIÊNCIA",
+      "text": "Você se sente mais grato(a) pelas grandes conquistas ou pelas pequenas bênçãos diárias?",
+      "options": [
+        "Pelas grandes conquistas, frutos do meu esforço",
+        "Pelas pequenas bênçãos diárias, que me dão alegria",
+        "Sou grato(a) por tudo na vida"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "💫 ALINHAMENTO COM O COSMOS",
+      "text": "Você sente uma conexão especial com o céu noturno e as estrelas?",
+      "options": [
+        "Sim, é inspirador e misterioso",
+        "Acho bonito, mas não sinto uma conexão profunda",
+        "Não, não me chama a atenção"
+      ]
+    },
+    {
+      "title": "💫 ALINHAMENTO COM O COSMOS",
+      "text": "Qual a sua percepção sobre a influência dos astros no seu dia a dia?",
+      "options": [
+        "Grande influência, sigo meu mapa astral",
+        "Uma leve influência, observo algumas tendências",
+        "Nenhuma influência, sou livre de astros"
+      ]
+    },
+    {
+      "title": "💫 ALINHAMENTO COM O COSMOS",
+      "text": "Você já sentiu que uma 'força maior' te guiou em alguma decisão importante?",
+      "options": [
+        "Sim, e foi uma experiência clara",
+        "Talvez, senti uma intuição forte, mas não sei se era uma força maior",
+        "Não, sempre segui minha própria razão"
+      ]
+    },
+    {
+      "title": "💫 ALINHAMENTO COM O COSMOS",
+      "text": "Qual elemento cósmico você mais se identifica?",
+      "options": [
+        "O Sol (vitalidade, consciência)",
+        "A Lua (intuição, emoções)",
+        "As Estrelas (sonhos, destino)",
+        "Os Planetas (karma, aprendizado)"
+      ]
+    },
+    {
+      "title": "💫 ALINHAMENTO COM O COSMOS",
+      "text": "Você acredita que o universo está sempre te enviando sinais e mensagens?",
+      "options": [
+        "Sim, estou sempre atento(a) a eles",
+        "Acredito que sim, mas nem sempre percebo",
+        "Não, o universo é indiferente"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 PODER DAS ERVAS E RITUAIS",
+      "text": "Você utiliza ervas, óleos essenciais ou incensos para harmonizar seu ambiente?",
+      "options": [
+        "Sim, é parte da minha rotina de bem-estar",
+        "Às vezes, quando me sinto pesado(a)",
+        "Não, não tenho o hábito"
+      ]
+    },
+    {
+      "title": "🌿 PODER DAS ERVAS E RITUAIS",
+      "text": "Qual aroma de incenso mais te agrada e te traz uma sensação específica?",
+      "options": [
+        "Sândalo (meditação, espiritualidade)",
+        "Arruda (proteção, limpeza)",
+        "Alecrim (energia, clareza)",
+        "Lavanda (calma, relaxamento)"
+      ]
+    },
+    {
+      "title": "🌿 PODER DAS ERVAS E RITUAIS",
+      "text": "Você já fez algum tipo de banho energético com ervas ou sal grosso?",
+      "options": [
+        "Sim, e sinto-me renovado(a)",
+        "Tenho vontade, mas nunca fiz",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 PODER DAS ERVAS E RITUAIS",
+      "text": "Qual a sua maior dificuldade em manter um ritual diário ou semanal?",
+      "options": [
+        "Falta de tempo",
+        "Falta de disciplina ou motivação",
+        "Dúvida se realmente funciona",
+        "Não vejo a necessidade"
+      ]
+    },
+    {
+      "title": "🌿 PODER DAS ERVAS E RITUAIS",
+      "text": "Você acredita que a energia de objetos pode ser 'limpa' ou 'carregada' através de rituais?",
+      "options": [
+        "Sim, totalmente",
+        "Talvez, mas não tenho certeza",
+        "Não, isso não é possível"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "💖 CURA INTERIOR",
+      "text": "Qual a sua maior dificuldade em perdoar a si mesmo(a) por erros passados?",
+      "options": [
+        "O sentimento de culpa",
+        "O perfeccionismo e a autocobrança",
+        "A dificuldade em aceitar as próprias falhas",
+        "Não me sinto em paz com o que aconteceu"
+      ]
+    },
+    {
+      "title": "💖 CURA INTERIOR",
+      "text": "Qual emoção você sente que mais te bloqueia no momento?",
+      "options": [
+        "O medo de arriscar",
+        "A ansiedade pelo futuro",
+        "A raiva por injustiças",
+        "A tristeza por perdas"
+      ]
+    },
+    {
+      "title": "💖 CURA INTERIOR",
+      "text": "Você busca ajuda profissional ou terapias para lidar com questões emocionais?",
+      "options": [
+        "Sim, e vejo grandes resultados",
+        "Tenho vontade, mas ainda não busquei",
+        "Não, prefiro lidar sozinho(a)"
+      ]
+    },
+    {
+      "title": "💖 CURA INTERIOR",
+      "text": "Qual prática te ajuda mais a liberar emoções reprimidas?",
+      "options": [
+        "Escrever em um diário",
+        "Chorar e expressar a dor",
+        "Conversar com alguém de confiança",
+        "Praticar uma atividade física intensa"
+      ]
+    },
+    {
+      "title": "💖 CURA INTERIOR",
+      "text": "Você acredita que o corpo físico reflete o estado da sua saúde emocional e espiritual?",
+      "options": [
+        "Sim, mente e corpo estão conectados",
+        "Em parte, alguns problemas são físicos",
+        "Não, são coisas separadas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌟 ESPIRITUALIDADE NO DIA A DIA",
+      "text": "Você encontra beleza e significado em coisas simples do cotidiano?",
+      "options": [
+        "Sim, sou atento(a) aos detalhes",
+        "Às vezes, na correria do dia a dia é difícil",
+        "Não, sou mais focado(a) em metas maiores"
+      ]
+    },
+    {
+      "title": "🌟 ESPIRITUALIDADE NO DIA A DIA",
+      "text": "Qual o seu maior desafio em manter a calma em situações de estresse?",
+      "options": [
+        "Reagir impulsivamente",
+        "Deixar-se levar pela ansiedade",
+        "Manter a perspectiva e o foco",
+        "Não consigo evitar o estresse"
+      ]
+    },
+    {
+      "title": "🌟 ESPIRITUALIDADE NO DIA A DIA",
+      "text": "Você se considera uma pessoa mais otimista ou mais realista (pé no chão)?",
+      "options": [
+        "Otimista, sempre vejo o lado bom",
+        "Realista, avalio a situação como ela é",
+        "Busco ser otimista com um toque de realismo"
+      ]
+    },
+    {
+      "title": "🌟 ESPIRITUALIDADE NO DIA A DIA",
+      "text": "Qual a sua forma favorita de expressar gratidão?",
+      "options": [
+        "Agradecer em oração ou meditação",
+        "Expressar em palavras para as pessoas",
+        "Retribuir com atos de bondade",
+        "Manter um diário de gratidão"
+      ]
+    },
+    {
+      "title": "🌟 ESPIRITUALIDADE NO DIA A DIA",
+      "text": "Você sente que sua energia flutua muito ao longo do dia ou é mais estável?",
+      "options": [
+        "Flutua, tenho altos e baixos",
+        "É estável, consigo manter meu humor",
+        "Flutua, mas consigo reverter rapidamente"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 INTUIÇÃO E PRESSENTIMENTOS",
+      "text": "Qual a sua maior dificuldade em confiar na sua intuição?",
+      "options": [
+        "O medo de errar",
+        "A dúvida se é intuição ou apenas desejo",
+        "A opinião alheia",
+        "Não consigo silenciar a mente para ouvi-la"
+      ]
+    },
+    {
+      "title": "🌿 INTUIÇÃO E PRESSENTIMENTOS",
+      "text": "Você já ignorou um pressentimento e se arrependeu depois?",
+      "options": [
+        "Sim, e aprendi a lição",
+        "Acho que sim, mas não tenho certeza",
+        "Não, sempre sigo minha razão"
+      ]
+    },
+    {
+      "title": "🌿 INTUIÇÃO E PRESSENTIMENTOS",
+      "text": "Qual dos seus sentidos você sente que é mais apurado para captar informações intuitivas?",
+      "options": [
+        "Visão (imagens, sonhos, flashes)",
+        "Audição (vozes internas, músicas)",
+        "Olfato (cheiros, aromas)",
+        "Tato (sensações no corpo)"
+      ]
+    },
+    {
+      "title": "🌿 INTUIÇÃO E PRESSENTIMENTOS",
+      "text": "Você costuma ter 'premonições' ou sentir que algo vai acontecer antes que aconteça?",
+      "options": [
+        "Sim, e são bem precisas",
+        "Às vezes, tenho flashes ou sentimentos",
+        "Não, nunca tive esse tipo de experiência"
+      ]
+    },
+    {
+      "title": "🌿 INTUIÇÃO E PRESSENTIMENTOS",
+      "text": "Qual o seu maior desejo para sua intuição?",
+      "options": [
+        "Que ela seja sempre clara e forte",
+        "Que eu consiga confiar mais nela",
+        "Que eu saiba como usá-la para ajudar outros",
+        "Apenas que ela esteja presente quando eu precisar"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA DOS RELACIONAMENTOS",
+      "text": "Você sente que a energia das pessoas ao seu redor influencia muito o seu humor?",
+      "options": [
+        "Sim, sou como uma esponja emocional",
+        "Em parte, consigo me proteger um pouco",
+        "Não, meu humor é mais independente"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS RELACIONAMENTOS",
+      "text": "Qual a sua maior dificuldade em estabelecer limites saudáveis em seus relacionamentos?",
+      "options": [
+        "Medo de magoar o outro",
+        "Dificuldade em dizer 'não'",
+        "Não saber como expressar meus limites",
+        "Não vejo a necessidade de limites"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS RELACIONAMENTOS",
+      "text": "Você acredita que os relacionamentos são espelhos para o nosso crescimento?",
+      "options": [
+        "Sim, eles nos mostram o que precisamos curar",
+        "É uma visão interessante, mas não me apego",
+        "Não, cada um tem sua própria jornada"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS RELACIONAMENTOS",
+      "text": "Qual é a base de um relacionamento duradouro e com boa energia para você?",
+      "options": [
+        "Respeito e liberdade",
+        "Amor e paixão intensos",
+        "Comunicação e honestidade",
+        "Valores e propósitos alinhados"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS RELACIONAMENTOS",
+      "text": "Você se sente mais confortável em dar ou receber em um relacionamento?",
+      "options": [
+        "Dar, sinto prazer em nutrir o outro",
+        "Receber, gosto de me sentir cuidado(a)",
+        "Busco o equilíbrio, é uma troca"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 CAMINHOS DA ABUNDÂNCIA",
+      "text": "Qual é o seu maior bloqueio em relação à abundância e prosperidade?",
+      "options": [
+        "Crenças limitantes sobre dinheiro",
+        "Medo do sucesso ou do fracasso",
+        "Falta de disciplina e planejamento",
+        "Não me sinto merecedor(a)"
+      ]
+    },
+    {
+      "title": "🔮 CAMINHOS DA ABUNDÂNCIA",
+      "text": "Você acredita que a gratidão é uma chave para atrair mais abundância?",
+      "options": [
+        "Sim, a gratidão eleva a vibração",
+        "Ajuda, mas não é o único fator",
+        "Não, é mais sobre ação e oportunidade"
+      ]
+    },
+    {
+      "title": "🔮 CAMINHOS DA ABUNDÂNCIA",
+      "text": "Qual a sua maior dificuldade em gerenciar suas finanças de forma consciente?",
+      "options": [
+        "Controlar gastos supérfluos",
+        "Priorizar investimentos a longo prazo",
+        "Não saber como organizar o orçamento",
+        "Sentir-se sobrecarregado(a) com as finanças"
+      ]
+    },
+    {
+      "title": "🔮 CAMINHOS DA ABUNDÂNCIA",
+      "text": "Você se sente mais confortável em falar sobre dinheiro ou sobre emoções?",
+      "options": [
+        "Dinheiro, é um assunto mais objetivo",
+        "Emoções, é um assunto mais profundo",
+        "Nenhum dos dois, sou reservado(a)"
+      ]
+    },
+    {
+      "title": "🔮 CAMINHOS DA ABUNDÂNCIA",
+      "text": "Qual é a sua visão sobre o propósito do trabalho em sua vida?",
+      "options": [
+        "Uma fonte de realização pessoal e impacto",
+        "Uma forma de sustento e segurança",
+        "Um meio para alcançar outros objetivos",
+        "Um caminho para o crescimento espiritual"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 O PODER DA INTENÇÃO",
+      "text": "Você acredita que seus pensamentos e intenções podem moldar sua realidade?",
+      "options": [
+        "Sim, totalmente, a mente é poderosa",
+        "Em parte, mas a ação é essencial",
+        "Não, a realidade é o que é, não o que eu penso"
+      ]
+    },
+    {
+      "title": "🌌 O PODER DA INTENÇÃO",
+      "text": "Quando você se sente mais poderoso(a) para manifestar seus desejos?",
+      "options": [
+        "Quando estou em um estado de gratidão e positividade",
+        "Quando estou focado(a) e trabalhando duro",
+        "Quando recebo apoio e encorajamento de outros",
+        "Não me sinto poderoso(a) para manifestar"
+      ]
+    },
+    {
+      "title": "🌌 O PODER DA INTENÇÃO",
+      "text": "Qual a sua maior dificuldade em manter um pensamento positivo diante de adversidades?",
+      "options": [
+        "O pessimismo natural",
+        "As circunstâncias externas que me desmotivam",
+        "A falta de fé no futuro",
+        "Achar que é bobagem ser positivo(a)"
+      ]
+    },
+    {
+      "title": "🌌 O PODER DA INTENÇÃO",
+      "text": "Você costuma usar afirmações positivas ou mantras em seu dia a dia?",
+      "options": [
+        "Sim, para elevar minha vibração",
+        "Às vezes, quando me lembro",
+        "Não, não tenho o hábito"
+      ]
+    },
+    {
+      "title": "🌌 O PODER DA INTENÇÃO",
+      "text": "Qual a sua visão sobre o 'livre arbítrio' e o 'destino'?",
+      "options": [
+        "Acredito mais no livre arbítrio, somos criadores",
+        "Acredito mais no destino, há um plano maior",
+        "Acredito que é uma dança entre os dois"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 VOZ INTERIOR",
+      "text": "Qual o seu maior desafio em ouvir e seguir a sua própria voz interior?",
+      "options": [
+        "O barulho do mundo exterior e das opiniões alheias",
+        "A dúvida se a voz é da intuição ou do medo",
+        "A falta de tempo para a introspecção",
+        "Não confio na minha própria voz"
+      ]
+    },
+    {
+      "title": "🌿 VOZ INTERIOR",
+      "text": "Você se sente mais conectado(a) com a sua essência em momentos de solidão ou em grupo?",
+      "options": [
+        "Solidão, para me reconectar",
+        "Grupo, para trocar e compartilhar",
+        "Ambos, em diferentes aspectos"
+      ]
+    },
+    {
+      "title": "🌿 VOZ INTERIOR",
+      "text": "Qual a sua forma favorita de expressar a sua verdade?",
+      "options": [
+        "Através da escrita ou da arte",
+        "Através da fala e do diálogo",
+        "Através das minhas ações e exemplos",
+        "Prefiro guardar para mim"
+      ]
+    },
+    {
+      "title": "🌿 VOZ INTERIOR",
+      "text": "Você já sentiu que está em um caminho que não é realmente o seu?",
+      "options": [
+        "Sim, e estou buscando a mudança",
+        "Talvez, tenho dúvidas sobre meu propósito",
+        "Não, sinto que estou no caminho certo"
+      ]
+    },
+    {
+      "title": "🌿 VOZ INTERIOR",
+      "text": "Qual a sua maior dificuldade em se expressar com autenticidade?",
+      "options": [
+        "Medo de não ser aceito(a)",
+        "Vergonha de ser quem realmente sou",
+        "Não saber como me comunicar de forma clara",
+        "Achar que não importa o que eu penso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ CURA ENERGÉTICA",
+      "text": "Você sente que certas músicas, cores ou aromas podem influenciar sua energia e humor?",
+      "options": [
+        "Sim, sou muito receptivo(a) a eles",
+        "Às vezes, dependendo do meu estado",
+        "Não, não vejo essa influência"
+      ]
+    },
+    {
+      "title": "✨ CURA ENERGÉTICA",
+      "text": "Qual a sua primeira reação ao sentir um bloqueio energético em si (cansaço inexplicável, dor)?",
+      "options": [
+        "Busco terapias ou práticas de cura energética",
+        "Tento descansar e me distrair",
+        "Ignoro e espero que passe sozinho(a)",
+        "Busco ajuda médica tradicional"
+      ]
+    },
+    {
+      "title": "✨ CURA ENERGÉTICA",
+      "text": "Você acredita no poder da auto-cura através da mente e da intenção?",
+      "options": [
+        "Sim, a mente tem um poder imenso",
+        "Em parte, mas o corpo também precisa de ajuda externa",
+        "Não, a cura é puramente física"
+      ]
+    },
+    {
+      "title": "✨ CURA ENERGÉTICA",
+      "text": "Qual elemento você associa mais à cura e purificação?",
+      "options": [
+        "Água (limpeza, fluidez)",
+        "Fogo (transmutação, renovação)",
+        "Ar (clareza, liberdade)",
+        "Terra (aterramento, estabilidade)"
+      ]
+    },
+    {
+      "title": "✨ CURA ENERGÉTICA",
+      "text": "Você já utilizou a visualização ou meditação guiada para fins de cura?",
+      "options": [
+        "Sim, e tive resultados positivos",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, não me interesso por essas práticas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 CONEXÃO ANCESTRAL",
+      "text": "Você sente uma conexão com seus ancestrais ou com a história da sua família?",
+      "options": [
+        "Sim, sinto o legado e a força deles",
+        "Tenho interesse na história, mas não uma conexão energética",
+        "Não, não me preocupo com o passado"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO ANCESTRAL",
+      "text": "Você já se perguntou se está repetindo padrões de seus antepassados?",
+      "options": [
+        "Sim, e busco quebrar esses padrões",
+        "Às vezes, noto algumas semelhanças",
+        "Não, sinto que sou único(a)"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO ANCESTRAL",
+      "text": "Qual a sua visão sobre a importância de honrar seus antepassados?",
+      "options": [
+        "Fundamental para o meu próprio equilíbrio",
+        "Importante, mas não me sinto obrigado(a)",
+        "Não vejo a necessidade"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO ANCESTRAL",
+      "text": "Você tem algum objeto, foto ou lembrança que te conecta à sua ancestralidade?",
+      "options": [
+        "Sim, e valorizo muito",
+        "Tenho, mas não penso muito sobre isso",
+        "Não, não tenho nada assim"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO ANCESTRAL",
+      "text": "Qual a sua maior dificuldade em lidar com o passado, seja o seu ou o da sua família?",
+      "options": [
+        "Mágoas e ressentimentos",
+        "Arrependimentos e culpas",
+        "A dificuldade em aceitar o que aconteceu",
+        "Não tenho dificuldades com o passado"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 MAGIA NO DIA A DIA",
+      "text": "Você acredita que a 'magia' está presente no cotidiano, nas pequenas coisas?",
+      "options": [
+        "Sim, a vida é cheia de magia",
+        "Talvez, em momentos especiais",
+        "Não, magia é algo de contos de fadas"
+      ]
+    },
+    {
+      "title": "🌌 MAGIA NO DIA A DIA",
+      "text": "Qual a sua maior dificuldade em ver o lado mágico ou positivo de situações difíceis?",
+      "options": [
+        "O pessimismo e o desânimo",
+        "A intensidade da dor ou do desafio",
+        "Não conseguir encontrar sentido em tudo",
+        "Achar que é ilusão"
+      ]
+    },
+    {
+      "title": "🌌 MAGIA NO DIA A DIA",
+      "text": "Você já teve a sensação de que o universo 'conspirou' a seu favor em algum momento?",
+      "options": [
+        "Sim, e foi incrível",
+        "Tive sorte, mas não sei se foi conspiração",
+        "Não, minhas conquistas são só fruto do meu esforço"
+      ]
+    },
+    {
+      "title": "🌌 MAGIA NO DIA A DIA",
+      "text": "Qual a sua forma favorita de trazer mais 'magia' para o seu dia?",
+      "options": [
+        "Praticar a gratidão",
+        "Conectar-me com a natureza",
+        "Praticar um hobby criativo",
+        "Ajudar alguém"
+      ]
+    },
+    {
+      "title": "🌌 MAGIA NO DIA A DIA",
+      "text": "Você acredita que os sonhos são portais para outras realidades ou dimensões?",
+      "options": [
+        "Sim, são viagens da alma",
+        "É uma ideia fascinante, mas não tenho certeza",
+        "Não, são apenas atividades cerebrais"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 RITUAL E DISCIPLINA",
+      "text": "Qual o seu maior desafio em criar e manter novos hábitos saudáveis (físicos ou mentais)?",
+      "options": [
+        "A falta de motivação inicial",
+        "A dificuldade em manter a consistência",
+        "O medo de falhar",
+        "Achar que não tenho tempo"
+      ]
+    },
+    {
+      "title": "🌿 RITUAL E DISCIPLINA",
+      "text": "Você se considera uma pessoa mais espontânea ou mais planejadora?",
+      "options": [
+        "Espontânea, gosto de viver o momento",
+        "Planejadora, prefiro ter tudo organizado",
+        "Busco um equilíbrio entre os dois"
+      ]
+    },
+    {
+      "title": "🌿 RITUAL E DISCIPLINA",
+      "text": "Qual a sua visão sobre a importância de rituais na vida (mesmo os mais simples)?",
+      "options": [
+        "Essenciais para criar rotina e significado",
+        "Úteis, mas não indispensáveis",
+        "Não vejo muita utilidade neles"
+      ]
+    },
+    {
+      "title": "🌿 RITUAL E DISCIPLINA",
+      "text": "Você se sente mais produtivo(a) em um ambiente organizado ou em um ambiente mais flexível?",
+      "options": [
+        "Organizado, para focar melhor",
+        "Flexível, para me sentir livre",
+        "Depende da tarefa e do meu humor"
+      ]
+    },
+    {
+      "title": "🌿 RITUAL E DISCIPLINA",
+      "text": "Qual a sua maior dificuldade em dizer 'não'?",
+      "options": [
+        "Medo de decepcionar ou ser visto como egoísta",
+        "Querer ajudar a todos",
+        "Não conseguir expressar meus limites",
+        "Achar que não importa o que eu quero"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA PESSOAL E ESPAÇO",
+      "text": "Você se sente mais revigorado(a) em ambientes abertos e amplos ou em lugares aconchegantes e pequenos?",
+      "options": [
+        "Abertos e amplos, para liberdade",
+        "Aconchegantes e pequenos, para segurança",
+        "Depende do meu humor e do propósito"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E ESPAÇO",
+      "text": "Qual a sua maior dificuldade em criar um espaço pessoal que reflita sua essência?",
+      "options": [
+        "Falta de tempo ou recursos",
+        "Não saber como expressar minha personalidade",
+        "A opinião de outras pessoas",
+        "Não ter um espaço próprio"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E ESPAÇO",
+      "text": "Você sente que a desorganização em seu ambiente pode afetar sua clareza mental?",
+      "options": [
+        "Sim, a bagunça me estressa",
+        "Às vezes, um pouco",
+        "Não, não me afeta"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E ESPAÇO",
+      "text": "Qual objeto em seu ambiente você considera que possui a energia mais positiva para você?",
+      "options": [
+        "Uma planta ou flor natural",
+        "Um cristal ou amuleto",
+        "Uma foto ou objeto de valor sentimental",
+        "Um livro ou objeto de conhecimento"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E ESPAÇO",
+      "text": "Você já rearranjou móveis ou objetos em seu ambiente para mudar a energia do local?",
+      "options": [
+        "Sim, e senti uma diferença",
+        "Tenho vontade, mas nunca fiz",
+        "Não, não acredito que isso funcione"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "💖 CONEXÃO COM O DIVINO",
+      "text": "Como você se conecta com o Divino ou com o que transcende o mundo material?",
+      "options": [
+        "Através da oração ou meditação",
+        "Através da natureza e seus elementos",
+        "Através da arte ou da música",
+        "Através do serviço ao próximo"
+      ]
+    },
+    {
+      "title": "💖 CONEXÃO COM O DIVINO",
+      "text": "Qual a sua maior dificuldade em manter a fé em momentos de crise?",
+      "options": [
+        "A dúvida e a falta de respostas",
+        "O sentimento de solidão",
+        "A dificuldade em aceitar o que acontece",
+        "Acreditar que tudo está perdido"
+      ]
+    },
+    {
+      "title": "💖 CONEXÃO COM O DIVINO",
+      "text": "Você acredita que todos temos uma 'centelha divina' dentro de nós?",
+      "options": [
+        "Sim, somos seres espirituais",
+        "É uma metáfora, mas não uma verdade literal",
+        "Não, somos apenas seres humanos"
+      ]
+    },
+    {
+      "title": "💖 CONEXÃO COM O DIVINO",
+      "text": "Qual a sua visão sobre o conceito de 'milagres'?",
+      "options": [
+        "Acredito que são intervenções divinas",
+        "São eventos raros e inexplicáveis",
+        "São resultados da sincronicidade do universo",
+        "Não acredito em milagres"
+      ]
+    },
+    {
+      "title": "💖 CONEXÃO COM O DIVINO",
+      "text": "Quando você se sente mais próximo(a) do Divino?",
+      "options": [
+        "Em momentos de profunda gratidão",
+        "Em momentos de desafio e superação",
+        "Em contato com a natureza",
+        "Em comunidade, com pessoas de fé"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 SINAIS DO CORPO",
+      "text": "Você já sentiu dores ou desconfortos físicos que pareciam estar ligados a emoções ou situações?",
+      "options": [
+        "Sim, meu corpo é um mapa emocional",
+        "Às vezes, percebo alguma ligação",
+        "Não, minhas dores são sempre físicas"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO CORPO",
+      "text": "Qual parte do seu corpo costuma ser a primeira a sentir o estresse ou a ansiedade?",
+      "options": [
+        "Pescoço e ombros",
+        "Estômago e intestino",
+        "Cabeça e têmporas",
+        "Mandíbula e dentes"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO CORPO",
+      "text": "Você busca compreender o significado emocional por trás de sintomas físicos recorrentes?",
+      "options": [
+        "Sim, para curar a raiz do problema",
+        "Tenho curiosidade, mas não me aprofundo",
+        "Não, só me preocupo com o tratamento físico"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO CORPO",
+      "text": "Qual a sua forma favorita de liberar tensões físicas e emocionais?",
+      "options": [
+        "Massagem ou alongamento",
+        "Meditação ou respiração consciente",
+        "Atividade física intensa",
+        "Chorar e expressar as emoções"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO CORPO",
+      "text": "Você acredita que a doença pode ser uma mensagem do corpo para a alma?",
+      "options": [
+        "Sim, é um sinal de desequilíbrio",
+        "Em parte, alguns problemas são multifatoriais",
+        "Não, doença é puramente física"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 SONHOS E ASTRAL",
+      "text": "Você já teve sonhos lúcidos (controlar o sonho) ou projeções astrais?",
+      "options": [
+        "Sim, e foi uma experiência incrível",
+        "Acho que já tive algo parecido, mas não tenho certeza",
+        "Não, nunca tive"
+      ]
+    },
+    {
+      "title": "🌌 SONHOS E ASTRAL",
+      "text": "Qual a sua maior dificuldade em ter sonhos vívidos ou lúcidos?",
+      "options": [
+        "Não me lembrar dos sonhos",
+        "Acordar no meio do sonho",
+        "Não conseguir controlar a mente",
+        "Não me interesso por sonhos"
+      ]
+    },
+    {
+      "title": "🌌 SONHOS E ASTRAL",
+      "text": "Você acredita que o sono é um momento de conexão com outras dimensões?",
+      "options": [
+        "Sim, é um portal",
+        "É uma ideia fascinante, mas não tenho certeza",
+        "Não, é apenas descanso"
+      ]
+    },
+    {
+      "title": "🌌 SONHOS E ASTRAL",
+      "text": "Qual das seguintes frases mais ressoa com sua experiência de sonhos?",
+      "options": [
+        "Meus sonhos são um guia para a vida.",
+        "Sonho com pessoas que preciso me reconectar.",
+        "Meus sonhos me ajudam a resolver problemas.",
+        "Não presto muita atenção aos meus sonhos."
+      ]
+    },
+    {
+      "title": "🌌 SONHOS E ASTRAL",
+      "text": "Você já teve sonhos recorrentes que parecem ter um significado profundo?",
+      "options": [
+        "Sim, e me deixam intrigado(a)",
+        "Às vezes, mas não busco o significado",
+        "Não, meus sonhos são aleatórios"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 PLANTAS E REMÉDIOS NATURAIS",
+      "text": "Você utiliza plantas medicinais ou chás para cuidar da sua saúde e bem-estar?",
+      "options": [
+        "Sim, acredito no poder da natureza",
+        "Às vezes, para algo específico",
+        "Não, prefiro remédios tradicionais"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS E REMÉDIOS NATURAIS",
+      "text": "Qual a sua maior dificuldade em adotar um estilo de vida mais natural?",
+      "options": [
+        "A falta de conhecimento sobre as plantas",
+        "A praticidade e a correria do dia a dia",
+        "Achar que não funciona",
+        "O custo das alternativas naturais"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS E REMÉDIOS NATURAIS",
+      "text": "Você já fez alguma receita caseira com plantas para fins de beleza ou saúde?",
+      "options": [
+        "Sim, e gostei dos resultados",
+        "Tenho vontade, mas nunca fiz",
+        "Não, prefiro produtos industrializados"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS E REMÉDIOS NATURAIS",
+      "text": "Qual a sua visão sobre o uso de alimentos como forma de 'curar' ou prevenir doenças?",
+      "options": [
+        "A alimentação é a base da saúde",
+        "Ajuda, mas não é a única solução",
+        "Não vejo essa ligação tão forte"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS E REMÉDIOS NATURAIS",
+      "text": "Você se sente mais conectado(a) à terra quando está em contato com plantas ou com a natureza selvagem?",
+      "options": [
+        "Com plantas e jardins, sinto-me cultivando",
+        "Com a natureza selvagem, sinto a força bruta",
+        "Com ambos, de diferentes formas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ SINCRONICIDADE E SINAIS",
+      "text": "Você costuma notar números repetidos (horas iguais, placas de carro) que parecem ter um significado?",
+      "options": [
+        "Sim, frequentemente, e busco interpretá-los",
+        "Às vezes, mas acho que é coincidência",
+        "Não, não reparo nisso"
+      ]
+    },
+    {
+      "title": "✨ SINCRONICIDADE E SINAIS",
+      "text": "Qual a sua maior dificuldade em 'ler' os sinais do universo?",
+      "options": [
+        "A dúvida se é um sinal real ou imaginação",
+        "Achar que é muito complexo de entender",
+        "Não estar atento(a) o suficiente",
+        "Não acredito em sinais"
+      ]
+    },
+    {
+      "title": "✨ SINCRONICIDADE E SINAIS",
+      "text": "Você já teve uma sequência de eventos que parecia 'perfeita' para te levar a um objetivo?",
+      "options": [
+        "Sim, o universo orquestrou tudo",
+        "Tive sorte, mas não sei se foi sincronicidade",
+        "Não, a vida é mais sobre esforço e planejamento"
+      ]
+    },
+    {
+      "title": "✨ SINCRONICIDADE E SINAIS",
+      "text": "Qual a sua reação ao encontrar uma pessoa que você estava pensando momentos antes?",
+      "options": [
+        "Uau, o universo está em sintonia!",
+        "Que coincidência!",
+        "Normal, acontece"
+      ]
+    },
+    {
+      "title": "✨ SINCRONICIDADE E SINAIS",
+      "text": "Você sente que certas músicas aparecem em momentos específicos e trazem mensagens?",
+      "options": [
+        "Sim, a letra parece falar comigo",
+        "Às vezes, mas acho que é aleatório",
+        "Não, é só música"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 LIMPEZA ENERGÉTICA",
+      "text": "Com qual frequência você sente a necessidade de fazer uma limpeza energética em sua casa?",
+      "options": [
+        "Mensalmente ou sempre que sinto a energia pesada",
+        "Algumas vezes por ano, se me lembro",
+        "Nunca, não vejo necessidade"
+      ]
+    },
+    {
+      "title": "🔮 LIMPEZA ENERGÉTICA",
+      "text": "Qual método de limpeza energética você se sente mais atraído(a)?",
+      "options": [
+        "Defumação com ervas (sálvia, arruda)",
+        "Sal grosso em cantos da casa",
+        "Música vibracional ou mantras",
+        "Não uso nenhum método"
+      ]
+    },
+    {
+      "title": "🔮 LIMPEZA ENERGÉTICA",
+      "text": "Você acredita que discussões ou ambientes com muita tensão podem 'sujar' a energia de um local?",
+      "options": [
+        "Sim, a energia fica densa",
+        "Talvez, sinto um clima estranho",
+        "Não, o ambiente físico não é afetado"
+      ]
+    },
+    {
+      "title": "🔮 LIMPEZA ENERGÉTICA",
+      "text": "Qual o seu maior desafio em manter uma energia positiva em seu ambiente?",
+      "options": [
+        "Pessoas negativas ao redor",
+        "O estresse do dia a dia",
+        "A dificuldade em me manter positivo(a)",
+        "Não me preocupo com isso"
+      ]
+    },
+    {
+      "title": "🔮 LIMPEZA ENERGÉTICA",
+      "text": "Você já utilizou a visualização para limpar e proteger sua energia pessoal?",
+      "options": [
+        "Sim, e sinto-me mais seguro(a)",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, não acredito que funcione"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 ENCONTROS DE ALMA",
+      "text": "Você acredita que pessoas entram em nossa vida por um motivo maior, por destino ou aprendizado?",
+      "options": [
+        "Sim, cada encontro tem um propósito",
+        "Alguns encontros são por acaso, outros têm propósito",
+        "Não, são apenas encontros sociais"
+      ]
+    },
+    {
+      "title": "🌌 ENCONTROS DE ALMA",
+      "text": "Qual a sua maior dificuldade em se abrir para novas conexões e amizades?",
+      "options": [
+        "Medo de se machucar ou ser decepcionado(a)",
+        "Achar que é difícil encontrar pessoas verdadeiras",
+        "A falta de tempo para se dedicar aos outros",
+        "Sou mais solitário(a)"
+      ]
+    },
+    {
+      "title": "🌌 ENCONTROS DE ALMA",
+      "text": "Você já teve uma 'conexão instantânea' com alguém que acabou de conhecer?",
+      "options": [
+        "Sim, como se a alma reconhecesse a outra",
+        "Acho que sim, uma afinidade muito rápida",
+        "Não, prefiro ir com calma nas relações"
+      ]
+    },
+    {
+      "title": "🌌 ENCONTROS DE ALMA",
+      "text": "Qual a sua visão sobre o amor à primeira vista?",
+      "options": [
+        "Acredito, é uma conexão de alma",
+        "É atração, mas o amor se constrói",
+        "Não acredito, é apenas uma ilusão"
+      ]
+    },
+    {
+      "title": "🌌 ENCONTROS DE ALMA",
+      "text": "Você acredita que os animais de estimação são 'companheiros de alma' e vêm para nos ensinar algo?",
+      "options": [
+        "Sim, são anjos em nossas vidas",
+        "São companheiros, mas não com um propósito místico",
+        "Não, são apenas animais"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 SONHOS RECORRENTES",
+      "text": "Você costuma ter sonhos recorrentes, que se repetem ou têm o mesmo tema?",
+      "options": [
+        "Sim, frequentemente, e busco o significado",
+        "Às vezes, mas não presto atenção",
+        "Não, meus sonhos são variados"
+      ]
+    },
+    {
+      "title": "🌿 SONHOS RECORRENTES",
+      "text": "Qual a sua maior dificuldade em interpretar seus sonhos?",
+      "options": [
+        "Não lembrar dos detalhes",
+        "Achar que não fazem sentido",
+        "Não ter ferramentas para interpretá-los",
+        "Não vejo necessidade de interpretar"
+      ]
+    },
+    {
+      "title": "🌿 SONHOS RECORRENTES",
+      "text": "Você já teve um sonho que te deu uma solução para um problema real?",
+      "options": [
+        "Sim, foi uma revelação",
+        "Talvez, mas a ideia já estava na minha mente",
+        "Não, meus sonhos são apenas fantasia"
+      ]
+    },
+    {
+      "title": "🌿 SONHOS RECORRENTES",
+      "text": "Qual tipo de sonho você considera mais importante para a sua vida?",
+      "options": [
+        "Sonhos vívidos e simbólicos",
+        "Pesadelos, pois me alertam para algo",
+        "Sonhos sobre pessoas queridas",
+        "Sonhos simples e relaxantes"
+      ]
+    },
+    {
+      "title": "🌿 SONHOS RECORRENTES",
+      "text": "Você costuma ter sonhos em cores vibrantes ou mais em preto e branco?",
+      "options": [
+        "Cores vibrantes, são mais reais",
+        "Mais em preto e branco ou tons suaves",
+        "Não presto atenção nas cores"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA DOS AMULETOS",
+      "text": "Você tem algum objeto que te traz sorte ou segurança, como um amuleto pessoal?",
+      "options": [
+        "Sim, e acredito no seu poder",
+        "Tenho, mas não penso muito sobre isso",
+        "Não, não acredito em amuletos"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS AMULETOS",
+      "text": "Qual material você associa mais à proteção energética?",
+      "options": [
+        "Prata (intuição, purificação)",
+        "Pedras (cristais, obsidiana)",
+        "Madeira (conexão com a terra)",
+        "Metais (ouro, cobre - energia)"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS AMULETOS",
+      "text": "Você acredita que um objeto pode absorver a energia de quem o toca ou o usa?",
+      "options": [
+        "Sim, objetos guardam memórias energéticas",
+        "Talvez, mas não tenho certeza",
+        "Não, é apenas um objeto"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS AMULETOS",
+      "text": "Qual a sua maior dificuldade em se desapegar de objetos antigos ou que não usa mais?",
+      "options": [
+        "O valor sentimental que eles carregam",
+        "O medo de precisar deles no futuro",
+        "A preguiça de organizar e doar",
+        "Não tenho dificuldade em desapegar"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS AMULETOS",
+      "text": "Você já limpou energeticamente um objeto (com sal, incenso, sol) para purificá-lo?",
+      "options": [
+        "Sim, e sinto a diferença",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito nessa prática"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 LEI DO RETORNO",
+      "text": "Você acredita na lei do retorno ('o que vai, volta')?",
+      "options": [
+        "Sim, o universo é justo",
+        "Acredito mais em causa e efeito, não em karma direto",
+        "Não, a vida é aleatória"
+      ]
+    },
+    {
+      "title": "🔮 LEI DO RETORNO",
+      "text": "Quando algo ruim acontece, qual a sua primeira reação?",
+      "options": [
+        "Refletir sobre o que fiz para atrair isso",
+        "Me culpar ou culpar os outros",
+        "Tentar resolver o problema e seguir em frente",
+        "Aceitar e deixar a vida seguir"
+      ]
+    },
+    {
+      "title": "🔮 LEI DO RETORNO",
+      "text": "Você se sente mais confortável em dar ou em receber ajuda?",
+      "options": [
+        "Dar, sinto prazer em ajudar",
+        "Receber, aceito a ajuda com gratidão",
+        "Ambos, em diferentes situações"
+      ]
+    },
+    {
+      "title": "🔮 LEI DO RETORNO",
+      "text": "Qual a sua maior dificuldade em perdoar alguém que te fez mal?",
+      "options": [
+        "Esquecer a dor",
+        "Confiar novamente na pessoa",
+        "Aceitar que o perdão é para mim",
+        "Achar que a pessoa não merece perdão"
+      ]
+    },
+    {
+      "title": "🔮 LEI DO RETORNO",
+      "text": "Você acredita que semear o bem (solidariedade, caridade) atrai coisas boas para sua vida?",
+      "options": [
+        "Sim, é uma lei universal",
+        "Ajuda, mas não é garantia",
+        "Não, faço o bem por fazer, sem esperar retorno"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 MEDITAÇÃO E MINDFULNESS",
+      "text": "Qual a sua maior dificuldade em praticar meditação ou mindfulness no dia a dia?",
+      "options": [
+        "Manter a mente focada, muita distração",
+        "Encontrar tempo e um lugar tranquilo",
+        "Achar que é muito difícil ou não é pra mim",
+        "Não ver benefícios imediatos"
+      ]
+    },
+    {
+      "title": "🌌 MEDITAÇÃO E MINDFULNESS",
+      "text": "Você já teve uma experiência de 'flow' (estado de total absorção em uma atividade)?",
+      "options": [
+        "Sim, é quando me sinto mais produtivo(a) e feliz",
+        "Acho que sim, em algumas atividades",
+        "Não, não sei o que é isso"
+      ]
+    },
+    {
+      "title": "🌌 MEDITAÇÃO E MINDFULNESS",
+      "text": "Qual a sua maior dificuldade em viver o momento presente?",
+      "options": [
+        "A ansiedade pelo futuro",
+        "Apegos ao passado",
+        "A distração com o mundo exterior",
+        "É natural para mim"
+      ]
+    },
+    {
+      "title": "🌌 MEDITAÇÃO E MINDFULNESS",
+      "text": "Você busca silenciar a mente antes de dormir?",
+      "options": [
+        "Sim, para ter um sono tranquilo",
+        "Tento, mas nem sempre consigo",
+        "Não, minha mente fica ativa"
+      ]
+    },
+    {
+      "title": "🌌 MEDITAÇÃO E MINDFULNESS",
+      "text": "Qual a sua visão sobre o papel do silêncio em sua vida?",
+      "options": [
+        "Essencial para a clareza mental e conexão",
+        "Importante para o descanso, mas não busco ativamente",
+        "Não gosto muito de silêncio, prefiro barulho"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 CHAKRAS E ENERGIA",
+      "text": "Você tem conhecimento sobre os chakras (centros de energia do corpo)?",
+      "options": [
+        "Sim, e busco alinhá-los",
+        "Tenho uma noção básica",
+        "Não, não sei o que são"
+      ]
+    },
+    {
+      "title": "🌿 CHAKRAS E ENERGIA",
+      "text": "Qual chakra você sente que precisa mais atenção ou equilíbrio em sua vida?",
+      "options": [
+        "Chakra Raiz (segurança, aterramento)",
+        "Chakra Sacro (criatividade, emoções)",
+        "Chakra Plexo Solar (poder pessoal, autoestima)",
+        "Chakra Cardíaco (amor, compaixão)",
+        "Chakra Laríngeo (comunicação, expressão)",
+        "Chakra Frontal (intuição, sabedoria)",
+        "Chakra Coronário (conexão espiritual, iluminação)"
+      ]
+    },
+    {
+      "title": "🌿 CHAKRAS E ENERGIA",
+      "text": "Você utiliza cores, sons ou cristais para harmonizar seus chakras?",
+      "options": [
+        "Sim, é parte da minha prática",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 CHAKRAS E ENERGIA",
+      "text": "Qual a sua maior dificuldade em manter sua energia vibracional alta?",
+      "options": [
+        "O estresse e a rotina",
+        "Pessoas ou ambientes negativos",
+        "A falta de tempo para práticas de bem-estar",
+        "Não percebo minha energia"
+      ]
+    },
+    {
+      "title": "🌿 CHAKRAS E ENERGIA",
+      "text": "Você já sentiu 'fluxos de energia' ou sensações de calor/formigamento durante meditação ou relaxamento?",
+      "options": [
+        "Sim, frequentemente",
+        "Algumas vezes, é interessante",
+        "Não, nunca senti"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ LEI DA ATRAÇÃO",
+      "text": "Você acredita que pode atrair para sua vida o que você foca?",
+      "options": [
+        "Sim, a Lei da Atração é poderosa",
+        "Em parte, o foco ajuda, mas não é tudo",
+        "Não, é mais sobre ação e oportunidades"
+      ]
+    },
+    {
+      "title": "✨ LEI DA ATRAÇÃO",
+      "text": "Qual o seu maior desafio ao tentar manifestar seus desejos usando a Lei da Atração?",
+      "options": [
+        "Manter a crença e a fé",
+        "Visualizar com clareza o que eu quero",
+        "Lidar com a impaciência e a dúvida",
+        "Não sei como aplicar a Lei da Atração"
+      ]
+    },
+    {
+      "title": "✨ LEI DA ATRAÇÃO",
+      "text": "Você costuma escrever seus desejos ou metas para o universo?",
+      "options": [
+        "Sim, para fixar a intenção",
+        "Tenho os desejos na mente, mas não escrevo",
+        "Não, não acredito que escrever ajude"
+      ]
+    },
+    {
+      "title": "✨ LEI DA ATRAÇÃO",
+      "text": "Qual a sua visão sobre a importância da gratidão na Lei da Atração?",
+      "options": [
+        "Essencial para atrair mais coisas boas",
+        "Importante, mas não o fator principal",
+        "Não vejo a ligação entre gratidão e atração"
+      ]
+    },
+    {
+      "title": "✨ LEI DA ATRAÇÃO",
+      "text": "Você se sente mais motivado(a) a agir em direção aos seus desejos quando se sente positivo(a) ou quando está em um momento de desafio?",
+      "options": [
+        "Positivo(a), a energia me impulsiona",
+        "Desafio, a dificuldade me motiva a lutar",
+        "Ambos, em diferentes momentos"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 INTUIÇÃO NO AMOR",
+      "text": "Você já sentiu que sua intuição te alertou sobre alguém em um relacionamento (passado ou atual)?",
+      "options": [
+        "Sim, e ela estava certa",
+        "Às vezes, tenho um pressentimento, mas duvido",
+        "Não, só confio nos fatos"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO NO AMOR",
+      "text": "Em um relacionamento, você confia mais na intuição ou na lógica para resolver conflitos?",
+      "options": [
+        "Na intuição, ela me guia para a solução mais amorosa",
+        "Na lógica, para encontrar uma solução racional",
+        "Ambos, mas a intuição vem primeiro"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO NO AMOR",
+      "text": "Qual a sua maior dificuldade em expressar o que sua intuição te diz sobre um relacionamento?",
+      "options": [
+        "Medo de não ser compreendido(a) ou desacreditado(a)",
+        "Dúvida se a intuição é realmente clara",
+        "Achar que é muito 'místico' para o outro",
+        "Não tenho dificuldade, sempre expresso"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO NO AMOR",
+      "text": "Você sente que a intuição é mais forte em relações de amor ou em relações de amizade?",
+      "options": [
+        "Amor, pela intensidade da conexão",
+        "Amizade, pela leveza e confiança",
+        "É igual em ambos"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO NO AMOR",
+      "text": "Qual o papel do silêncio em seus relacionamentos?",
+      "options": [
+        "Essencial para a escuta da intuição e do outro",
+        "Pode ser desconfortável ou sinal de problema",
+        "Apenas um momento de descanso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 CAMINHOS DA ILUMINAÇÃO",
+      "text": "Qual o seu maior desejo para o seu crescimento espiritual?",
+      "options": [
+        "Atingir a paz interior profunda",
+        "Compreender os mistérios do universo",
+        "Desenvolver minhas habilidades intuitivas",
+        "Conectar-me com meu propósito de vida"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DA ILUMINAÇÃO",
+      "text": "Você se sente mais inspirado(a) por mestres espirituais, filósofos ou por sua própria experiência de vida?",
+      "options": [
+        "Mestres e filósofos, busco a sabedoria deles",
+        "Minha própria experiência, ela é a melhor escola",
+        "Ambos, mas a experiência é fundamental"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DA ILUMINAÇÃO",
+      "text": "Qual a sua maior dificuldade em manter a prática espiritual no dia a dia corrido?",
+      "options": [
+        "Falta de tempo e disciplina",
+        "Achar que não está 'funcionando'",
+        "Distrações e obrigações",
+        "Não vejo a necessidade de prática diária"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DA ILUMINAÇÃO",
+      "text": "Você acredita que a dor e o sofrimento podem ser caminhos para a iluminação?",
+      "options": [
+        "Sim, são catalisadores de crescimento",
+        "Podem ser, mas prefiro aprender de forma mais suave",
+        "Não, dor e sofrimento são apenas negativos"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DA ILUMINAÇÃO",
+      "text": "Qual a sua visão sobre o despertar da consciência coletiva no mundo?",
+      "options": [
+        "Estamos em um grande despertar global",
+        "É um processo lento e gradual",
+        "Não vejo um despertar, apenas o caos",
+        "Acredito que é uma utopia"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 RESILIÊNCIA ESPIRITUAL",
+      "text": "Qual sua maior força para lidar com as adversidades da vida?",
+      "options": [
+        "Minha fé e conexão espiritual",
+        "Minha capacidade de adaptação e reinvenção",
+        "O apoio de amigos e família",
+        "Minha própria determinação e coragem"
+      ]
+    },
+    {
+      "title": "🌿 RESILIÊNCIA ESPIRITUAL",
+      "text": "Você se sente mais forte após superar um grande desafio ou um momento de fragilidade?",
+      "options": [
+        "Após superar um desafio, me sinto vitorioso(a)",
+        "Após um momento de fragilidade, por ter me permitido sentir",
+        "Ambos me fortalecem"
+      ]
+    },
+    {
+      "title": "🌿 RESILIÊNCIA ESPIRITUAL",
+      "text": "Qual a sua maior dificuldade em aceitar que nem tudo está sob seu controle?",
+      "options": [
+        "A necessidade de ter o controle das situações",
+        "O medo do imprevisível",
+        "A dificuldade em confiar no fluxo da vida",
+        "Não tenho dificuldade em aceitar"
+      ]
+    },
+    {
+      "title": "🌿 RESILIÊNCIA ESPIRITUAL",
+      "text": "Você busca aprender com os seus erros ou prefere esquecê-los?",
+      "options": [
+        "Aprender, são lições importantes",
+        "Esquecer, para não remoer o passado",
+        "Tento aprender, mas às vezes é difícil"
+      ]
+    },
+    {
+      "title": "🌿 RESILIÊNCIA ESPIRITUAL",
+      "text": "Qual dos seguintes sentimentos você considera mais poderoso para a resiliência?",
+      "options": [
+        "A esperança no futuro",
+        "A gratidão pelo presente",
+        "O amor por si mesmo(a) e pelos outros",
+        "A fé em algo maior"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ CONEXÃO ANIMAL E ESPIRITUAL",
+      "text": "Você já sentiu uma conexão espiritual profunda com algum animal (doméstico ou selvagem)?",
+      "options": [
+        "Sim, uma conexão de alma",
+        "Sinto carinho e afinidade, mas não espiritual",
+        "Não, a conexão é apenas física"
+      ]
+    },
+    {
+      "title": "✨ CONEXÃO ANIMAL E ESPIRITUAL",
+      "text": "Qual animal você sente que é seu 'animal de poder' ou que te representa em momentos importantes?",
+      "options": [
+        "Águia (liberdade, visão)",
+        "Urso (força, introspecção)",
+        "Cervo (gentileza, intuição)",
+        "Golfinho (alegria, comunicação)"
+      ]
+    },
+    {
+      "title": "✨ CONEXÃO ANIMAL E ESPIRITUAL",
+      "text": "Você acredita que animais podem ser 'mensageiros' ou guias espirituais?",
+      "options": [
+        "Sim, eles trazem sinais e ensinamentos",
+        "É uma ideia bonita, mas não tenho certeza",
+        "Não, são apenas animais"
+      ]
+    },
+    {
+      "title": "✨ CONEXÃO ANIMAL E ESPIRITUAL",
+      "text": "Qual a sua maior dificuldade em compreender a linguagem dos animais?",
+      "options": [
+        "Não saber como interpretá-los",
+        "Achar que é impossível se comunicar",
+        "A falta de atenção aos sinais que eles dão",
+        "Não me interesso por isso"
+      ]
+    },
+    {
+      "title": "✨ CONEXÃO ANIMAL E ESPIRITUAL",
+      "text": "Você já teve uma experiência de cura ou conforto através da presença de um animal?",
+      "options": [
+        "Sim, eles têm um poder curador",
+        "Sinto bem-estar, mas não como cura",
+        "Não, não percebo isso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 PROTEÇÃO CONTRA INVEJA",
+      "text": "Você já sentiu que a energia de inveja ou mau-olhado te afetou de alguma forma?",
+      "options": [
+        "Sim, e senti os efeitos negativos",
+        "Talvez, tive alguns problemas inexplicáveis",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🔮 PROTEÇÃO CONTRA INVEJA",
+      "text": "Qual a sua primeira reação ao sentir inveja ou ciúme de alguém?",
+      "options": [
+        "Busco entender a causa e transmutar esse sentimento",
+        "Tento ignorar e focar no meu caminho",
+        "Deixo o sentimento me consumir um pouco",
+        "Não sinto inveja ou ciúme"
+      ]
+    },
+    {
+      "title": "🔮 PROTEÇÃO CONTRA INVEJA",
+      "text": "Você utiliza alguma prática ou objeto para se proteger de energias negativas, como a inveja?",
+      "options": [
+        "Sim, como amuletos, orações ou rituais",
+        "Às vezes, penso em me proteger, mas não faço nada específico",
+        "Não, não me preocupo com isso"
+      ]
+    },
+    {
+      "title": "🔮 PROTEÇÃO CONTRA INVEJA",
+      "text": "Qual a sua maior dificuldade em manter a sua energia elevada em ambientes com pessoas negativas?",
+      "options": [
+        "Sinto-me drenado(a) e influenciado(a)",
+        "Consigo me manter neutro(a), mas é um esforço",
+        "Não me afeto com a energia alheia"
+      ]
+    },
+    {
+      "title": "🔮 PROTEÇÃO CONTRA INVEJA",
+      "text": "Você acredita que a melhor forma de se proteger é cultivando a própria luz e o amor?",
+      "options": [
+        "Sim, a luz afasta as sombras",
+        "É uma boa forma, mas também preciso de proteção externa",
+        "Não, proteção é mais sobre barreiras"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 REGISTROS AKÁSHICOS",
+      "text": "Você acredita que existe um 'registro' de todas as experiências do universo e das almas?",
+      "options": [
+        "Sim, os Registros Akáshicos",
+        "É uma ideia fascinante, mas não tenho certeza",
+        "Não, é apenas uma metáfora"
+      ]
+    },
+    {
+      "title": "🌌 REGISTROS AKÁSHICOS",
+      "text": "Você já teve alguma intuição ou 'lembrança' de vidas passadas?",
+      "options": [
+        "Sim, são flashes ou sensações",
+        "Acho que sim, mas pode ser imaginação",
+        "Não, não tenho lembranças assim"
+      ]
+    },
+    {
+      "title": "🌌 REGISTROS AKÁSHICOS",
+      "text": "Qual a sua maior dificuldade em compreender conceitos complexos sobre o universo e a existência?",
+      "options": [
+        "A mente racional que busca explicações lógicas",
+        "A falta de tempo para estudo e meditação",
+        "Não ter acesso a informações claras",
+        "Achar que é muito abstrato"
+      ]
+    },
+    {
+      "title": "🌌 REGISTROS AKÁSHICOS",
+      "text": "Você se sente mais atraído(a) por histórias de civilizações antigas ou por projeções futurísticas?",
+      "options": [
+        "Civilizações antigas, pela sabedoria ancestral",
+        "Projeções futurísticas, pela evolução e inovação",
+        "Ambos, em diferentes aspectos"
+      ]
+    },
+    {
+      "title": "🌌 REGISTROS AKÁSHICOS",
+      "text": "Qual a sua visão sobre o papel do esquecimento (de vidas passadas, por exemplo) na evolução da alma?",
+      "options": [
+        "Necessário para focar no aprendizado atual",
+        "Uma pena, seria bom lembrar de tudo",
+        "Não faz sentido, não acredito em vidas passadas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 SABEDORIA DA TERRA",
+      "text": "Você se sente mais conectado(a) com a sabedoria da natureza selvagem ou com a organização de jardins e parques?",
+      "options": [
+        "Natureza selvagem, pela força e liberdade",
+        "Jardins e parques, pela harmonia e cuidado",
+        "Ambos, de diferentes formas"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA",
+      "text": "Qual a sua maior dificuldade em se desconectar da rotina e reconectar-se com a terra?",
+      "options": [
+        "A dependência da tecnologia",
+        "A falta de tempo para estar na natureza",
+        "Não ter acesso a lugares naturais",
+        "Não sentir essa necessidade"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA",
+      "text": "Você acredita que as pedras e minerais possuem energias e propriedades curativas?",
+      "options": [
+        "Sim, e os utilizo em meu benefício",
+        "Tenho curiosidade, mas não tenho certeza",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA",
+      "text": "Qual a sua forma favorita de se aterrar e trazer sua energia para o presente?",
+      "options": [
+        "Caminhar descalço(a) na grama/terra",
+        "Meditar em contato com a natureza",
+        "Fazer atividades manuais (jardinagem, argila)",
+        "Não pratico aterramento"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA",
+      "text": "Você já utilizou o poder das fases da lua para plantar, colher ou iniciar projetos?",
+      "options": [
+        "Sim, sigo o ritmo lunar",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, não acredito nessa influência"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ CURA ATRAVÉS DA MÚSICA",
+      "text": "Qual tipo de música te traz mais cura ou alívio emocional?",
+      "options": [
+        "Músicas instrumentais e relaxantes",
+        "Músicas que me fazem chorar e liberar emoções",
+        "Músicas alegres que elevam o astral",
+        "Músicas com letras que me fazem refletir"
+      ]
+    },
+    {
+      "title": "✨ CURA ATRAVÉS DA MÚSICA",
+      "text": "Você usa a música como ferramenta para meditar ou entrar em estados alterados de consciência?",
+      "options": [
+        "Sim, ela me guia profundamente",
+        "Às vezes, para relaxar",
+        "Não, só para entretenimento"
+      ]
+    },
+    {
+      "title": "✨ CURA ATRAVÉS DA MÚSICA",
+      "text": "Qual o seu maior desafio em encontrar músicas que realmente ressoam com a sua alma?",
+      "options": [
+        "A superficialidade das músicas comerciais",
+        "Não ter tempo para explorar novos artistas",
+        "Não saber o que buscar",
+        "Me contento com o que está em alta"
+      ]
+    },
+    {
+      "title": "✨ CURA ATRAVÉS DA MÚSICA",
+      "text": "Você já teve uma experiência de cura física ou emocional ao ouvir uma música específica?",
+      "options": [
+        "Sim, senti a energia me transformar",
+        "Senti um grande alívio ou bem-estar",
+        "Não, não percebo isso"
+      ]
+    },
+    {
+      "title": "✨ CURA ATRAVÉS DA MÚSICA",
+      "text": "Qual o poder da sua voz ao cantar ou entoar mantras?",
+      "options": [
+        "Sinto que crio e manifesto energia",
+        "Libera minhas emoções e me alivia",
+        "É apenas uma forma de expressão pessoal",
+        "Não canto ou entoo mantras"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 SINCRONICIDADE E NÚMEROS",
+      "text": "Você costuma ver números repetidos em diferentes lugares (11:11, 222, 333)?",
+      "options": [
+        "Sim, frequentemente, e busco o significado",
+        "Às vezes, mas acho que é coincidência",
+        "Não, não reparo nisso"
+      ]
+    },
+    {
+      "title": "🔮 SINCRONICIDADE E NÚMEROS",
+      "text": "Qual a sua maior dificuldade em interpretar os números que se repetem em sua vida?",
+      "options": [
+        "Não saber o significado de cada número",
+        "Duvidar se é um sinal real ou imaginação",
+        "Achar que é muito complexo",
+        "Não tenho dificuldade"
+      ]
+    },
+    {
+      "title": "🔮 SINCRONICIDADE E NÚMEROS",
+      "text": "Você acredita que seu número de nascimento (Numerologia) revela traços de sua personalidade ou destino?",
+      "options": [
+        "Sim, e me identifico muito",
+        "Tenho curiosidade, mas não me aprofundo",
+        "Não, acho que é apenas um número"
+      ]
+    },
+    {
+      "title": "🔮 SINCRONICIDADE E NÚMEROS",
+      "text": "Qual a sua visão sobre a importância dos números em sua vida?",
+      "options": [
+        "São códigos do universo que trazem mensagens",
+        "São ferramentas para organizar e medir",
+        "Não vejo importância mística neles"
+      ]
+    },
+    {
+      "title": "🔮 SINCRONICIDADE E NÚMEROS",
+      "text": "Você já teve uma experiência de sincronicidade (coincidência significativa) com números que te guiou em algo?",
+      "options": [
+        "Sim, e foi uma experiência clara",
+        "Talvez, mas não tenho certeza",
+        "Não, nunca tive"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 PROPÓSITO DE ALMA",
+      "text": "Qual a sua maior dificuldade em identificar o seu propósito de vida?",
+      "options": [
+        "A confusão com as expectativas alheias",
+        "O medo de arriscar e sair da zona de conforto",
+        "Não saber por onde começar a busca",
+        "Achar que não tenho um propósito"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA",
+      "text": "Você se sente mais realizado(a) quando está servindo aos outros ou quando está focado(a) em seus próprios objetivos?",
+      "options": [
+        "Servindo aos outros, é o que me move",
+        "Focado(a) em meus objetivos, para meu próprio crescimento",
+        "Ambos, em diferentes momentos"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA",
+      "text": "Qual o papel do 'sofrimento' na sua jornada para encontrar seu propósito?",
+      "options": [
+        "Um professor, me impulsiona a buscar mais fundo",
+        "Um obstáculo a ser superado",
+        "Não vejo ligação entre sofrimento e propósito",
+        "Não quero sofrer"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA",
+      "text": "Você acredita que seu propósito de vida é algo que você nasce com ele ou algo que você constrói ao longo da vida?",
+      "options": [
+        "Nasce com ele, é uma missão de alma",
+        "Constrói ao longo da vida, com escolhas e aprendizados",
+        "É uma mistura dos dois"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA",
+      "text": "Qual a sua maior inspiração para viver uma vida com propósito?",
+      "options": [
+        "Histórias de pessoas que impactaram o mundo",
+        "Minha própria vontade de fazer a diferença",
+        "A busca por uma vida mais significativa",
+        "O desejo de deixar um legado"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 VIBRAÇÃO DOS AMBIENTES",
+      "text": "Qual o seu maior desafio em manter uma energia positiva em seu ambiente de trabalho (ou estudo)?",
+      "options": [
+        "Pessoas com energia negativa",
+        "O estresse e a pressão",
+        "A desorganização e a falta de harmonia",
+        "Não percebo a energia do ambiente"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS AMBIENTES",
+      "text": "Você já utilizou plantas, cristais ou cores para melhorar a energia de um ambiente?",
+      "options": [
+        "Sim, e sinto a diferença",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS AMBIENTES",
+      "text": "Qual a sua reação ao entrar em um ambiente que tem uma energia muito densa ou pesada?",
+      "options": [
+        "Sinto-me desconfortável e quero sair",
+        "Tento ignorar e me focar",
+        "Não percebo a energia do ambiente"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS AMBIENTES",
+      "text": "Você acredita que a organização e a limpeza física do ambiente podem afetar a sua energia?",
+      "options": [
+        "Sim, um ambiente limpo eleva a energia",
+        "Ajuda a me sentir melhor, mas não é uma questão energética",
+        "Não vejo ligação"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS AMBIENTES",
+      "text": "Qual dos seguintes sons você considera que tem o poder de purificar um ambiente?",
+      "options": [
+        "Canto de tigelas tibetanas ou sinos",
+        "Música instrumental calma",
+        "O som da chuva ou da natureza",
+        "Não acredito em sons para purificação"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ SONHOS E SIMBOLISMO",
+      "text": "Você já teve sonhos com símbolos que parecem ter um significado oculto (ex: animais específicos, objetos, cores)?",
+      "options": [
+        "Sim, e busco interpretá-los",
+        "Às vezes, mas não sei o que significam",
+        "Não, meus sonhos são literais"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E SIMBOLISMO",
+      "text": "Qual a sua maior dificuldade em decifrar o simbolismo dos sonhos?",
+      "options": [
+        "Não ter conhecimento sobre simbolismo",
+        "Achar que é muito complexo para entender sozinho(a)",
+        "Dúvida se a interpretação é a correta",
+        "Não tenho interesse em interpretar"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E SIMBOLISMO",
+      "text": "Você acredita que o inconsciente se comunica conosco através de símbolos nos sonhos?",
+      "options": [
+        "Sim, é a linguagem da alma",
+        "É uma teoria interessante, mas não tenho certeza",
+        "Não, é apenas o cérebro processando informações"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E SIMBOLISMO",
+      "text": "Qual elemento dos seus sonhos você considera mais importante para interpretar?",
+      "options": [
+        "Os personagens que aparecem",
+        "As emoções que sinto no sonho",
+        "Os lugares ou cenários do sonho",
+        "Os objetos ou símbolos específicos"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E SIMBOLISMO",
+      "text": "Você já consultou um dicionário de sonhos ou um especialista para interpretar um sonho?",
+      "options": [
+        "Sim, e foi muito útil",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, prefiro minhas próprias conclusões"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 INTUIÇÃO E DECISÕES",
+      "text": "Qual a sua primeira reação quando sua intuição te diz algo diferente da sua lógica?",
+      "options": [
+        "Confio na intuição, ela costuma estar certa",
+        "Tento equilibrar os dois, analisando prós e contras",
+        "Sigo a lógica, ela é mais segura"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO E DECISÕES",
+      "text": "Você já tomou uma decisão importante apenas seguindo um 'pressentimento'?",
+      "options": [
+        "Sim, e foi a melhor decisão",
+        "Acho que sim, mas também havia lógica envolvida",
+        "Não, sempre preciso de dados e fatos"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO E DECISÕES",
+      "text": "Qual o seu maior desafio em seguir a sua intuição no dia a dia?",
+      "options": [
+        "O medo de ser julgado(a) ou de errar",
+        "A dúvida se é intuição ou apenas ansiedade",
+        "A dificuldade em silenciar a mente racional",
+        "Não percebo quando a intuição fala"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO E DECISÕES",
+      "text": "Você se considera uma pessoa mais 'sensitiva' ou mais 'analítica'?",
+      "options": [
+        "Sensitiva, guio-me por sentimentos e pressentimentos",
+        "Analítica, baseio-me em fatos e dados",
+        "Busco ser ambos, dependendo da situação"
+      ]
+    },
+    {
+      "title": "🔮 INTUIÇÃO E DECISÕES",
+      "text": "Qual a sua visão sobre o papel do erro no processo de aprendizado da intuição?",
+      "options": [
+        "Essencial para refinar a intuição",
+        "Uma oportunidade de rever a decisão",
+        "Algo a ser evitado a todo custo",
+        "Não vejo a intuição como algo que pode errar"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 PROPÓSITO E LEGADO",
+      "text": "Qual a sua maior aspiração para o seu legado no mundo?",
+      "options": [
+        "Deixar um impacto positivo nas pessoas",
+        "Conquistar algo grandioso em minha área",
+        "Viver uma vida feliz e plena",
+        "Inspirar as próximas gerações"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO E LEGADO",
+      "text": "Você se sente mais feliz quando está construindo algo para o futuro ou vivendo o presente intensamente?",
+      "options": [
+        "Construindo para o futuro, sinto propósito",
+        "Vivendo o presente, sinto alegria imediata",
+        "Equilibrando os dois, ambos são importantes"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO E LEGADO",
+      "text": "Qual o seu maior medo em relação ao seu propósito de vida?",
+      "options": [
+        "Não encontrá-lo",
+        "Não ter tempo ou recursos para realizá-lo",
+        "Falhar na execução",
+        "Não ser reconhecido(a) por ele"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO E LEGADO",
+      "text": "Você acredita que todos nascemos com um propósito único?",
+      "options": [
+        "Sim, é uma missão de alma",
+        "Acredito que o propósito é construído ao longo da vida",
+        "É uma ideia bonita, mas não tenho certeza",
+        "Não, não acredito em propósito pré-definido"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO E LEGADO",
+      "text": "Qual a sua maior dificuldade em expressar o seu verdadeiro propósito aos outros?",
+      "options": [
+        "O medo de ser julgado(a) ou incompreendido(a)",
+        "A dúvida se o meu propósito é realmente válido",
+        "Não saber como colocá-lo em palavras",
+        "Não tenho dificuldade, sou transparente"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 VIBRAÇÃO PESSOAL",
+      "text": "Qual atividade te faz sentir a energia mais elevada e vibrante?",
+      "options": [
+        "Estar em contato com a natureza",
+        "Praticar meditação ou yoga",
+        "Dançar ou ouvir música alta",
+        "Ajudar alguém ou praticar a caridade"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO PESSOAL",
+      "text": "Você se considera uma pessoa que 'eleva' a energia de um ambiente ou que se adapta a ela?",
+      "options": [
+        "Elevo, sou uma fonte de energia positiva",
+        "Adapto-me, busco o equilíbrio",
+        "Me sinto drenado(a) facilmente"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO PESSOAL",
+      "text": "Qual a sua maior dificuldade em manter a sua vibração pessoal alta no dia a dia?",
+      "options": [
+        "O estresse e a negatividade externa",
+        "A falta de tempo para cuidar de si",
+        "Os próprios pensamentos e emoções negativas",
+        "Não percebo minha vibração"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO PESSOAL",
+      "text": "Você já utilizou sons, músicas ou mantras para elevar sua vibração?",
+      "options": [
+        "Sim, e sinto a diferença",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO PESSOAL",
+      "text": "Qual a sua visão sobre a importância de rir e se divertir para a sua vibração?",
+      "options": [
+        "Essencial para a leveza e a alegria",
+        "Importante para o bem-estar, mas não como algo espiritual",
+        "Não vejo ligação com a vibração"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ SINAIS DA NATUREZA",
+      "text": "Você já notou padrões ou mensagens em nuvens, árvores ou fenômenos naturais?",
+      "options": [
+        "Sim, a natureza fala comigo",
+        "Às vezes, percebo algo interessante",
+        "Não, vejo apenas a natureza"
+      ]
+    },
+    {
+      "title": "✨ SINAIS DA NATUREZA",
+      "text": "Qual a sua maior dificuldade em se conectar com os elementos da natureza (terra, água, fogo, ar)?",
+      "options": [
+        "Falta de oportunidade para estar na natureza",
+        "Não saber como se conectar de forma profunda",
+        "Achar que é algo muito abstrato",
+        "Não vejo a necessidade"
+      ]
+    },
+    {
+      "title": "✨ SINAIS DA NATUREZA",
+      "text": "Você já sentiu a 'energia' de uma tempestade se aproximando antes mesmo de ver os sinais físicos?",
+      "options": [
+        "Sim, sinto a mudança na atmosfera",
+        "Talvez, percebo o clima pesado",
+        "Não, só percebo quando a tempestade chega"
+      ]
+    },
+    {
+      "title": "✨ SINAIS DA NATUREZA",
+      "text": "Qual dos seguintes elementos naturais você se sente mais atraído(a) por sua simbologia?",
+      "options": [
+        "O oceano (profundidade, mistério)",
+        "A montanha (força, superação)",
+        "A floresta (sabedoria, conexão)",
+        "O deserto (silêncio, autoconhecimento)"
+      ]
+    },
+    {
+      "title": "✨ SINAIS DA NATUREZA",
+      "text": "Você acredita que a natureza tem sua própria consciência e nos envia mensagens?",
+      "options": [
+        "Sim, ela é viva e sábia",
+        "É uma forma de interpretar o mundo, mas não literal",
+        "Não, a natureza é apenas um ambiente"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 MAGIA DOS CRISTAIS",
+      "text": "Você já utilizou cristais para proteção, cura ou meditação?",
+      "options": [
+        "Sim, e sinto seu poder",
+        "Tenho alguns, mas não sei como usar",
+        "Não, não acredito em cristais"
+      ]
+    },
+    {
+      "title": "🔮 MAGIA DOS CRISTAIS",
+      "text": "Qual a sua maior dificuldade em escolher um cristal que ressoe com você?",
+      "options": [
+        "Não saber qual energia ele tem",
+        "Achar que é muito complexo",
+        "Duvidar da minha intuição na escolha",
+        "Não me interesso por cristais"
+      ]
+    },
+    {
+      "title": "🔮 MAGIA DOS CRISTAIS",
+      "text": "Você acredita que os cristais precisam ser 'limpos' e 'energizados'?",
+      "options": [
+        "Sim, para manter sua vibração",
+        "É uma prática interessante, mas não sei se é essencial",
+        "Não, são apenas pedras"
+      ]
+    },
+    {
+      "title": "🔮 MAGIA DOS CRISTAIS",
+      "text": "Qual cor de cristal mais te atrai visualmente?",
+      "options": [
+        "Azul (calma, comunicação)",
+        "Verde (cura, equilíbrio)",
+        "Transparente (amplificação, clareza)",
+        "Preto (proteção, aterramento)"
+      ]
+    },
+    {
+      "title": "🔮 MAGIA DOS CRISTAIS",
+      "text": "Você já teve uma experiência de conforto ou alívio ao segurar um cristal?",
+      "options": [
+        "Sim, sinto a energia dele",
+        "Sinto uma sensação agradável, mas não mágica",
+        "Não, não percebo isso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 VIAGEM ASTRAL",
+      "text": "Você já teve uma experiência de projeção astral (sensação de sair do corpo)?",
+      "options": [
+        "Sim, e foi muito real",
+        "Acho que sim, mas não tenho certeza",
+        "Não, nunca tive"
+      ]
+    },
+    {
+      "title": "🌌 VIAGEM ASTRAL",
+      "text": "Qual o seu maior medo em relação à projeção astral ou sonhos lúcidos?",
+      "options": [
+        "Não conseguir voltar para o corpo",
+        "Ver ou encontrar algo assustador",
+        "Perder o controle da experiência",
+        "Não tenho medo, tenho curiosidade"
+      ]
+    },
+    {
+      "title": "🌌 VIAGEM ASTRAL",
+      "text": "Você acredita que a projeção astral pode ser uma ferramenta para o autoconhecimento ou para a cura?",
+      "options": [
+        "Sim, é uma forma de expandir a consciência",
+        "É uma experiência interessante, mas não para cura",
+        "Não, é apenas um fenômeno da mente"
+      ]
+    },
+    {
+      "title": "🌌 VIAGEM ASTRAL",
+      "text": "Qual a sua maior dificuldade em ter sonhos vívidos ou lúcidos?",
+      "options": [
+        "Não me lembrar dos sonhos",
+        "A dificuldade em manter a lucidez no sonho",
+        "O medo de ter pesadelos",
+        "Não me interesso por isso"
+      ]
+    },
+    {
+      "title": "🌌 VIAGEM ASTRAL",
+      "text": "Você já utilizou técnicas de relaxamento ou meditação para induzir uma projeção astral ou um sonho lúcido?",
+      "options": [
+        "Sim, e tive resultados",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, não acredito nisso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 CONEXÃO COM A VIDA",
+      "text": "Qual a sua maior força para lidar com os desafios da vida?",
+      "options": [
+        "Minha fé inabalável",
+        "Minha resiliência e capacidade de me adaptar",
+        "O apoio incondicional de amigos e família",
+        "Minha determinação e força de vontade"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM A VIDA",
+      "text": "Você se sente mais vivo(a) quando está em momentos de paz ou de aventura?",
+      "options": [
+        "Paz, para me reconectar e recarregar",
+        "Aventura, para explorar e crescer",
+        "Ambos, em diferentes momentos da vida"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM A VIDA",
+      "text": "Qual a sua maior dificuldade em aceitar as imperfeições da vida e das pessoas?",
+      "options": [
+        "O perfeccionismo",
+        "A necessidade de controle",
+        "A dificuldade em perdoar",
+        "É fácil para mim aceitar"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM A VIDA",
+      "text": "Você acredita que a vida é um grande professor, e que cada experiência traz um aprendizado?",
+      "options": [
+        "Sim, cada dia é uma lição",
+        "Em parte, alguns aprendizados são mais claros",
+        "Não, a vida é mais sobre viver"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM A VIDA",
+      "text": "Qual o seu maior desejo para a sua vida daqui a 5 anos?",
+      "options": [
+        "Estar em paz e feliz consigo mesmo(a)",
+        "Ter alcançado sucesso profissional e financeiro",
+        "Estar em um relacionamento amoroso e feliz",
+        "Ter contribuído para um mundo melhor"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ INTUIÇÃO DIÁRIA",
+      "text": "Qual a sua maior dificuldade em confiar em sua intuição no dia a dia?",
+      "options": [
+        "O medo de errar",
+        "A dúvida se é intuição ou só um pensamento",
+        "Não conseguir silenciar a mente",
+        "Não percebo minha intuição"
+      ]
+    },
+    {
+      "title": "✨ INTUIÇÃO DIÁRIA",
+      "text": "Você já teve um pressentimento forte sobre algo que aconteceu ou ia acontecer?",
+      "options": [
+        "Sim, e ele se confirmou",
+        "Talvez, mas não tenho certeza",
+        "Não, nunca tive"
+      ]
+    },
+    {
+      "title": "✨ INTUIÇÃO DIÁRIA",
+      "text": "Qual das seguintes frases mais ressoa com você sobre a intuição?",
+      "options": [
+        "A intuição é a voz da alma.",
+        "A intuição é o primeiro pensamento certo.",
+        "A intuição é um guia confiável.",
+        "A intuição é um mistério."
+      ]
+    },
+    {
+      "title": "✨ INTUIÇÃO DIÁRIA",
+      "text": "Você se sente mais intuitivo(a) em momentos de calma ou em momentos de pressão?",
+      "options": [
+        "Calma, consigo ouvir minha voz interior",
+        "Pressão, a intuição surge para me guiar",
+        "Ambos, em diferentes intensidades"
+      ]
+    },
+    {
+      "title": "✨ INTUIÇÃO DIÁRIA",
+      "text": "Qual o seu maior desejo para sua intuição?",
+      "options": [
+        "Que ela seja sempre clara e forte",
+        "Que eu saiba como usá-la para ajudar outros",
+        "Que eu consiga confiar mais nela",
+        "Que ela me guie nas grandes decisões"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 SONHOS E GUIA",
+      "text": "Você já sonhou com alguém que não via há muito tempo e essa pessoa te procurou depois?",
+      "options": [
+        "Sim, frequentemente",
+        "Acho que sim, mas pode ser coincidência",
+        "Não, nunca tive essa experiência"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS E GUIA",
+      "text": "Qual a sua maior dificuldade em interpretar as mensagens que os sonhos trazem?",
+      "options": [
+        "Não me lembrar dos sonhos",
+        "Não entender os símbolos",
+        "Duvidar do significado",
+        "Achar que é muito complexo"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS E GUIA",
+      "text": "Você utiliza alguma técnica para se lembrar mais dos seus sonhos (ex: diário de sonhos)?",
+      "options": [
+        "Sim, é muito útil",
+        "Tenho vontade, mas nunca tentei",
+        "Não, não me interesso"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS E GUIA",
+      "text": "Qual emoção você sente mais forte nos seus sonhos?",
+      "options": [
+        "Alegria e bem-estar",
+        "Medo e ansiedade",
+        "Tristeza e melancolia",
+        "Paz e tranquilidade"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS E GUIA",
+      "text": "Você acredita que os sonhos são um canal de comunicação com o seu Eu Superior ou guias espirituais?",
+      "options": [
+        "Sim, recebo mensagens importantes",
+        "É uma possibilidade, mas não tenho certeza",
+        "Não, são apenas reflexos do subconsciente"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 LEI DA VIBRAÇÃO",
+      "text": "Você acredita que a energia que você emana atrai coisas semelhantes para sua vida?",
+      "options": [
+        "Sim, a vibração é tudo",
+        "Em parte, mas o esforço também importa",
+        "Não, as coisas acontecem por acaso"
+      ]
+    },
+    {
+      "title": "🌌 LEI DA VIBRAÇÃO",
+      "text": "Qual a sua maior dificuldade em manter uma vibração alta no dia a dia?",
+      "options": [
+        "O estresse e a rotina",
+        "Pessoas ou ambientes negativos",
+        "Meus próprios pensamentos e emoções negativas",
+        "Não sei como manter a vibração alta"
+      ]
+    },
+    {
+      "title": "🌌 LEI DA VIBRAÇÃO",
+      "text": "Você utiliza alguma prática para elevar sua vibração (música, meditação, gratidão)?",
+      "options": [
+        "Sim, diariamente",
+        "Às vezes, quando sinto necessidade",
+        "Não, não tenho o hábito"
+      ]
+    },
+    {
+      "title": "🌌 LEI DA VIBRAÇÃO",
+      "text": "Qual a sua visão sobre a importância de perdoar para elevar a vibração?",
+      "options": [
+        "Essencial para liberar bloqueios energéticos",
+        "Importante, mas não é o único fator",
+        "Não vejo ligação com a vibração"
+      ]
+    },
+    {
+      "title": "🌌 LEI DA VIBRAÇÃO",
+      "text": "Você se sente mais leve e positivo(a) após ajudar alguém ou praticar um ato de bondade?",
+      "options": [
+        "Sim, sinto uma grande satisfação",
+        "Sinto-me bem, mas não penso em vibração",
+        "Não, não percebo essa ligação"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 CONEXÃO COM O SAGRADO",
+      "text": "Qual o seu maior desafio em se conectar com o sagrado ou com o Divino em sua vida?",
+      "options": [
+        "A dúvida e o ceticismo",
+        "A falta de tempo e de práticas",
+        "Não encontrar uma forma que ressoe comigo",
+        "Não sinto essa necessidade"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM O SAGRADO",
+      "text": "Você acredita que há um propósito maior para a humanidade no planeta Terra?",
+      "options": [
+        "Sim, uma evolução coletiva",
+        "É uma ideia bonita, mas não tenho certeza",
+        "Não, somos apenas seres biológicos"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM O SAGRADO",
+      "text": "Qual a sua maior dificuldade em confiar no fluxo da vida e no tempo divino?",
+      "options": [
+        "A ansiedade pelo futuro",
+        "A necessidade de controlar os resultados",
+        "A falta de fé em algo maior",
+        "Confio facilmente"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM O SAGRADO",
+      "text": "Você busca sinais ou confirmações do universo para suas decisões?",
+      "options": [
+        "Sim, estou sempre atento(a)",
+        "Às vezes, mas não me guio totalmente",
+        "Não, confio na minha razão"
+      ]
+    },
+    {
+      "title": "🌿 CONEXÃO COM O SAGRADO",
+      "text": "Qual a sua visão sobre a importância da gratidão na jornada espiritual?",
+      "options": [
+        "Essencial para abrir portas para o sagrado",
+        "Importante para o bem-estar, mas não fundamental espiritualmente",
+        "Não vejo ligação com o sagrado"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA DOS LUGARES",
+      "text": "Você já sentiu uma energia específica em lugares como templos antigos, florestas densas ou montanhas?",
+      "options": [
+        "Sim, uma energia muito forte e especial",
+        "Sinto um clima diferente, mas não sei se é energia",
+        "Não, não percebo isso"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS LUGARES",
+      "text": "Qual tipo de lugar você se sente mais energizado(a) ou em paz?",
+      "options": [
+        "Locais com muita natureza (floresta, praia)",
+        "Lugares históricos ou com muita sabedoria",
+        "Ambientes urbanos movimentados e vibrantes",
+        "Lugares tranquilos e solitários"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS LUGARES",
+      "text": "Você acredita que a história de um lugar pode 'impregnar' sua energia?",
+      "options": [
+        "Sim, lugares têm memórias energéticas",
+        "É uma ideia interessante, mas não tenho certeza",
+        "Não, a energia é renovada constantemente"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS LUGARES",
+      "text": "Qual a sua maior dificuldade em se sentir bem em ambientes com muita energia negativa?",
+      "options": [
+        "Fico drenado(a) e desconfortável",
+        "Preciso de um tempo para me adaptar",
+        "Não percebo a energia do ambiente",
+        "Consigo me blindar facilmente"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DOS LUGARES",
+      "text": "Você já utilizou a intuição para escolher um lugar para morar, trabalhar ou viajar?",
+      "options": [
+        "Sim, a energia do lugar é fundamental",
+        "Considerei a intuição, mas a lógica foi decisiva",
+        "Não, só me guio por fatores práticos"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 PODER DAS PALAVRAS",
+      "text": "Você acredita que as palavras que usamos (faladas ou pensadas) têm poder de criar nossa realidade?",
+      "options": [
+        "Sim, as palavras são vibração",
+        "Em parte, elas influenciam, mas não criam tudo",
+        "Não, são apenas sons ou pensamentos"
+      ]
+    },
+    {
+      "title": "🔮 PODER DAS PALAVRAS",
+      "text": "Qual a sua maior dificuldade em praticar o pensamento positivo e a linguagem positiva no dia a dia?",
+      "options": [
+        "O pessimismo e o hábito de reclamar",
+        "Achar que é forçado ou irreal",
+        "Esquecer de monitorar os pensamentos",
+        "É natural para mim"
+      ]
+    },
+    {
+      "title": "🔮 PODER DAS PALAVRAS",
+      "text": "Você costuma usar afirmações ou mantras para fortalecer sua mente e atrair coisas boas?",
+      "options": [
+        "Sim, diariamente",
+        "Às vezes, em momentos de necessidade",
+        "Não, não tenho o hábito"
+      ]
+    },
+    {
+      "title": "🔮 PODER DAS PALAVRAS",
+      "text": "Qual a sua visão sobre o poder da oração ou da intenção falada?",
+      "options": [
+        "São ferramentas poderosas de cocriação",
+        "Trazem conforto e paz, mas não alteram a realidade",
+        "Não vejo poder nisso"
+      ]
+    },
+    {
+      "title": "🔮 PODER DAS PALAVRAS",
+      "text": "Você já sentiu a energia de uma palavra ou frase e isso te afetou profundamente?",
+      "options": [
+        "Sim, as palavras têm poder",
+        "Sinto o impacto emocional, mas não energético",
+        "Não, são apenas palavras"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 CAMINHOS DE LUZ",
+      "text": "Qual a sua maior inspiração para buscar a luz e a positividade na vida?",
+      "options": [
+        "O desejo de evolução espiritual",
+        "A busca pela felicidade e paz interior",
+        "A necessidade de superar desafios",
+        "Ver o exemplo de pessoas iluminadas"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DE LUZ",
+      "text": "Você acredita que todos temos um 'guia de luz' ou 'anjo da guarda' nos acompanhando?",
+      "options": [
+        "Sim, sinto a presença e a proteção",
+        "É uma crença bonita, mas não tenho certeza",
+        "Não, sou cético(a)"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DE LUZ",
+      "text": "Qual o seu maior desafio em manter a luz e a esperança em tempos sombrios?",
+      "options": [
+        "A tristeza e o desânimo",
+        "A negatividade e o medo coletivo",
+        "A falta de fé no futuro",
+        "Consigo manter a luz facilmente"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DE LUZ",
+      "text": "Você busca rodear-se de pessoas que irradiam luz e positividade?",
+      "options": [
+        "Sim, a energia é contagiante",
+        "Prefiro pessoas reais, com luz e sombra",
+        "Não me preocupo com a energia das pessoas"
+      ]
+    },
+    {
+      "title": "🌌 CAMINHOS DE LUZ",
+      "text": "Qual a sua visão sobre o papel do amor incondicional no caminho da luz?",
+      "options": [
+        "Essencial para a cura e a evolução",
+        "Importante, mas difícil de praticar",
+        "Não vejo ligação com o caminho da luz"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 VIBRAÇÃO DOS ALIMENTOS",
+      "text": "Qual a sua principal preocupação ao escolher o que comer?",
+      "options": [
+        "A energia e a vibração dos alimentos",
+        "O valor nutricional e a saúde física",
+        "O sabor e o prazer de comer",
+        "A praticidade e o custo"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS ALIMENTOS",
+      "text": "Você já sentiu uma diferença na sua energia ou humor após consumir certos alimentos?",
+      "options": [
+        "Sim, sou sensível ao que como",
+        "Às vezes, percebo alguma mudança no humor",
+        "Não, não sinto essa ligação"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS ALIMENTOS",
+      "text": "Você acredita que a intenção com que o alimento é preparado pode influenciar sua energia?",
+      "options": [
+        "Sim, a energia do cozinheiro importa",
+        "É uma ideia interessante, mas não me apego",
+        "Não, é apenas sobre os ingredientes"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS ALIMENTOS",
+      "text": "Qual o seu maior desafio em manter uma alimentação que nutra seu corpo e sua alma?",
+      "options": [
+        "A tentação de alimentos não saudáveis",
+        "A falta de tempo para preparar refeições",
+        "O custo de alimentos mais nutritivos",
+        "Não ter conhecimento sobre nutrição"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DOS ALIMENTOS",
+      "text": "Você já utilizou jejum ou dietas de desintoxicação para limpar seu corpo e energia?",
+      "options": [
+        "Sim, e me senti renovado(a)",
+        "Tenho vontade, mas nunca fiz",
+        "Não, não acredito nessas práticas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ RELACIONAMENTO COM O EU SUPERIOR",
+      "text": "Qual a sua maior dificuldade em confiar na sua conexão com o Eu Superior ou sua intuição mais profunda?",
+      "options": [
+        "Dúvida se estou realmente conectado(a)",
+        "Não saber como silenciar a mente para ouvir",
+        "O medo de seguir um caminho diferente",
+        "Não entendo o conceito de Eu Superior"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO COM O EU SUPERIOR",
+      "text": "Você busca momentos de silêncio e solidão para se reconectar consigo mesmo(a)?",
+      "options": [
+        "Sim, são essenciais para meu bem-estar",
+        "Às vezes, mas me sinto sozinho(a) facilmente",
+        "Não, prefiro estar sempre ativo(a)"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO COM O EU SUPERIOR",
+      "text": "Qual a sua visão sobre o papel do amor próprio na conexão com o Eu Superior?",
+      "options": [
+        "Fundamental para abrir o canal de comunicação",
+        "Importante para o bem-estar, mas não diretamente ligado à conexão",
+        "Não vejo a relação"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO COM O EU SUPERIOR",
+      "text": "Você já teve uma experiência de 'satori' ou 'iluminação' (um momento de clareza súbita e profunda)?",
+      "options": [
+        "Sim, e foi transformador",
+        "Acho que sim, tive insights importantes",
+        "Não, nunca tive"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO COM O EU SUPERIOR",
+      "text": "Qual a sua maior inspiração para buscar um relacionamento mais profundo consigo mesmo(a)?",
+      "options": [
+        "A busca pela paz e plenitude interior",
+        "O desejo de autoconhecimento e evolução",
+        "A necessidade de superar desafios pessoais",
+        "A influência de mestres espirituais"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 SONHOS LÚCIDOS",
+      "text": "Você já teve um sonho lúcido (onde você sabe que está sonhando e pode controlar o sonho)?",
+      "options": [
+        "Sim, frequentemente",
+        "Raramente, mas já aconteceu",
+        "Nunca, mas tenho curiosidade",
+        "Nunca, e não me interesso"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS LÚCIDOS",
+      "text": "Qual a sua maior dificuldade em induzir ou manter um sonho lúcido?",
+      "options": [
+        "Não conseguir perceber que estou sonhando",
+        "Acordar no meio do sonho lúcido",
+        "Perder o controle do sonho",
+        "Não pratico técnicas de indução"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS LÚCIDOS",
+      "text": "Você acredita que os sonhos lúcidos podem ser usados para resolver problemas ou explorar o subconsciente?",
+      "options": [
+        "Sim, são uma ferramenta poderosa",
+        "É uma possibilidade, mas não tenho certeza",
+        "Não, são apenas fenômenos da mente"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS LÚCIDOS",
+      "text": "Qual a sua motivação principal para ter sonhos lúcidos?",
+      "options": [
+        "Explorar mundos imaginários e ter experiências únicas",
+        "Praticar habilidades ou superar medos no sonho",
+        "Obter insights ou resolver problemas",
+        "Apenas por curiosidade"
+      ]
+    },
+    {
+      "title": "🔮 SONHOS LÚCIDOS",
+      "text": "Você já utilizou aplicativos ou diários para registrar e analisar seus sonhos em busca de padrões?",
+      "options": [
+        "Sim, é muito útil",
+        "Tenho vontade, mas nunca comecei",
+        "Não, não vejo necessidade"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 EXPANSÃO DA CONSCIÊNCIA",
+      "text": "Você busca expandir sua consciência através de meditação, yoga, leituras ou outras práticas?",
+      "options": [
+        "Sim, é uma busca constante",
+        "Às vezes, quando tenho tempo",
+        "Não, não me interesso por isso"
+      ]
+    },
+    {
+      "title": "🌌 EXPANSÃO DA CONSCIÊNCIA",
+      "text": "Qual a sua maior dificuldade em manter um estado de consciência expandida no dia a dia?",
+      "options": [
+        "As distrações e o ritmo acelerado da vida",
+        "As preocupações e os problemas cotidianos",
+        "A falta de disciplina nas práticas",
+        "Não sei como expandir a consciência"
+      ]
+    },
+    {
+      "title": "🌌 EXPANSÃO DA CONSCIÊNCIA",
+      "text": "Você acredita que a humanidade está em um processo de evolução da consciência?",
+      "options": [
+        "Sim, estamos despertando",
+        "É um processo lento e com muitos desafios",
+        "Não, vejo mais regressão do que evolução"
+      ]
+    },
+    {
+      "title": "🌌 EXPANSÃO DA CONSCIÊNCIA",
+      "text": "Qual a sua visão sobre o papel da arte e da música na expansão da consciência?",
+      "options": [
+        "São portais para outras dimensões",
+        "Ajudam a relaxar e inspiram, mas não expandem a consciência",
+        "Não vejo essa ligação"
+      ]
+    },
+    {
+      "title": "🌌 EXPANSÃO DA CONSCIÊNCIA",
+      "text": "Você já teve uma experiência de 'unidade' ou 'conexão com tudo' durante meditação ou na natureza?",
+      "options": [
+        "Sim, e foi transformador",
+        "Tive sensações de paz profunda, mas não de unidade",
+        "Não, nunca tive"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 O PODER DO SILÊNCIO",
+      "text": "Com qual frequência você busca momentos de silêncio absoluto em sua rotina?",
+      "options": [
+        "Diariamente, é essencial",
+        "Algumas vezes por semana, quando consigo",
+        "Raramente ou nunca, não gosto de silêncio"
+      ]
+    },
+    {
+      "title": "🌿 O PODER DO SILÊNCIO",
+      "text": "Qual a sua maior dificuldade em ficar em silêncio consigo mesmo(a)?",
+      "options": [
+        "A mente agitada e cheia de pensamentos",
+        "O desconforto em lidar com as próprias emoções",
+        "A falta de hábito e paciência",
+        "Não tenho dificuldade"
+      ]
+    },
+    {
+      "title": "🌿 O PODER DO SILÊNCIO",
+      "text": "Você acredita que o silêncio pode ser uma ferramenta poderosa para o autoconhecimento?",
+      "options": [
+        "Sim, a verdade se revela no silêncio",
+        "Ajuda a refletir, mas não é a única forma",
+        "Não, o autoconhecimento vem da ação"
+      ]
+    },
+    {
+      "title": "🌿 O PODER DO SILÊNCIO",
+      "text": "Qual a sua reação ao estar em um ambiente com muito barulho e poluição sonora?",
+      "options": [
+        "Sinto-me irritado(a) e desconfortável",
+        "Tento me adaptar, mas me cansa",
+        "Não me afeta muito, consigo me concentrar"
+      ]
+    },
+    {
+      "title": "🌿 O PODER DO SILÊNCIO",
+      "text": "Você já utilizou o silêncio para ouvir sua intuição ou receber mensagens?",
+      "options": [
+        "Sim, é um canal direto",
+        "Tenho vontade, mas não sei como",
+        "Não, não acredito nisso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ RELACIONAMENTO SAUDÁVEL",
+      "text": "Qual o pilar mais importante para um relacionamento saudável e duradouro, na sua opinião?",
+      "options": [
+        "Respeito e confiança mútua",
+        "Comunicação aberta e honesta",
+        "Amor e admiração",
+        "Interesses e valores em comum"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO SAUDÁVEL",
+      "text": "Você se sente mais confortável em expressar suas necessidades ou em adivinhar as do outro em um relacionamento?",
+      "options": [
+        "Expressar minhas necessidades, é importante ser claro(a)",
+        "Adivinhar as do outro, para evitar conflitos",
+        "Busco um equilíbrio entre os dois"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO SAUDÁVEL",
+      "text": "Qual a sua maior dificuldade em perdoar e superar conflitos em relacionamentos?",
+      "options": [
+        "Deixar o orgulho de lado",
+        "Confiar novamente na pessoa",
+        "Aceitar que as pessoas erram",
+        "Não conseguir esquecer o que aconteceu"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO SAUDÁVEL",
+      "text": "Você acredita que o amor é uma escolha diária ou uma paixão que se mantém acesa naturalmente?",
+      "options": [
+        "Uma escolha diária, com esforço e dedicação",
+        "Uma paixão que se mantém, se for verdadeiro",
+        "Uma mistura dos dois"
+      ]
+    },
+    {
+      "title": "✨ RELACIONAMENTO SAUDÁVEL",
+      "text": "Qual a sua visão sobre o espaço individual em um relacionamento?",
+      "options": [
+        "Essencial para a liberdade e crescimento de cada um",
+        "Importante, mas o casal deve fazer tudo junto",
+        "Pode esfriar a paixão e o envolvimento"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 SINAIS DO UNIVERSO",
+      "text": "Você já recebeu um sinal do universo que te confirmou que estava no caminho certo?",
+      "options": [
+        "Sim, e foi muito claro",
+        "Tive algumas coincidências, mas não sei se foi um sinal",
+        "Não, minhas decisões são baseadas em fatos"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO UNIVERSO",
+      "text": "Qual a sua maior dificuldade em confiar nos sinais que o universo te envia?",
+      "options": [
+        "A dúvida se é um sinal real ou imaginação",
+        "Achar que é muito místico e abstrato",
+        "Não saber como interpretá-los",
+        "Não percebo os sinais"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO UNIVERSO",
+      "text": "Você busca ativamente sinais do universo quando está em dúvida ou em busca de respostas?",
+      "options": [
+        "Sim, converso com o universo e peço sinais",
+        "Às vezes, quando a intuição é forte",
+        "Não, busco respostas dentro de mim ou em outras pessoas"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO UNIVERSO",
+      "text": "Qual a sua visão sobre o papel das 'coincidências' em sua vida?",
+      "options": [
+        "São sincronicidades, não coincidências",
+        "São eventos aleatórios, sem significado profundo",
+        "São oportunidades a serem observadas"
+      ]
+    },
+    {
+      "title": "🔮 SINAIS DO UNIVERSO",
+      "text": "Você já teve a sensação de que uma porta se abriu para você de forma inesperada, como um presente do universo?",
+      "options": [
+        "Sim, e foi uma bênção",
+        "Tive sorte, mas não sei se foi o universo",
+        "Não, minhas conquistas são sempre fruto do meu esforço"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 PROPÓSITO DE ALMA E VOCAÇÃO",
+      "text": "Você acredita que sua vocação profissional está ligada ao seu propósito de alma?",
+      "options": [
+        "Sim, meu trabalho é minha missão",
+        "Pode ser, mas nem sempre é o caso",
+        "Não, são coisas separadas"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA E VOCAÇÃO",
+      "text": "Qual o seu maior desafio em alinhar sua vida profissional com seus valores espirituais?",
+      "options": [
+        "O mercado de trabalho que não valoriza esses valores",
+        "A dificuldade em encontrar um trabalho com propósito",
+        "O medo de arriscar e mudar de carreira",
+        "Não tenho dificuldade, já estou alinhado(a)"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA E VOCAÇÃO",
+      "text": "Você se sente mais realizado(a) quando está usando seus talentos para ajudar o mundo ou para o seu próprio crescimento?",
+      "options": [
+        "Ajudar o mundo, sinto propósito maior",
+        "Meu próprio crescimento, para ser minha melhor versão",
+        "Ambos, são interdependentes"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA E VOCAÇÃO",
+      "text": "Qual a sua visão sobre o conceito de 'serviço' na sua jornada de propósito?",
+      "options": [
+        "Essencial para a evolução da alma",
+        "Importante para a comunidade, mas não para o propósito pessoal",
+        "Não vejo a ligação entre serviço e propósito"
+      ]
+    },
+    {
+      "title": "🌌 PROPÓSITO DE ALMA E VOCAÇÃO",
+      "text": "Você busca mentores ou guias para te ajudar a encontrar ou trilhar seu propósito?",
+      "options": [
+        "Sim, o conhecimento de outros é valioso",
+        "Prefiro trilhar meu caminho sozinho(a)",
+        "Não vejo a necessidade de guias"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 PLANTAS SAGRADAS E ENERGÉTICAS",
+      "text": "Você tem plantas em casa e acredita que elas contribuem para a energia do ambiente?",
+      "options": [
+        "Sim, elas purificam e trazem vida",
+        "Tenho, mas não penso na energia delas",
+        "Não, não tenho plantas"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS SAGRADAS E ENERGÉTICAS",
+      "text": "Qual planta você sente que tem uma energia especial para você?",
+      "options": [
+        "Arruda (proteção)",
+        "Alecrim (limpeza, alegria)",
+        "Espada de São Jorge (purificação)",
+        "Manjericão (prosperidade)"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS SAGRADAS E ENERGÉTICAS",
+      "text": "Você já utilizou alguma planta como amuleto ou para rituais de proteção?",
+      "options": [
+        "Sim, e sinto seu poder",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS SAGRADAS E ENERGÉTICAS",
+      "text": "Qual a sua maior dificuldade em cuidar de plantas?",
+      "options": [
+        "Esquecer de regar",
+        "Não saber o que elas precisam",
+        "Achar que dá muito trabalho",
+        "Tenho facilidade com plantas"
+      ]
+    },
+    {
+      "title": "🌿 PLANTAS SAGRADAS E ENERGÉTICAS",
+      "text": "Você se sente mais conectado(a) com a sabedoria ancestral das plantas quando está na natureza selvagem ou em um jardim cultivado?",
+      "options": [
+        "Natureza selvagem, pela força e liberdade",
+        "Jardim cultivado, pela harmonia e cuidado",
+        "Ambos, de diferentes formas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA DO CORPO E ALMA",
+      "text": "Você sente que seu corpo é um templo sagrado que reflete o estado da sua alma?",
+      "options": [
+        "Sim, corpo e alma são um só",
+        "É uma visão interessante, mas separo corpo e alma",
+        "Não, o corpo é apenas o meu veículo"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DO CORPO E ALMA",
+      "text": "Qual a sua maior dificuldade em cuidar do seu corpo de forma holística (mente, corpo, espírito)?",
+      "options": [
+        "A falta de tempo para todas as práticas",
+        "Não saber como equilibrar os aspectos",
+        "A preguiça e a falta de disciplina",
+        "Me cuido de forma holística"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DO CORPO E ALMA",
+      "text": "Você já sentiu dores ou desconfortos físicos que se curaram após você resolver uma questão emocional ou espiritual?",
+      "options": [
+        "Sim, e foi uma prova da conexão",
+        "Senti alívio, mas não sei se foi cura espiritual",
+        "Não, minhas dores são sempre físicas"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DO CORPO E ALMA",
+      "text": "Qual a sua visão sobre a importância do sono para a sua energia e bem-estar?",
+      "options": [
+        "Essencial para recarregar corpo e alma",
+        "Importante para o descanso físico, mas não para a energia espiritual",
+        "Não priorizo muito o sono"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA DO CORPO E ALMA",
+      "text": "Você pratica alguma forma de movimento consciente (yoga, tai chi, dança) para alinhar corpo e energia?",
+      "options": [
+        "Sim, e sinto a diferença",
+        "Tenho vontade, mas nunca fiz",
+        "Não, prefiro outros tipos de exercício"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 TAROT E ORÁCULOS",
+      "text": "Você já consultou o Tarot ou outros oráculos para obter orientação?",
+      "options": [
+        "Sim, e foi muito útil",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito em oráculos"
+      ]
+    },
+    {
+      "title": "🔮 TAROT E ORÁCULOS",
+      "text": "Qual o seu maior receio em relação às leituras de oráculos?",
+      "options": [
+        "Receber uma mensagem negativa",
+        "Achar que é uma manipulação",
+        "Não entender a mensagem",
+        "Não acreditar na leitura"
+      ]
+    },
+    {
+      "title": "🔮 TAROT E ORÁCULOS",
+      "text": "Você acredita que os oráculos revelam o futuro ou apenas tendências e possibilidades?",
+      "options": [
+        "Tendências e possibilidades, para nos guiar",
+        "O futuro, se a leitura for precisa",
+        "Não acredito que revelem nada"
+      ]
+    },
+    {
+      "title": "🔮 TAROT E ORÁCULOS",
+      "text": "Qual a sua maior dificuldade em confiar na sua própria intuição ao lidar com oráculos?",
+      "options": [
+        "Duvidar do que a intuição diz",
+        "Não saber como interpretá-la",
+        "Achar que é muito complexo",
+        "Confio facilmente"
+      ]
+    },
+    {
+      "title": "🔮 TAROT E ORÁCULOS",
+      "text": "Você já teve uma experiência de leitura de oráculo que te trouxe uma grande clareza ou transformação?",
+      "options": [
+        "Sim, foi um divisor de águas",
+        "Trouxe alguma clareza, mas não transformou tudo",
+        "Não, nunca tive essa experiência"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 ASTROLOGIA E AUTOCONHECIMENTO",
+      "text": "Você tem conhecimento sobre o seu Mapa Astral e suas influências?",
+      "options": [
+        "Sim, e me identifico muito",
+        "Tenho uma noção básica, mas não aprofundo",
+        "Não, não sei o que é"
+      ]
+    },
+    {
+      "title": "🌌 ASTROLOGIA E AUTOCONHECIMENTO",
+      "text": "Qual o seu maior desafio em aceitar traços da sua personalidade que a astrologia revela e você não gosta?",
+      "options": [
+        "A dificuldade em lidar com as próprias sombras",
+        "Achar que é destino e não há como mudar",
+        "Duvidar da veracidade da astrologia",
+        "Não vejo problema em aceitar"
+      ]
+    },
+    {
+      "title": "🌌 ASTROLOGIA E AUTOCONHECIMENTO",
+      "text": "Você utiliza a astrologia como ferramenta para o autoconhecimento e o desenvolvimento pessoal?",
+      "options": [
+        "Sim, ela me guia e me ajuda a me entender",
+        "Tenho curiosidade, mas não uso ativamente",
+        "Não, não acredito na astrologia"
+      ]
+    },
+    {
+      "title": "🌌 ASTROLOGIA E AUTOCONHECIMENTO",
+      "text": "Qual a sua visão sobre a importância de viver de acordo com os ciclos lunares e planetários?",
+      "options": [
+        "Essencial para alinhar-se com o universo",
+        "Ajuda a ter mais fluidez, mas não é obrigatório",
+        "Não vejo ligação com minha vida"
+      ]
+    },
+    {
+      "title": "🌌 ASTROLOGIA E AUTOCONHECIMENTO",
+      "text": "Você já teve um momento de grande clareza ou revelação sobre si mesmo(a) ao estudar astrologia?",
+      "options": [
+        "Sim, foi transformador",
+        "Tive alguns insights, mas nada profundo",
+        "Não, nunca tive essa experiência"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 VIBRAÇÃO DE GRATIDÃO",
+      "text": "Com qual frequência você pratica a gratidão em seu dia a dia?",
+      "options": [
+        "Diariamente, é um hábito",
+        "Algumas vezes por semana, quando lembro",
+        "Raramente ou nunca, não tenho o hábito"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DE GRATIDÃO",
+      "text": "Qual o seu maior desafio em sentir gratidão em momentos de dificuldade?",
+      "options": [
+        "O desânimo e a tristeza",
+        "Achar que não há nada para agradecer",
+        "A dificuldade em mudar o foco",
+        "Consigo sentir gratidão facilmente"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DE GRATIDÃO",
+      "text": "Você acredita que a gratidão pode transformar sua realidade e atrair mais coisas boas?",
+      "options": [
+        "Sim, a gratidão é um ímã",
+        "Ajuda a ter uma visão mais positiva, mas não atrai diretamente",
+        "Não, a gratidão é apenas um sentimento"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DE GRATIDÃO",
+      "text": "Qual a sua forma favorita de expressar gratidão a outras pessoas?",
+      "options": [
+        "Palavras de afirmação e reconhecimento",
+        "Atos de serviço e ajuda prática",
+        "Presentes e surpresas",
+        "Tempo de qualidade e atenção"
+      ]
+    },
+    {
+      "title": "🌿 VIBRAÇÃO DE GRATIDÃO",
+      "text": "Você já teve uma experiência de manifestação de um desejo após praticar gratidão por ele?",
+      "options": [
+        "Sim, e foi incrível",
+        "Tive algumas coincidências, mas não sei se foi gratidão",
+        "Não, nunca tive"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ LEI DO AMOR",
+      "text": "Você acredita que o amor é a força mais poderosa do universo?",
+      "options": [
+        "Sim, é a base de tudo",
+        "É uma força importante, mas não a única",
+        "Não, outras forças são mais poderosas"
+      ]
+    },
+    {
+      "title": "✨ LEI DO AMOR",
+      "text": "Qual o seu maior desafio em praticar o amor incondicional (sem expectativas) em seus relacionamentos?",
+      "options": [
+        "O ego e as próprias necessidades",
+        "O medo de ser magoado(a)",
+        "A dificuldade em aceitar o outro como ele é",
+        "Não sei o que é amor incondicional"
+      ]
+    },
+    {
+      "title": "✨ LEI DO AMOR",
+      "text": "Você se sente mais amado(a) quando está dando amor ou recebendo amor?",
+      "options": [
+        "Dando, sinto a energia fluir",
+        "Recebendo, sinto-me nutrido(a)",
+        "Ambos, é uma troca equilibrada"
+      ]
+    },
+    {
+      "title": "✨ LEI DO AMOR",
+      "text": "Qual a sua visão sobre o papel do perdão na lei do amor?",
+      "options": [
+        "Essencial para liberar bloqueios e viver o amor pleno",
+        "Importante, mas difícil de praticar sempre",
+        "Não vejo ligação com a lei do amor"
+      ]
+    },
+    {
+      "title": "✨ LEI DO AMOR",
+      "text": "Você já teve uma experiência de grande cura ou transformação através do poder do amor?",
+      "options": [
+        "Sim, o amor é a maior cura",
+        "Senti alívio, mas não como cura total",
+        "Não, não tive essa experiência"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 ORÁCULOS E AUTOCONHECIMENTO",
+      "text": "Você utiliza oráculos (Tarot, runas, etc.) como ferramentas de autoconhecimento ou apenas para previsões?",
+      "options": [
+        "Autoconhecimento, para entender meu caminho",
+        "Previsões, para saber o que esperar",
+        "Ambos, dependendo da necessidade"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E AUTOCONHECIMENTO",
+      "text": "Qual o seu maior desafio em interpretar as mensagens dos oráculos para sua vida?",
+      "options": [
+        "Não saber o significado das cartas/símbolos",
+        "Duvidar da minha própria intuição",
+        "Achar que a mensagem é muito abstrata",
+        "Interpretar é fácil para mim"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E AUTOCONHECIMENTO",
+      "text": "Você se sente mais conectado(a) com a sabedoria dos oráculos quando a leitura é feita por um profissional ou por você mesmo(a)?",
+      "options": [
+        "Profissional, pela experiência e conhecimento",
+        "Eu mesmo(a), pela conexão pessoal",
+        "Ambos, em diferentes momentos"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E AUTOCONHECIMENTO",
+      "text": "Qual a sua visão sobre o papel do 'destino' versus 'livre arbítrio' nas leituras de oráculos?",
+      "options": [
+        "Oráculos mostram o destino, mas podemos mudá-lo com o livre arbítrio",
+        "Oráculos mostram tendências, e o livre arbítrio define o caminho",
+        "Oráculos são apenas aleatórios, sem relação com destino ou livre arbítrio"
+      ]
+    },
+    {
+      "title": "🔮 ORÁCULOS E AUTOCONHECIMENTO",
+      "text": "Você já teve uma leitura de oráculo que te trouxe uma grande clareza sobre uma situação de vida?",
+      "options": [
+        "Sim, foi um guia poderoso",
+        "Trouxe alguma clareza, mas não resolveu tudo",
+        "Não, nunca tive essa experiência"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 CONEXÃO CÓSMICA",
+      "text": "Qual o seu maior desejo em relação à sua conexão com o cosmos e o universo?",
+      "options": [
+        "Compreender os mistérios da existência",
+        "Sentir-me parte de algo maior",
+        "Desenvolver minhas habilidades psíquicas",
+        "Ajudar a humanidade na evolução cósmica"
+      ]
+    },
+    {
+      "title": "🌌 CONEXÃO CÓSMICA",
+      "text": "Você se sente mais atraído(a) por fenômenos astronômicos (eclipses, cometas) ou por eventos espirituais (solstícios, equinócios)?",
+      "options": [
+        "Fenômenos astronômicos, pela ciência e beleza",
+        "Eventos espirituais, pela energia e significado",
+        "Ambos, são todos parte do cosmos"
+      ]
+    },
+    {
+      "title": "🌌 CONEXÃO CÓSMICA",
+      "text": "Você já teve uma experiência de 'viagem astral' ou 'projeção de consciência' para fora do corpo?",
+      "options": [
+        "Sim, e foi muito real e transformador",
+        "Acho que sim, tive uma sensação estranha",
+        "Não, nunca tive"
+      ]
+    },
+    {
+      "title": "🌌 CONEXÃO CÓSMICA",
+      "text": "Qual a sua visão sobre a existência de vida em outros planetas ou dimensões?",
+      "options": [
+        "Acredito plenamente, o universo é vasto",
+        "É uma possibilidade, mas não tenho provas",
+        "Não acredito, estamos sozinhos"
+      ]
+    },
+    {
+      "title": "🌌 CONEXÃO CÓSMICA",
+      "text": "Você se sente mais inspirado(a) por filmes, livros ou documentários que exploram o universo e suas possibilidades?",
+      "options": [
+        "Sim, eles expandem minha mente",
+        "Acho interessante, mas não me aprofundo",
+        "Não, prefiro outros temas"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 SABEDORIA DA TERRA E ANCESTRALIDADE",
+      "text": "Qual a sua maior dificuldade em se reconectar com a sabedoria ancestral da terra?",
+      "options": [
+        "A vida moderna e a desconexão com a natureza",
+        "A falta de conhecimento sobre tradições antigas",
+        "Duvidar da veracidade dessas sabedorias",
+        "É fácil para mim"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA E ANCESTRALIDADE",
+      "text": "Você se sente mais conectado(a) com a terra quando está em um ambiente selvagem (floresta, montanha) ou em um espaço cultivado (jardim, horta)?",
+      "options": [
+        "Ambiente selvagem, pela força bruta da natureza",
+        "Espaço cultivado, pela harmonia e cuidado",
+        "Ambos, de diferentes formas"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA E ANCESTRALIDADE",
+      "text": "Você acredita que a terra possui uma consciência própria e nos envia mensagens?",
+      "options": [
+        "Sim, a Terra é um ser vivo",
+        "É uma ideia bonita, mas não tenho certeza",
+        "Não, a Terra é apenas um planeta"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA E ANCESTRALIDADE",
+      "text": "Qual a sua maior dificuldade em praticar o aterramento (grounding) no dia a dia?",
+      "options": [
+        "Falta de tempo ou oportunidade",
+        "Não saber como praticar",
+        "Achar que é muito simples para funcionar",
+        "Não vejo a necessidade"
+      ]
+    },
+    {
+      "title": "🌿 SABEDORIA DA TERRA E ANCESTRALIDADE",
+      "text": "Você já teve uma experiência de grande paz ou clareza mental ao estar descalço(a) na natureza?",
+      "options": [
+        "Sim, e foi transformador",
+        "Senti um bem-estar, mas não como clareza",
+        "Não, nunca tive"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ ENERGIA PESSOAL E PROTEÇÃO",
+      "text": "Qual o seu maior desafio em proteger sua energia de pessoas ou ambientes negativos?",
+      "options": [
+        "Absorver a energia dos outros facilmente",
+        "Dificuldade em estabelecer limites",
+        "Não saber como se proteger de forma eficaz",
+        "Não me sinto afetado(a)"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E PROTEÇÃO",
+      "text": "Você utiliza alguma técnica para 'limpar' ou purificar sua energia pessoal após um dia estressante?",
+      "options": [
+        "Sim, como banhos energéticos ou meditação",
+        "Tento descansar, mas não faço nada específico",
+        "Não, não vejo necessidade"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E PROTEÇÃO",
+      "text": "Qual a sua visão sobre o uso de amuletos ou talismãs para proteção energética?",
+      "options": [
+        "São ferramentas poderosas de proteção",
+        "Ajudam a ter fé, mas a proteção vem de dentro",
+        "Não acredito em amuletos"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E PROTEÇÃO",
+      "text": "Quando você se sente mais vulnerável a energias negativas?",
+      "options": [
+        "Quando estou cansado(a) ou doente",
+        "Quando estou emocionalmente fragilizado(a)",
+        "Quando estou em ambientes com muitas pessoas",
+        "Não me sinto vulnerável"
+      ]
+    },
+    {
+      "title": "✨ ENERGIA PESSOAL E PROTEÇÃO",
+      "text": "Qual a sua principal forma de recarregar sua energia quando se sente esgotado(a)?",
+      "options": [
+        "Estar na natureza ou em silêncio",
+        "Praticar um hobby criativo ou arte",
+        "Fazer exercícios físicos",
+        "Passar tempo com pessoas que amo"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 LINGUAGEM DO AMOR E ALMA",
+      "text": "Você se sente mais amado(a) quando as palavras do outro são um bálsamo para sua alma?",
+      "options": [
+        "Sim, palavras têm um poder imenso para mim",
+        "Palavras são importantes, mas as ações valem mais",
+        "Não me apego muito às palavras"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO AMOR E ALMA",
+      "text": "Qual a sua maior dificuldade em expressar o amor que sente através de palavras?",
+      "options": [
+        "Encontrar as palavras certas",
+        "O medo de ser vulnerável",
+        "Achar que a pessoa já sabe o que sinto",
+        "Não tenho dificuldade"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO AMOR E ALMA",
+      "text": "Você acredita que a 'linguagem do amor' de uma pessoa reflete a sua alma e suas necessidades mais profundas?",
+      "options": [
+        "Sim, é uma janela para o interior",
+        "É uma teoria interessante, mas não me apego",
+        "Não, é apenas uma preferência"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO AMOR E ALMA",
+      "text": "Qual a sua reação quando a linguagem do amor de alguém é muito diferente da sua?",
+      "options": [
+        "Busco entender e aprender a linguagem do outro",
+        "Fico frustrado(a) por não me sentir compreendido(a)",
+        "Aceito, mas continuo expressando do meu jeito",
+        "Não percebo as diferenças"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO AMOR E ALMA",
+      "text": "Você já teve uma experiência de grande conexão em um relacionamento quando as linguagens do amor estavam alinhadas?",
+      "options": [
+        "Sim, a conexão era mágica",
+        "Senti uma boa sintonia, mas não mágica",
+        "Não, não tive essa experiência"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 AUTOCONHECIMENTO CÓSMICO",
+      "text": "Qual a sua maior dificuldade em compreender o seu papel no grande esquema do universo?",
+      "options": [
+        "A dimensão do universo me faz sentir pequeno(a)",
+        "A falta de clareza sobre meu propósito",
+        "Achar que é muito complexo para entender",
+        "Não me preocupo com isso"
+      ]
+    },
+    {
+      "title": "🌌 AUTOCONHECIMENTO CÓSMICO",
+      "text": "Você se sente mais conectado(a) com sua alma quando está observando o céu noturno ou quando está em silêncio e meditação?",
+      "options": [
+        "Céu noturno, a imensidão me inspira",
+        "Silêncio e meditação, busco a verdade interior",
+        "Ambos, em diferentes momentos"
+      ]
+    },
+    {
+      "title": "🌌 AUTOCONHECIMENTO CÓSMICO",
+      "text": "Você acredita que suas ações diárias podem ter um impacto no universo e na evolução coletiva?",
+      "options": [
+        "Sim, tudo está interligado",
+        "Em parte, mas o impacto é mínimo",
+        "Não, minhas ações afetam apenas meu entorno"
+      ]
+    },
+    {
+      "title": "🌌 AUTOCONHECIMENTO CÓSMICO",
+      "text": "Qual a sua visão sobre a importância de buscar o autoconhecimento para se alinhar com o cosmos?",
+      "options": [
+        "Fundamental para compreender o propósito maior",
+        "Importante para o bem-estar pessoal, mas não cósmico",
+        "Não vejo ligação com o cosmos"
+      ]
+    },
+    {
+      "title": "🌌 AUTOCONHECIMENTO CÓSMICO",
+      "text": "Você já teve uma experiência de 'expansão da consciência' que te fez sentir conectado(a) a tudo no universo?",
+      "options": [
+        "Sim, e foi transformador",
+        "Tive sensações de paz profunda, mas não de conexão total",
+        "Não, nunca tive"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 CURA COM A NATUREZA",
+      "text": "Qual a sua maior dificuldade em utilizar a natureza como fonte de cura e bem-estar?",
+      "options": [
+        "A falta de acesso a lugares naturais",
+        "A falta de tempo na rotina",
+        "Não saber como se conectar de forma profunda",
+        "Não vejo a natureza como cura"
+      ]
+    },
+    {
+      "title": "🌿 CURA COM A NATUREZA",
+      "text": "Você já utilizou banhos de sol, terra ou água natural (mar, rio) para revitalizar sua energia?",
+      "options": [
+        "Sim, e sinto-me renovado(a)",
+        "Tenho curiosidade, mas nunca fiz",
+        "Não, não acredito nisso"
+      ]
+    },
+    {
+      "title": "🌿 CURA COM A NATUREZA",
+      "text": "Você se sente mais curado(a) e em paz quando está em ambientes com muita flora ou muita fauna?",
+      "options": [
+        "Muita flora (plantas, árvores), sinto a vitalidade",
+        "Muita fauna (animais), sinto a energia da vida",
+        "Ambos, em diferentes formas"
+      ]
+    },
+    {
+      "title": "🌿 CURA COM A NATUREZA",
+      "text": "Qual a sua visão sobre o papel do ar puro e da luz solar para a sua energia vital?",
+      "options": [
+        "Essencial para a saúde e a vitalidade",
+        "Importante, mas outros fatores também contribuem",
+        "Não vejo ligação com a energia vital"
+      ]
+    },
+    {
+      "title": "🌿 CURA COM A NATUREZA",
+      "text": "Você já teve uma experiência de grande alívio emocional ou físico ao estar em contato profundo com a natureza?",
+      "options": [
+        "Sim, a natureza é uma grande curadora",
+        "Senti um bem-estar, mas não como cura",
+        "Não, não percebo isso"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ SONHOS E JORNADA PESSOAL",
+      "text": "Qual o papel dos seus sonhos em sua jornada de autoconhecimento e crescimento pessoal?",
+      "options": [
+        "São guias e reveladores de verdades internas",
+        "São reflexos do dia a dia, ajudam a processar informações",
+        "Não vejo um papel significativo"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E JORNADA PESSOAL",
+      "text": "Você já teve um sonho que te fez mudar uma decisão ou um rumo na vida?",
+      "options": [
+        "Sim, e foi uma mudança importante",
+        "Talvez, ele influenciou minha reflexão",
+        "Não, minhas decisões são racionais"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E JORNADA PESSOAL",
+      "text": "Qual a sua maior dificuldade em compartilhar seus sonhos com outras pessoas?",
+      "options": [
+        "Medo de não ser compreendido(a) ou de parecer 'estranho(a)'",
+        "Achar que o sonho é muito pessoal",
+        "Não conseguir expressar com clareza",
+        "Não tenho dificuldade"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E JORNADA PESSOAL",
+      "text": "Você acredita que os sonhos são um diálogo entre sua consciência e seu inconsciente?",
+      "options": [
+        "Sim, é o caminho da alma",
+        "É uma teoria interessante, mas não me aprofundo",
+        "Não, são apenas imagens aleatórias"
+      ]
+    },
+    {
+      "title": "✨ SONHOS E JORNADA PESSOAL",
+      "text": "Qual a sua reação ao acordar de um sonho muito vívido e significativo?",
+      "options": [
+        "Reflito sobre ele e busco o significado",
+        "Fico pensativo(a), mas logo esqueço",
+        "Não dou muita importância",
+        "Busco registrar para não esquecer"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 LINGUAGEM DO CORAÇÃO",
+      "text": "Qual a sua maior dificuldade em ouvir a linguagem do seu coração (intuição, sentimentos)?",
+      "options": [
+        "O barulho da mente e da razão",
+        "O medo de seguir o coração e errar",
+        "A falta de tempo para se conectar consigo mesmo(a)",
+        "Não consigo identificar a voz do coração"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO CORAÇÃO",
+      "text": "Você se sente mais guiado(a) pela voz do coração ou pela voz da razão em suas decisões mais importantes?",
+      "options": [
+        "Coração, ele me guia para o verdadeiro caminho",
+        "Razão, ela me traz segurança e lógica",
+        "Busco o equilíbrio entre os dois"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO CORAÇÃO",
+      "text": "Qual a sua visão sobre o papel das emoções na sua jornada de autoconhecimento?",
+      "options": [
+        "São guias essenciais para entender a alma",
+        "São reações naturais, mas não guias",
+        "Atrapalham a clareza e a racionalidade"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO CORAÇÃO",
+      "text": "Você já teve uma experiência onde seu coração te impulsionou a fazer algo que sua mente duvidava?",
+      "options": [
+        "Sim, e foi a melhor decisão",
+        "Tive a sensação, mas acabei seguindo a razão",
+        "Não, sempre sigo a razão"
+      ]
+    },
+    {
+      "title": "🔮 LINGUAGEM DO CORAÇÃO",
+      "text": "Qual a sua maior dificuldade em expressar o que sente profundamente para as pessoas?",
+      "options": [
+        "O medo de ser vulnerável",
+        "Achar que não serei compreendido(a)",
+        "Não saber como colocar em palavras",
+        "Não tenho dificuldade"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 EVOLUÇÃO ESPIRITUAL",
+      "text": "Você acredita que a sua alma está em constante evolução e aprendizado?",
+      "options": [
+        "Sim, é uma jornada infinita",
+        "Tenho dúvidas, mas espero que sim",
+        "Não, a evolução é mais material"
+      ]
+    },
+    {
+      "title": "🌌 EVOLUÇÃO ESPIRITUAL",
+      "text": "Qual a sua maior dificuldade em aceitar que o processo de evolução espiritual pode ser doloroso ou desafiador?",
+      "options": [
+        "O medo da dor e do desconforto",
+        "Achar que a espiritualidade deve ser só paz",
+        "A dificuldade em lidar com as próprias sombras",
+        "Aceito o processo como ele é"
+      ]
+    },
+    {
+      "title": "🌌 EVOLUÇÃO ESPIRITUAL",
+      "text": "Você busca ativamente por oportunidades de crescimento e aprendizado espiritual na sua vida?",
+      "options": [
+        "Sim, é uma prioridade",
+        "Às vezes, quando algo me chama a atenção",
+        "Não, prefiro que a vida me traga os ensinamentos"
+      ]
+    },
+    {
+      "title": "🌌 EVOLUÇÃO ESPIRITUAL",
+      "text": "Qual a sua visão sobre o papel do amor e da compaixão na evolução da alma?",
+      "options": [
+        "Essencial para a elevação da consciência",
+        "Importante para os relacionamentos, mas não para a evolução espiritual",
+        "Não vejo a ligação"
+      ]
+    },
+    {
+      "title": "🌌 EVOLUÇÃO ESPIRITUAL",
+      "text": "Você já teve uma experiência de grande crescimento ou transformação após um período de intensa dificuldade ou sofrimento?",
+      "options": [
+        "Sim, a dor me transformou",
+        "Aprendi algo, mas preferiria não ter sofrido",
+        "Não, o sofrimento só me trouxe dor"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌿 CAMINHO DA CURA HOLÍSTICA",
+      "text": "Qual a sua maior dificuldade em integrar práticas de cura holística (física, mental, espiritual) no seu dia a dia?",
+      "options": [
+        "A falta de tempo e disciplina",
+        "Não saber por onde começar ou quais práticas usar",
+        "Dúvida sobre a eficácia dessas práticas",
+        "Já integro facilmente"
+      ]
+    },
+    {
+      "title": "🌿 CAMINHO DA CURA HOLÍSTICA",
+      "text": "Você busca alimentos que nutram seu corpo e sua alma?",
+      "options": [
+        "Sim, a alimentação é fundamental para a energia",
+        "Busco nutrição física, mas não penso na alma",
+        "Não, como o que me apetece"
+      ]
+    },
+    {
+      "title": "🌿 CAMINHO DA CURA HOLÍSTICA",
+      "text": "Você se sente mais curado(a) e em paz quando está em contato com a natureza ou quando está em um ambiente de retiro ou meditação?",
+      "options": [
+        "Natureza, pela energia vital",
+        "Retiro/meditação, pela introspecção profunda",
+        "Ambos, em diferentes momentos"
+      ]
+    },
+    {
+      "title": "🌿 CAMINHO DA CURA HOLÍSTICA",
+      "text": "Qual a sua visão sobre a importância do perdão (a si mesmo(a) e aos outros) na sua jornada de cura?",
+      "options": [
+        "Essencial para liberar bloqueios e viver plenamente",
+        "Importante, mas difícil de praticar sempre",
+        "Não vejo ligação com a cura"
+      ]
+    },
+    {
+      "title": "🌿 CAMINHO DA CURA HOLÍSTICA",
+      "text": "Você já utilizou alguma prática de cura alternativa (acupuntura, reiki, florais) e sentiu benefícios na sua saúde?",
+      "options": [
+        "Sim, e acredito muito nelas",
+        "Tenho curiosidade, mas nunca tentei",
+        "Não, prefiro a medicina tradicional"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "✨ AUTOCONHECIMENTO ATRAVÉS DOS DESAFIOS",
+      "text": "Qual o seu maior aprendizado em relação aos desafios e obstáculos que você já enfrentou?",
+      "options": [
+        "Minha força interior e resiliência",
+        "A importância de pedir ajuda",
+        "Que tudo passa e a vida continua",
+        "Que eu sou capaz de superar qualquer coisa"
+      ]
+    },
+    {
+      "title": "✨ AUTOCONHECIMENTO ATRAVÉS DOS DESAFIOS",
+      "text": "Você se sente mais motivado(a) a crescer e evoluir em momentos de conforto ou de crise?",
+      "options": [
+        "Crise, ela me impulsiona a buscar soluções",
+        "Conforto, posso focar no crescimento sem pressões",
+        "Ambos, mas a crise é um catalisador"
+      ]
+    },
+    {
+      "title": "✨ AUTOCONHECIMENTO ATRAVÉS DOS DESAFIOS",
+      "text": "Qual a sua maior dificuldade em aceitar que os desafios fazem parte da jornada de crescimento?",
+      "options": [
+        "Achar que a vida deveria ser fácil",
+        "O medo da dor e do sofrimento",
+        "A dificuldade em ver o lado positivo das situações",
+        "Aceito os desafios como aprendizado"
+      ]
+    },
+    {
+      "title": "✨ AUTOCONHECIMENTO ATRAVÉS DOS DESAFIOS",
+      "text": "Você busca lições e aprendizados em todas as suas experiências, mesmo as negativas?",
+      "options": [
+        "Sim, tudo é uma oportunidade de crescimento",
+        "Tento, mas às vezes é difícil ver o lado bom",
+        "Não, prefiro seguir em frente sem olhar para trás"
+      ]
+    },
+    {
+      "title": "✨ AUTOCONHECIMENTO ATRAVÉS DOS DESAFIOS",
+      "text": "Qual a sua visão sobre o papel do erro na sua jornada de autoconhecimento?",
+      "options": [
+        "Essencial para aprender e evoluir",
+        "Algo a ser evitado, prefiro acertar",
+        "É uma oportunidade de se culpar",
+        "Não vejo o erro como algo positivo"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🔮 CONEXÃO COM GUIAS E ANCESTRAIS",
+      "text": "Você acredita na existência de guias espirituais, anjos da guarda ou ancestrais que te auxiliam?",
+      "options": [
+        "Sim, sinto a presença e a proteção",
+        "É uma crença bonita, mas não tenho certeza",
+        "Não, sou cético(a)"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO COM GUIAS E ANCESTRAIS",
+      "text": "Qual a sua maior dificuldade em se comunicar ou sentir a presença desses guias ou ancestrais?",
+      "options": [
+        "Dúvida se estou realmente conectado(a)",
+        "Não saber como se comunicar",
+        "O barulho da mente e do mundo exterior",
+        "Não acredito na existência deles"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO COM GUIAS E ANCESTRAIS",
+      "text": "Você busca conhecimento ou práticas para fortalecer sua conexão com o mundo espiritual?",
+      "options": [
+        "Sim, é uma busca constante",
+        "Às vezes, quando algo me chama a atenção",
+        "Não, não me interesso"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO COM GUIAS E ANCESTRAIS",
+      "text": "Qual a sua visão sobre o papel dos sonhos na comunicação com guias ou ancestrais?",
+      "options": [
+        "São um canal direto de mensagens",
+        "Podem trazer insights, mas não são o único canal",
+        "Não vejo ligação com comunicação espiritual"
+      ]
+    },
+    {
+      "title": "🔮 CONEXÃO COM GUIAS E ANCESTRAIS",
+      "text": "Você já teve uma experiência onde sentiu que foi guiado(a) ou protegido(a) por uma força invisível?",
+      "options": [
+        "Sim, e foi muito clara",
+        "Tive um pressentimento forte, mas não sei se foi guia",
+        "Não, nunca tive"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "🌌 ALINHAMENTO COM A MISSÃO DE ALMA",
+      "text": "Qual o seu maior desejo em relação à sua missão de alma?",
+      "options": [
+        "Descobri-la e vivê-la plenamente",
+        "Ter clareza sobre o meu caminho",
+        "Ter recursos e apoio para realizá-la",
+        "Não sei se tenho uma missão de alma"
+      ]
+    },
+    {
+      "title": "🌌 ALINHAMENTO COM A MISSÃO DE ALMA",
+      "text": "Você se sente mais energizado(a) quando está trabalhando em algo que você acredita ser parte da sua missão?",
+      "options": [
+        "Sim, sinto um propósito maior",
+        "Sinto motivação, mas não necessariamente energia espiritual",
+        "Não, o trabalho é trabalho"
+      ]
+    },
+    {
+      "title": "🌌 ALINHAMENTO COM A MISSÃO DE ALMA",
+      "text": "Qual a sua maior dificuldade em sair da zona de conforto para seguir sua missão de alma?",
+      "options": [
+        "O medo do desconhecido e do fracasso",
+        "A opinião e as expectativas alheias",
+        "A falta de coragem para arriscar",
+        "Não vejo a necessidade de sair da zona de conforto"
+      ]
+    },
+    {
+      "title": "🌌 ALINHAMENTO COM A MISSÃO DE ALMA",
+      "text": "Você acredita que a vida te apresenta desafios para te alinhar com sua missão de alma?",
+      "options": [
+        "Sim, são testes para o crescimento",
+        "São obstáculos, que podem ou não me guiar",
+        "Não, desafios são apenas parte da vida"
+      ]
+    },
+    {
+      "title": "🌌 ALINHAMENTO COM A MISSÃO DE ALMA",
+      "text": "Qual a sua maior inspiração para viver uma vida alinhada com sua missão de alma?",
+      "options": [
+        "A busca pela felicidade e realização plena",
+        "O desejo de impactar o mundo positivamente",
+        "A conexão com o Divino e o propósito maior",
+        "O exemplo de pessoas que vivem sua missão"
+      ]
+    }
   ]
 ]
+   
