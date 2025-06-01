@@ -1,7 +1,7 @@
 [
   [
     {
-      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
+      "title": "💔 AMOR NÃO RESOLVIDO ",
       "text": "Você ainda sente que ele está conectado com você?",
       "options": [
         "Sim, como se fosse um fio invisível",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
+      "title": "💔 AMOR NÃO RESOLVIDO ",
       "text": "Qual foi a última vez que ele te procurou?",
       "options": [
         "Nos últimos dias",
