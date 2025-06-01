@@ -1,7 +1,7 @@
 [
   [
     {
-      "title": "💔 AMOR NÃO RESOLVIDO ",
+      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
       "text": "Você ainda sente que ele está conectado com você?",
       "options": [
         "Sim, como se fosse um fio invisível",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "💔 AMOR NÃO RESOLVIDO ",
+      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
       "text": "Qual foi a última vez que ele te procurou?",
       "options": [
         "Nos últimos dias",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "💔 AMOR NÃO RESOLVIDO ",
+      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
       "text": "O que você gostaria de perguntar pra ele hoje?",
       "options": [
         "Por que ele se afastou?",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO",
+      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO - Versão 1",
       "text": "Você já viu sinais repetidos como horas iguais ou nomes?",
       "options": [
         "Sim, direto",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO",
+      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO - Versão 1",
       "text": "Como anda sua intuição ultimamente?",
       "options": [
         "Forte e ativa",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "🔮 RITUAL/INTERAÇÃO ",
+      "title": "🔮 RITUAL/INTERAÇÃO - Versão 1",
       "text": "Qual dessas ações você já fez por ele?",
       "options": [
         "Orei ou mentalizei",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "title": "🔮 RITUAL/INTERAÇÃO",
+      "title": "🔮 RITUAL/INTERAÇÃO - Versão 1",
       "text": "Se ele voltasse hoje, você:",
       "options": [
         "Correria pros braços dele",
@@ -69,7 +69,7 @@
   ],
   [
     {
-      "title": "✨ SONHOS E SINAIS",
+      "title": "✨ SONHOS E SINAIS - Versão 2",
       "text": "Você tem tido sonhos vívidos ou recorrentes ultimamente?",
       "options": [
         "Sim, e parecem mensagens",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "title": "✨ SONHOS E SINAIS ",
+      "title": "✨ SONHOS E SINAIS - Versão 2",
       "text": "Qual foi a última vez que você sentiu um 'pressentimento' forte que se confirmou?",
       "options": [
         "Recentemente, foi impressionante",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "title": "⚡ ENERGIA PESSOAL",
+      "title": "⚡ ENERGIA PESSOAL - Versão 2",
       "text": "Como você se sente ao entrar em um ambiente novo?",
       "options": [
         "Sinto a energia do local, sou sensível",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "title": "⚡ ENERGIA PESSOAL ",
+      "title": "⚡ ENERGIA PESSOAL - Versão 2",
       "text": "Você se sente mais atraído(a) por lugares tranquilos ou agitados?",
       "options": [
         "Tranquilos, para recarregar as energias",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "title": "🔮 CONEXÃO ESPIRITUAL",
+      "title": "🔮 CONEXÃO ESPIRITUAL - Versão 2",
       "text": "Você acredita em algum tipo de força maior ou destino?",
       "options": [
         "Sim, firmemente",
@@ -116,7 +116,7 @@
   ],
   [
     {
-      "title": "💫 SINTONIA PESSOAL",
+      "title": "💫 SINTONIA PESSOAL - Versão 3",
       "text": "Com qual frequência você se sente 'conectado(a)' a pessoas sem precisar de palavras?",
       "options": [
         "Quase sempre, é natural pra mim",
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL ",
+      "title": "💫 SINTONIA PESSOAL - Versão 3",
       "text": "Você já sentiu a presença de alguém que não estava fisicamente presente?",
       "options": [
         "Sim, e era bem real",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL",
+      "title": "💫 SINTONIA PESSOAL - Versão 3",
       "text": "Qual cor mais te atrai e te transmite energia no momento?",
       "options": [
         "Azul/Roxo (Calma, espiritualidade)",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL ",
+      "title": "💫 SINTONIA PESSOAL - Versão 3",
       "text": "Seu ambiente atual reflete sua paz interior?",
       "options": [
         "Sim, é meu santuário",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL ",
+      "title": "💫 SINTONIA PESSOAL - Versão 3",
       "text": "Você se sente mais atraído(a) por símbolos antigos ou por inovações tecnológicas?",
       "options": [
         "Símbolos antigos e a sabedoria ancestral",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA ",
+      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
       "text": "Você costuma falar com plantas ou animais como se eles entendessem?",
       "options": [
         "Sim, sinto uma conexão real",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA",
+      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
       "text": "Qual tipo de cristal ou pedra te chama mais atenção?",
       "options": [
         "Ametista (calma, intuição)",
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA ",
+      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
       "text": "Você prefere meditar em um local fechado ou ao ar livre?",
       "options": [
         "Ao ar livre, em contato com a natureza",
@@ -498,6 +498,105 @@
         "Minha saúde e bem-estar",
         "Minha carreira ou propósito",
         "Minha capacidade de aprender e crescer"
+      ]
+    }
+  ],
+  [
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Você se sente mais atraído(a) por quem te desafia ou por quem te complementa?",
+      "options": [
+        "Quem me desafia a crescer",
+        "Quem me complementa e traz paz",
+        "Uma mistura dos dois"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Em um relacionamento, o que é mais importante para você?",
+      "options": [
+        "Confiança e lealdade",
+        "Paixão e intensidade",
+        "Comunicação e entendimento",
+        "Espaço individual e liberdade"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Qual o seu maior medo em relação ao amor?",
+      "options": [
+        "Ser traído(a) ou enganado(a)",
+        "A rotina e a falta de paixão",
+        "Perder a si mesmo(a) em um relacionamento",
+        "Não encontrar alguém que realmente me entenda"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Você acredita em almas gêmeas ou que o amor é construído?",
+      "options": [
+        "Acredito em almas gêmeas, destino",
+        "Acredito que o amor é construído com esforço",
+        "Acredito que é uma mistura dos dois"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Quando você se sente mais amado(a)?",
+      "options": [
+        "Com palavras de afirmação e carinho",
+        "Com atos de serviço e ajuda prática",
+        "Com presentes e surpresas",
+        "Com tempo de qualidade e atenção"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Qual a sua maior dificuldade em expressar o amor?",
+      "options": [
+        "Dizer 'eu te amo'",
+        "Demonstrar carinho fisicamente",
+        "Abrir-se e mostrar vulnerabilidade",
+        "Priorizar o relacionamento na correria"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Você se sente mais confortável em um relacionamento novo ou em um já estabelecido?",
+      "options": [
+        "Novo, pela empolgação e descoberta",
+        "Estabelecido, pela segurança e intimidade",
+        "Me adapto aos dois, busco o melhor em cada um"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Qual a sua linguagem do amor predominante?",
+      "options": [
+        "Palavras de afirmação",
+        "Qualidade de tempo",
+        "Receber presentes",
+        "Atos de serviço",
+        "Toque físico"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "Seu relacionamento atual (ou o que você busca) te impulsiona a ser sua melhor versão?",
+      "options": [
+        "Sim, totalmente",
+        "Em parte, há espaço para crescimento",
+        "Não, sinto que me puxa para baixo"
+      ]
+    },
+    {
+      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "text": "O que você faria hoje para alimentar um relacionamento importante em sua vida?",
+      "options": [
+        "Enviaria uma mensagem carinhosa",
+        "Proporia um encontro especial",
+        "Ofereceria ajuda em algo prático",
+        "Teria uma conversa profunda"
       ]
     }
   ]
