@@ -1,373 +1,373 @@
 [
-  {
-    "title": "💫 SINTONIA PESSOAL - Versão 3",
-    "text": "Com qual frequência você se sente 'conectado(a)' a pessoas sem precisar de palavras?",
-    "options": [
-      "Quase sempre, é natural pra mim",
-      "Às vezes, com pessoas muito próximas",
-      "Raramente, sou mais direto(a)"
-    ]
-  },
-  {
-    "title": "💫 SINTONIA PESSOAL - Versão 3",
-    "text": "Você já sentiu a presença de alguém que não estava fisicamente presente?",
-    "options": [
-      "Sim, e era bem real",
-      "Acho que sim, mas pode ter sido imaginação",
-      "Não, nunca tive essa sensação"
-    ]
-  },
-  {
-    "title": "💫 SINTONIA PESSOAL - Versão 3",
-    "text": "Qual cor mais te atrai e te transmite energia no momento?",
-    "options": [
-      "Azul/Roxo (Calma, espiritualidade)",
-      "Amarelo/Laranja (Alegria, criatividade)",
-      "Vermelho/Preto (Paixão, força)",
-      "Verde/Branco (Cura, paz)"
-    ]
-  },
-  {
-    "title": "💫 SINTONIA PESSOAL - Versão 3",
-    "text": "Seu ambiente atual reflete sua paz interior?",
-    "options": [
-      "Sim, é meu santuário",
-      "Mais ou menos, precisa de ajustes",
-      "Não, é um caos, mas não me importo"
-    ]
-  },
-  {
-    "title": "💫 SINTONIA PESSOAL - Versão 3",
-    "text": "Você se sente mais atraído(a) por símbolos antigos ou por inovações tecnológicas?",
-    "options": [
-      "Símbolos antigos e a sabedoria ancestral",
-      "Ambos, busco equilíbrio entre o novo e o velho",
-      "Inovações tecnológicas e o futuro"
-    ]
-  },
-  {
-    "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
-    "text": "Qual elemento da natureza mais te acalma ou energiza?",
-    "options": [
-      "Água (mar, rio, chuva)",
-      "Terra (floresta, montanha)",
-      "Fogo (fogueira, sol)",
-      "Ar (vento, céu aberto)"
-    ]
-  },
-  {
-    "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
-    "text": "Você costuma falar com plantas ou animais como se eles entendessem?",
-    "options": [
-      "Sim, sinto uma conexão real",
-      "Às vezes, em momentos de carinho",
-      "Não, acho estranho"
-    ]
-  },
-  {
-    "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
-    "text": "Qual tipo de cristal ou pedra te chama mais atenção?",
-    "options": [
-      "Ametista (calma, intuição)",
-      "Quartzo Rosa (amor, harmonia)",
-      "Obsidiana (proteção, aterramento)",
-      "Citrino (prosperidade, alegria)"
-    ]
-  },
-  {
-    "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
-    "text": "Você prefere meditar em um local fechado ou ao ar livre?",
-    "options": [
-      "Ao ar livre, em contato com a natureza",
-      "Em um local fechado, mas com elementos naturais",
-      "Em qualquer lugar que eu me sinta confortável"
-    ]
-  },
-  {
-    "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
-    "text": "Qual animal, real ou mítico, você sente que mais representa sua essência?",
-    "options": [
-      "Coruja (sabedoria, mistério)",
-      "Lobo (lealdade, intuição)",
-      "Fênix (renascimento, superação)",
-      "Borboleta (transformação, leveza)"
-    ]
-  },
-  {
-    "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
-    "text": "Você confia mais na sua intuição ou na lógica para tomar decisões importantes?",
-    "options": [
-      "Na minha intuição, ela nunca falha",
-      "Na lógica, mas dou uma escutada na intuição",
-      "Na lógica, sempre"
-    ]
-  },
-  {
-    "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
-    "text": "Ao conhecer alguém novo, qual é a sua primeira impressão?",
-    "options": [
-      "Sinto a energia da pessoa, se é boa ou não",
-      "Observo o comportamento e a fala",
-      "Sou cético(a) e espero para formar uma opinião"
-    ]
-  },
-  {
-    "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
-    "text": "Quando você se sente triste, o que busca para se reequilibrar?",
-    "options": [
-      "Conexão com a natureza ou meditação",
-      "Conversar com amigos/família",
-      "Distração com filmes, jogos ou trabalho"
-    ]
-  },
-  {
-    "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
-    "text": "Você tem rituais diários ou semanais para cuidar da sua energia?",
-    "options": [
-      "Sim, como banhos de ervas ou defumações",
-      "Às vezes, um bom banho relaxante",
-      "Não, não tenho nenhum ritual"
-    ]
-  },
-  {
-    "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
-    "text": "Qual tipo de música mais ressoa com sua alma?",
-    "options": [
-      "Músicas instrumentais ou com sons da natureza",
-      "Músicas que me fazem dançar e extravasar",
-      "Músicas com letras profundas e reflexivas"
-    ]
-  },
-  {
-    "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
-    "text": "Você acredita em 'coincidências' que parecem ter um significado maior?",
-    "options": [
-      "Com certeza, são sinais do universo",
-      "Às vezes, pode ser apenas sorte ou azar",
-      "Não, são apenas coincidências"
-    ]
-  },
-  {
-    "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
-    "text": "Se você pudesse ver seu futuro, você veria ou o mudaria?",
-    "options": [
-      "Veria para entender o caminho",
-      "Veria para tentar mudar o que não gosto",
-      "Não veria, prefiro viver o presente"
-    ]
-  },
-  {
-    "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
-    "text": "Você se sente atraído(a) por culturas ou tradições espirituais antigas?",
-    "options": [
-      "Sim, busco conhecimento ancestral",
-      "Tenho curiosidade, mas não me aprofundo",
-      "Não, prefiro o que é mais moderno"
-    ]
-  },
-  {
-    "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
-    "text": "Qual fase da lua te inspira mais a iniciar novos projetos ou fazer planos?",
-    "options": [
-      "Lua Nova (início, renovação)",
-      "Lua Crescente (crescimento, expansão)",
-      "Lua Cheia (auge, manifestação)",
-      "Lua Minguante (limpeza, introspecção)"
-    ]
-  },
-  {
-    "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
-    "text": "Você já teve a sensação de 'já ter vivido' um momento ou situação (déjà vu)?",
-    "options": [
-      "Sim, frequentemente",
-      "Algumas vezes, é estranho",
-      "Não, nunca tive"
-    ]
-  },
-  {
-    "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
-    "text": "Você sente a necessidade de se proteger de energias negativas no dia a dia?",
-    "options": [
-      "Sim, faço isso ativamente",
-      "Às vezes me sinto pesado(a), mas não sei como",
-      "Não, não me preocupo com isso"
-    ]
-  },
-  {
-    "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
-    "text": "Qual aroma te traz mais paz e bem-estar?",
-    "options": [
-      "Lavanda (calma, relaxamento)",
-      "Sândalo (meditação, espiritualidade)",
-      "Alecrim (limpeza, energia)",
-      "Hortelã (clareza, renovação)"
-    ]
-  },
-  {
-    "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
-    "text": "Você acredita que objetos ou lugares podem carregar energias residuais?",
-    "options": [
-      "Sim, totalmente",
-      "Talvez, sinto algo diferente às vezes",
-      "Não, não acredito nisso"
-    ]
-  },
-  {
-    "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
-    "text": "Qual a sua maior dificuldade em relação ao equilíbrio emocional?",
-    "options": [
-      "Controlar a ansiedade",
-      "Lidar com a tristeza profunda",
-      "Manter a calma em situações de estresse",
-      "Perdoar a si mesmo(a) ou aos outros"
-    ]
-  },
-  {
-    "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
-    "text": "Você se sente mais conectado(a) com a sabedoria dos seus ancestrais ou com a sua própria intuição?",
-    "options": [
-      "Com a sabedoria ancestral, sinto o legado",
-      "Ambos são importantes para mim",
-      "Com minha própria intuição, sigo meu próprio caminho"
-    ]
-  },
-  {
-    "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
-    "text": "Qual conceito místico mais te fascina?",
-    "options": [
-      "Reencarnação e vidas passadas",
-      "Astrologia e influência dos astros",
-      "Tarot e oráculos",
-      "Energia dos Chakras"
-    ]
-  },
-  {
-    "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
-    "text": "Você já teve alguma experiência inexplicável ou sobrenatural?",
-    "options": [
-      "Sim, e mudou minha perspectiva",
-      "Talvez, algo estranho aconteceu uma vez",
-      "Não, nunca"
-    ]
-  },
-  {
-    "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
-    "text": "Se você pudesse ter um dom místico, qual seria?",
-    "options": [
-      "Curar com as mãos",
-      "Prever o futuro",
-      "Comunicar-se com espíritos",
-      "Controlar os elementos"
-    ]
-  },
-  {
-    "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
-    "text": "Qual a sua visão sobre a vida após a morte?",
-    "options": [
-      "Acredito em uma continuidade da alma",
-      "Tenho dúvidas, mas espero que sim",
-      "Acredito que é o fim de tudo"
-    ]
-  },
-  {
-    "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
-    "text": "Você se sente mais influenciado(a) pelos astros no dia a dia?",
-    "options": [
-      "Sim, acompanho meu horóscopo e fases",
-      "Leio por curiosidade, mas não me guio totalmente",
-      "Não, não vejo influência"
-    ]
-  },
-  {
-    "title": "🌿 CONEXÃO COM O EU - Versão 9",
-    "text": "Em momentos de decisão, você consulta seu coração ou sua mente?",
-    "options": [
-      "Meu coração, a intuição é guia",
-      "Minha mente, a lógica é essencial",
-      "Ambos, busco equilíbrio"
-    ]
-  },
-  {
-    "title": "🌿 CONEXÃO COM O EU - Versão 9",
-    "text": "Qual tipo de ambiente te ajuda a se conectar consigo mesmo(a)?",
-    "options": [
-      "Silêncio e natureza",
-      "Um café tranquilo ou biblioteca",
-      "Um ambiente agitado com muitas pessoas"
-    ]
-  },
-  {
-    "title": "🌿 CONEXÃO COM O EU - Versão 9",
-    "text": "Você se considera uma pessoa mais ligada(a) ao passado, presente ou futuro?",
-    "options": [
-      "Passado, aprendo com as experiências",
-      "Presente, vivo o agora intensamente",
-      "Futuro, sempre planejando e sonhando"
-    ]
-  },
-  {
-    "title": "🌿 CONEXÃO COM O EU - Versão 9",
-    "text": "Qual é a sua principal fonte de inspiração?",
-    "options": [
-      "A natureza e o universo",
-      "Livros, filmes e arte",
-      "Conversas e experiências com outras pessoas"
-    ]
-  },
-  {
-    "title": "🌿 CONEXÃO COM O EU - Versão 9",
-    "text": "Você consegue identificar e entender as emoções das pessoas ao seu redor facilmente?",
-    "options": [
-      "Sim, sou muito empático(a)",
-      "Às vezes, consigo perceber nuances",
-      "Não, tenho dificuldade"
-    ]
-  },
-  {
-    "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
-    "text": "Para você, o que significa 'prosperidade'?",
-    "options": [
-      "Abundância em todas as áreas da vida",
-      "Estabilidade financeira e segurança",
-      "Paz de espírito e bem-estar"
-    ]
-  },
-  {
-    "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
-    "text": "Você acredita que seus pensamentos influenciam sua realidade financeira?",
-    "options": [
-      "Sim, a Lei da Atração é poderosa",
-      "Em parte, mas o esforço é fundamental",
-      "Não, é mais sobre trabalho duro e sorte"
-    ]
-  },
-  {
-    "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
-    "text": "Qual é o seu maior desafio ao lidar com dinheiro?",
-    "options": [
-      "Gastos impulsivos",
-      "Dificuldade em poupar",
-      "Medo da escassez",
-      "Não saber como investir"
-    ]
-  },
-  {
-    "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
-    "text": "Você já usou alguma simpatia ou ritual para atrair prosperidade?",
-    "options": [
-      "Sim, e acredito no poder da intenção",
-      "Tenho curiosidade, mas nunca fiz",
-      "Não, não acredito nessas coisas"
-    ]
-  },
-  {
-    "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
-    "text": "Qual é a sua maior bênção na vida atualmente?",
-    "options": [
-      "Meus relacionamentos",
-      "Minha saúde e bem-estar",
-      "Minha carreira ou propósito",
-      "Minha capacidade de aprender e crescer"
-    ]
-  }
+    {
+        "title": "💫 SINTONIA PESSOAL - Versão 3",
+        "text": "Com qual frequência você se sente 'conectado(a)' a pessoas sem precisar de palavras?",
+        "options": [
+            "Quase sempre, é natural pra mim",
+            "Às vezes, com pessoas muito próximas",
+            "Raramente, sou mais direto(a)"
+        ]
+    },
+    {
+        "title": "💫 SINTONIA PESSOAL - Versão 3",
+        "text": "Você já sentiu a presença de alguém que não estava fisicamente presente?",
+        "options": [
+            "Sim, e era bem real",
+            "Acho que sim, mas pode ter sido imaginação",
+            "Não, nunca tive essa sensação"
+        ]
+    },
+    {
+        "title": "💫 SINTONIA PESSOAL - Versão 3",
+        "text": "Qual cor mais te atrai e te transmite energia no momento?",
+        "options": [
+            "Azul/Roxo (Calma, espiritualidade)",
+            "Amarelo/Laranja (Alegria, criatividade)",
+            "Vermelho/Preto (Paixão, força)",
+            "Verde/Branco (Cura, paz)"
+        ]
+    },
+    {
+        "title": "💫 SINTONIA PESSOAL - Versão 3",
+        "text": "Seu ambiente atual reflete sua paz interior?",
+        "options": [
+            "Sim, é meu santuário",
+            "Mais ou menos, precisa de ajustes",
+            "Não, é um caos, mas não me importo"
+        ]
+    },
+    {
+        "title": "💫 SINTONIA PESSOAL - Versão 3",
+        "text": "Você se sente mais atraído(a) por símbolos antigos ou por inovações tecnológicas?",
+        "options": [
+            "Símbolos antigos e a sabedoria ancestral",
+            "Ambos, busco equilíbrio entre o novo e o velho",
+            "Inovações tecnológicas e o futuro"
+        ]
+    },
+    {
+        "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+        "text": "Qual elemento da natureza mais te acalma ou energiza?",
+        "options": [
+            "Água (mar, rio, chuva)",
+            "Terra (floresta, montanha)",
+            "Fogo (fogueira, sol)",
+            "Ar (vento, céu aberto)"
+        ]
+    },
+    {
+        "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+        "text": "Você costuma falar com plantas ou animais como se eles entendessem?",
+        "options": [
+            "Sim, sinto uma conexão real",
+            "Às vezes, em momentos de carinho",
+            "Não, acho estranho"
+        ]
+    },
+    {
+        "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+        "text": "Qual tipo de cristal ou pedra te chama mais atenção?",
+        "options": [
+            "Ametista (calma, intuição)",
+            "Quartzo Rosa (amor, harmonia)",
+            "Obsidiana (proteção, aterramento)",
+            "Citrino (prosperidade, alegria)"
+        ]
+    },
+    {
+        "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+        "text": "Você prefere meditar em um local fechado ou ao ar livre?",
+        "options": [
+            "Ao ar livre, em contato com a natureza",
+            "Em um local fechado, mas com elementos naturais",
+            "Em qualquer lugar que eu me sinta confortável"
+        ]
+    },
+    {
+        "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+        "text": "Qual animal, real ou mítico, você sente que mais representa sua essência?",
+        "options": [
+            "Coruja (sabedoria, mistério)",
+            "Lobo (lealdade, intuição)",
+            "Fênix (renascimento, superação)",
+            "Borboleta (transformação, leveza)"
+        ]
+    },
+    {
+        "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+        "text": "Você confia mais na sua intuição ou na lógica para tomar decisões importantes?",
+        "options": [
+            "Na minha intuição, ela nunca falha",
+            "Na lógica, mas dou uma escutada na intuição",
+            "Na lógica, sempre"
+        ]
+    },
+    {
+        "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+        "text": "Ao conhecer alguém novo, qual é a sua primeira impressão?",
+        "options": [
+            "Sinto a energia da pessoa, se é boa ou não",
+            "Observo o comportamento e a fala",
+            "Sou cético(a) e espero para formar uma opinião"
+        ]
+    },
+    {
+        "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+        "text": "Quando você se sente triste, o que busca para se reequilibrar?",
+        "options": [
+            "Conexão com a natureza ou meditação",
+            "Conversar com amigos/família",
+            "Distração com filmes, jogos ou trabalho"
+        ]
+    },
+    {
+        "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+        "text": "Você tem rituais diários ou semanais para cuidar da sua energia?",
+        "options": [
+            "Sim, como banhos de ervas ou defumações",
+            "Às vezes, um bom banho relaxante",
+            "Não, não tenho nenhum ritual"
+        ]
+    },
+    {
+        "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+        "text": "Qual tipo de música mais ressoa com sua alma?",
+        "options": [
+            "Músicas instrumentais ou com sons da natureza",
+            "Músicas que me fazem dançar e extravasar",
+            "Músicas com letras profundas e reflexivas"
+        ]
+    },
+    {
+        "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+        "text": "Você acredita em 'coincidências' que parecem ter um significado maior?",
+        "options": [
+            "Com certeza, são sinais do universo",
+            "Às vezes, pode ser apenas sorte ou azar",
+            "Não, são apenas coincidências"
+        ]
+    },
+    {
+        "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+        "text": "Se você pudesse ver seu futuro, você veria ou o mudaria?",
+        "options": [
+            "Veria para entender o caminho",
+            "Veria para tentar mudar o que não gosto",
+            "Não veria, prefiro viver o presente"
+        ]
+    },
+    {
+        "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+        "text": "Você se sente atraído(a) por culturas ou tradições espirituais antigas?",
+        "options": [
+            "Sim, busco conhecimento ancestral",
+            "Tenho curiosidade, mas não me aprofundo",
+            "Não, prefiro o que é mais moderno"
+        ]
+    },
+    {
+        "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+        "text": "Qual fase da lua te inspira mais a iniciar novos projetos ou fazer planos?",
+        "options": [
+            "Lua Nova (início, renovação)",
+            "Lua Crescente (crescimento, expansão)",
+            "Lua Cheia (auge, manifestação)",
+            "Lua Minguante (limpeza, introspecção)"
+        ]
+    },
+    {
+        "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+        "text": "Você já teve a sensação de 'já ter vivido' um momento ou situação (déjà vu)?",
+        "options": [
+            "Sim, frequentemente",
+            "Algumas vezes, é estranho",
+            "Não, nunca tive"
+        ]
+    },
+    {
+        "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+        "text": "Você sente a necessidade de se proteger de energias negativas no dia a dia?",
+        "options": [
+            "Sim, faço isso ativamente",
+            "Às vezes me sinto pesado(a), mas não sei como",
+            "Não, não me preocupo com isso"
+        ]
+    },
+    {
+        "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+        "text": "Qual aroma te traz mais paz e bem-estar?",
+        "options": [
+            "Lavanda (calma, relaxamento)",
+            "Sândalo (meditação, espiritualidade)",
+            "Alecrim (limpeza, energia)",
+            "Hortelã (clareza, renovação)"
+        ]
+    },
+    {
+        "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+        "text": "Você acredita que objetos ou lugares podem carregar energias residuais?",
+        "options": [
+            "Sim, totalmente",
+            "Talvez, sinto algo diferente às vezes",
+            "Não, não acredito nisso"
+        ]
+    },
+    {
+        "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+        "text": "Qual a sua maior dificuldade em relação ao equilíbrio emocional?",
+        "options": [
+            "Controlar a ansiedade",
+            "Lidar com a tristeza profunda",
+            "Manter a calma em situações de estresse",
+            "Perdoar a si mesmo(a) ou aos outros"
+        ]
+    },
+    {
+        "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+        "text": "Você se sente mais conectado(a) com a sabedoria dos seus ancestrais ou com a sua própria intuição?",
+        "options": [
+            "Com a sabedoria ancestral, sinto o legado",
+            "Ambos são importantes para mim",
+            "Com minha própria intuição, sigo meu próprio caminho"
+        ]
+    },
+    {
+        "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+        "text": "Qual conceito místico mais te fascina?",
+        "options": [
+            "Reencarnação e vidas passadas",
+            "Astrologia e influência dos astros",
+            "Tarot e oráculos",
+            "Energia dos Chakras"
+        ]
+    },
+    {
+        "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+        "text": "Você já teve alguma experiência inexplicável ou sobrenatural?",
+        "options": [
+            "Sim, e mudou minha perspectiva",
+            "Talvez, algo estranho aconteceu uma vez",
+            "Não, nunca"
+        ]
+    },
+    {
+        "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+        "text": "Se você pudesse ter um dom místico, qual seria?",
+        "options": [
+            "Curar com as mãos",
+            "Prever o futuro",
+            "Comunicar-se com espíritos",
+            "Controlar os elementos"
+        ]
+    },
+    {
+        "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+        "text": "Qual a sua visão sobre a vida após a morte?",
+        "options": [
+            "Acredito em uma continuidade da alma",
+            "Tenho dúvidas, mas espero que sim",
+            "Acredito que é o fim de tudo"
+        ]
+    },
+    {
+        "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+        "text": "Você se sente mais influenciado(a) pelos astros no dia a dia?",
+        "options": [
+            "Sim, acompanho meu horóscopo e fases",
+            "Leio por curiosidade, mas não me guio totalmente",
+            "Não, não vejo influência"
+        ]
+    },
+    {
+        "title": "🌿 CONEXÃO COM O EU - Versão 9",
+        "text": "Em momentos de decisão, você consulta seu coração ou sua mente?",
+        "options": [
+            "Meu coração, a intuição é guia",
+            "Minha mente, a lógica é essencial",
+            "Ambos, busco equilíbrio"
+        ]
+    },
+    {
+        "title": "🌿 CONEXÃO COM O EU - Versão 9",
+        "text": "Qual tipo de ambiente te ajuda a se conectar consigo mesmo(a)?",
+        "options": [
+            "Silêncio e natureza",
+            "Um café tranquilo ou biblioteca",
+            "Um ambiente agitado com muitas pessoas"
+        ]
+    },
+    {
+        "title": "🌿 CONEXÃO COM O EU - Versão 9",
+        "text": "Você se considera uma pessoa mais ligada(a) ao passado, presente ou futuro?",
+        "options": [
+            "Passado, aprendo com as experiências",
+            "Presente, vivo o agora intensamente",
+            "Futuro, sempre planejando e sonhando"
+        ]
+    },
+    {
+        "title": "🌿 CONEXÃO COM O EU - Versão 9",
+        "text": "Qual é a sua principal fonte de inspiração?",
+        "options": [
+            "A natureza e o universo",
+            "Livros, filmes e arte",
+            "Conversas e experiências com outras pessoas"
+        ]
+    },
+    {
+        "title": "🌿 CONEXÃO COM O EU - Versão 9",
+        "text": "Você consegue identificar e entender as emoções das pessoas ao seu redor facilmente?",
+        "options": [
+            "Sim, sou muito empático(a)",
+            "Às vezes, consigo perceber nuances",
+            "Não, tenho dificuldade"
+        ]
+    },
+    {
+        "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+        "text": "Para você, o que significa 'prosperidade'?",
+        "options": [
+            "Abundância em todas as áreas da vida",
+            "Estabilidade financeira e segurança",
+            "Paz de espírito e bem-estar"
+        ]
+    },
+    {
+        "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+        "text": "Você acredita que seus pensamentos influenciam sua realidade financeira?",
+        "options": [
+            "Sim, a Lei da Atração é poderosa",
+            "Em parte, mas o esforço é fundamental",
+            "Não, é mais sobre trabalho duro e sorte"
+        ]
+    },
+    {
+        "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+        "text": "Qual é o seu maior desafio ao lidar com dinheiro?",
+        "options": [
+            "Gastos impulsivos",
+            "Dificuldade em poupar",
+            "Medo da escassez",
+            "Não saber como investir"
+        ]
+    },
+    {
+        "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+        "text": "Você já usou alguma simpatia ou ritual para atrair prosperidade?",
+        "options": [
+            "Sim, e acredito no poder da intenção",
+            "Tenho curiosidade, mas nunca fiz",
+            "Não, não acredito nessas coisas"
+        ]
+    },
+    {
+        "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+        "text": "Qual é a sua maior bênção na vida atualmente?",
+        "options": [
+            "Meus relacionamentos",
+            "Minha saúde e bem-estar",
+            "Minha carreira ou propósito",
+            "Minha capacidade de aprender e crescer"
+        ]
+    }
 ]
