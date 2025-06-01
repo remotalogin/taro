@@ -1,7 +1,7 @@
 [
   [
     {
-      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
+      "title": "💔 AMOR NÃO RESOLVIDO",
       "text": "Você ainda sente que ele está conectado com você?",
       "options": [
         "Sim, como se fosse um fio invisível",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
+      "title": "💔 AMOR NÃO RESOLVIDO",
       "text": "Qual foi a última vez que ele te procurou?",
       "options": [
         "Nos últimos dias",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "💔 AMOR NÃO RESOLVIDO - Versão 1",
+      "title": "💔 AMOR NÃO RESOLVIDO",
       "text": "O que você gostaria de perguntar pra ele hoje?",
       "options": [
         "Por que ele se afastou?",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO - Versão 1",
+      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO",
       "text": "Você já viu sinais repetidos como horas iguais ou nomes?",
       "options": [
         "Sim, direto",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO - Versão 1",
+      "title": "👁️ PRESSÃO ENERGÉTICA / LEI DA ATRAÇÃO",
       "text": "Como anda sua intuição ultimamente?",
       "options": [
         "Forte e ativa",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "🔮 RITUAL/INTERAÇÃO - Versão 1",
+      "title": "🔮 RITUAL/INTERAÇÃO",
       "text": "Qual dessas ações você já fez por ele?",
       "options": [
         "Orei ou mentalizei",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "title": "🔮 RITUAL/INTERAÇÃO - Versão 1",
+      "title": "🔮 RITUAL/INTERAÇÃO",
       "text": "Se ele voltasse hoje, você:",
       "options": [
         "Correria pros braços dele",
@@ -69,7 +69,7 @@
   ],
   [
     {
-      "title": "✨ SONHOS E SINAIS - Versão 2",
+      "title": "✨ SONHOS E SINAIS",
       "text": "Você tem tido sonhos vívidos ou recorrentes ultimamente?",
       "options": [
         "Sim, e parecem mensagens",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "title": "✨ SONHOS E SINAIS - Versão 2",
+      "title": "✨ SONHOS E SINAIS",
       "text": "Qual foi a última vez que você sentiu um 'pressentimento' forte que se confirmou?",
       "options": [
         "Recentemente, foi impressionante",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "title": "⚡ ENERGIA PESSOAL - Versão 2",
+      "title": "⚡ ENERGIA PESSOAL",
       "text": "Como você se sente ao entrar em um ambiente novo?",
       "options": [
         "Sinto a energia do local, sou sensível",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "title": "⚡ ENERGIA PESSOAL - Versão 2",
+      "title": "⚡ ENERGIA PESSOAL",
       "text": "Você se sente mais atraído(a) por lugares tranquilos ou agitados?",
       "options": [
         "Tranquilos, para recarregar as energias",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "title": "🔮 CONEXÃO ESPIRITUAL - Versão 2",
+      "title": "🔮 CONEXÃO ESPIRITUAL",
       "text": "Você acredita em algum tipo de força maior ou destino?",
       "options": [
         "Sim, firmemente",
@@ -116,7 +116,7 @@
   ],
   [
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Com qual frequência você se sente 'conectado(a)' a pessoas sem precisar de palavras?",
       "options": [
         "Quase sempre, é natural pra mim",
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Você já sentiu a presença de alguém que não estava fisicamente presente?",
       "options": [
         "Sim, e era bem real",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Qual cor mais te atrai e te transmite energia no momento?",
       "options": [
         "Azul/Roxo (Calma, espiritualidade)",
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Seu ambiente atual reflete sua paz interior?",
       "options": [
         "Sim, é meu santuário",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "title": "💫 SINTONIA PESSOAL - Versão 3",
+      "title": "💫 SINTONIA PESSOAL",
       "text": "Você se sente mais atraído(a) por símbolos antigos ou por inovações tecnológicas?",
       "options": [
         "Símbolos antigos e a sabedoria ancestral",
@@ -164,7 +164,7 @@
   ],
   [
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA",
       "text": "Qual elemento da natureza mais te acalma ou energiza?",
       "options": [
         "Água (mar, rio, chuva)",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA",
       "text": "Você costuma falar com plantas ou animais como se eles entendessem?",
       "options": [
         "Sim, sinto uma conexão real",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA",
       "text": "Qual tipo de cristal ou pedra te chama mais atenção?",
       "options": [
         "Ametista (calma, intuição)",
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA",
       "text": "Você prefere meditar em um local fechado ou ao ar livre?",
       "options": [
         "Ao ar livre, em contato com a natureza",
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "title": "🌿 ENERGIA DA NATUREZA - Versão 4",
+      "title": "🌿 ENERGIA DA NATUREZA",
       "text": "Qual animal, real ou mítico, você sente que mais representa sua essência?",
       "options": [
         "Coruja (sabedoria, mistério)",
@@ -214,7 +214,7 @@
   ],
   [
     {
-      "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+      "title": "✨ AUTOCONHECIMENTO INTUITIVO",
       "text": "Você confia mais na sua intuição ou na lógica para tomar decisões importantes?",
       "options": [
         "Na minha intuição, ela nunca falha",
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+      "title": "✨ AUTOCONHECIMENTO INTUITIVO",
       "text": "Ao conhecer alguém novo, qual é a sua primeira impressão?",
       "options": [
         "Sinto a energia da pessoa, se é boa ou não",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+      "title": "✨ AUTOCONHECIMENTO INTUITIVO",
       "text": "Quando você se sente triste, o que busca para se reequilibrar?",
       "options": [
         "Conexão com a natureza ou meditação",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+      "title": "✨ AUTOCONHECIMENTO INTUITIVO",
       "text": "Você tem rituais diários ou semanais para cuidar da sua energia?",
       "options": [
         "Sim, como banhos de ervas ou defumações",
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "title": "✨ AUTOCONHECIMENTO INTUITIVO - Versão 5",
+      "title": "✨ AUTOCONHECIMENTO INTUITIVO",
       "text": "Qual tipo de música mais ressoa com sua alma?",
       "options": [
         "Músicas instrumentais ou com sons da natureza",
@@ -261,7 +261,7 @@
   ],
   [
     {
-      "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+      "title": "🔮 CAMINHOS DO DESTINO",
       "text": "Você acredita em 'coincidências' que parecem ter um significado maior?",
       "options": [
         "Com certeza, são sinais do universo",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+      "title": "🔮 CAMINHOS DO DESTINO",
       "text": "Se você pudesse ver seu futuro, você veria ou o mudaria?",
       "options": [
         "Veria para entender o caminho",
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+      "title": "🔮 CAMINHOS DO DESTINO",
       "text": "Você se sente atraído(a) por culturas ou tradições espirituais antigas?",
       "options": [
         "Sim, busco conhecimento ancestral",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+      "title": "🔮 CAMINHOS DO DESTINO",
       "text": "Qual fase da lua te inspira mais a iniciar novos projetos ou fazer planos?",
       "options": [
         "Lua Nova (início, renovação)",
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "title": "🔮 CAMINHOS DO DESTINO - Versão 6",
+      "title": "🔮 CAMINHOS DO DESTINO",
       "text": "Você já teve a sensação de 'já ter vivido' um momento ou situação (déjà vu)?",
       "options": [
         "Sim, frequentemente",
@@ -309,7 +309,7 @@
   ],
   [
     {
-      "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+      "title": "🌟 PROTEÇÃO E ALINHAMENTO",
       "text": "Você sente a necessidade de se proteger de energias negativas no dia a dia?",
       "options": [
         "Sim, faço isso ativamente",
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+      "title": "🌟 PROTEÇÃO E ALINHAMENTO",
       "text": "Qual aroma te traz mais paz e bem-estar?",
       "options": [
         "Lavanda (calma, relaxamento)",
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+      "title": "🌟 PROTEÇÃO E ALINHAMENTO",
       "text": "Você acredita que objetos ou lugares podem carregar energias residuais?",
       "options": [
         "Sim, totalmente",
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+      "title": "🌟 PROTEÇÃO E ALINHAMENTO",
       "text": "Qual a sua maior dificuldade em relação ao equilíbrio emocional?",
       "options": [
         "Controlar a ansiedade",
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "title": "🌟 PROTEÇÃO E ALINHAMENTO - Versão 7",
+      "title": "🌟 PROTEÇÃO E ALINHAMENTO",
       "text": "Você se sente mais conectado(a) com a sabedoria dos seus ancestrais ou com a sua própria intuição?",
       "options": [
         "Com a sabedoria ancestral, sinto o legado",
@@ -358,7 +358,7 @@
   ],
   [
     {
-      "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+      "title": "🌌 MISTÉRIOS DO UNIVERSO",
       "text": "Qual conceito místico mais te fascina?",
       "options": [
         "Reencarnação e vidas passadas",
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+      "title": "🌌 MISTÉRIOS DO UNIVERSO",
       "text": "Você já teve alguma experiência inexplicável ou sobrenatural?",
       "options": [
         "Sim, e mudou minha perspectiva",
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+      "title": "🌌 MISTÉRIOS DO UNIVERSO",
       "text": "Se você pudesse ter um dom místico, qual seria?",
       "options": [
         "Curar com as mãos",
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+      "title": "🌌 MISTÉRIOS DO UNIVERSO",
       "text": "Qual a sua visão sobre a vida após a morte?",
       "options": [
         "Acredito em uma continuidade da alma",
@@ -396,7 +396,7 @@
       ]
     },
     {
-      "title": "🌌 MISTÉRIOS DO UNIVERSO - Versão 8",
+      "title": "🌌 MISTÉRIOS DO UNIVERSO",
       "text": "Você se sente mais influenciado(a) pelos astros no dia a dia?",
       "options": [
         "Sim, acompanho meu horóscopo e fases",
@@ -407,7 +407,7 @@
   ],
   [
     {
-      "title": "🌿 CONEXÃO COM O EU - Versão 9",
+      "title": "🌿 CONEXÃO COM O EU",
       "text": "Em momentos de decisão, você consulta seu coração ou sua mente?",
       "options": [
         "Meu coração, a intuição é guia",
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "title": "🌿 CONEXÃO COM O EU - Versão 9",
+      "title": "🌿 CONEXÃO COM O EU",
       "text": "Qual tipo de ambiente te ajuda a se conectar consigo mesmo(a)?",
       "options": [
         "Silêncio e natureza",
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "title": "🌿 CONEXÃO COM O EU - Versão 9",
+      "title": "🌿 CONEXÃO COM O EU",
       "text": "Você se considera uma pessoa mais ligada(a) ao passado, presente ou futuro?",
       "options": [
         "Passado, aprendo com as experiências",
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "title": "🌿 CONEXÃO COM O EU - Versão 9",
+      "title": "🌿 CONEXÃO COM O EU",
       "text": "Qual é a sua principal fonte de inspiração?",
       "options": [
         "A natureza e o universo",
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "title": "🌿 CONEXÃO COM O EU - Versão 9",
+      "title": "🌿 CONEXÃO COM O EU",
       "text": "Você consegue identificar e entender as emoções das pessoas ao seu redor facilmente?",
       "options": [
         "Sim, sou muito empático(a)",
@@ -454,7 +454,7 @@
   ],
   [
     {
-      "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+      "title": "🌟 CAMINHOS DA PROSPERIDADE",
       "text": "Para você, o que significa 'prosperidade'?",
       "options": [
         "Abundância em todas as áreas da vida",
@@ -463,7 +463,7 @@
       ]
     },
     {
-      "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+      "title": "🌟 CAMINHOS DA PROSPERIDADE",
       "text": "Você acredita que seus pensamentos influenciam sua realidade financeira?",
       "options": [
         "Sim, a Lei da Atração é poderosa",
@@ -472,7 +472,7 @@
       ]
     },
     {
-      "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+      "title": "🌟 CAMINHOS DA PROSPERIDADE",
       "text": "Qual é o seu maior desafio ao lidar com dinheiro?",
       "options": [
         "Gastos impulsivos",
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+      "title": "🌟 CAMINHOS DA PROSPERIDADE",
       "text": "Você já usou alguma simpatia ou ritual para atrair prosperidade?",
       "options": [
         "Sim, e acredito no poder da intenção",
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "title": "🌟 CAMINHOS DA PROSPERIDADE - Versão 10",
+      "title": "🌟 CAMINHOS DA PROSPERIDADE",
       "text": "Qual é a sua maior bênção na vida atualmente?",
       "options": [
         "Meus relacionamentos",
@@ -503,7 +503,7 @@
   ],
   [
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Você se sente mais atraído(a) por quem te desafia ou por quem te complementa?",
       "options": [
         "Quem me desafia a crescer",
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Em um relacionamento, o que é mais importante para você?",
       "options": [
         "Confiança e lealdade",
@@ -522,7 +522,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Qual o seu maior medo em relação ao amor?",
       "options": [
         "Ser traído(a) ou enganado(a)",
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Você acredita em almas gêmeas ou que o amor é construído?",
       "options": [
         "Acredito em almas gêmeas, destino",
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Quando você se sente mais amado(a)?",
       "options": [
         "Com palavras de afirmação e carinho",
@@ -551,7 +551,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Qual a sua maior dificuldade em expressar o amor?",
       "options": [
         "Dizer 'eu te amo'",
@@ -561,7 +561,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Você se sente mais confortável em um relacionamento novo ou em um já estabelecido?",
       "options": [
         "Novo, pela empolgação e descoberta",
@@ -570,7 +570,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Qual a sua linguagem do amor predominante?",
       "options": [
         "Palavras de afirmação",
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "Seu relacionamento atual (ou o que você busca) te impulsiona a ser sua melhor versão?",
       "options": [
         "Sim, totalmente",
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "title": "💞 AMOR E RELACIONAMENTOS - Versão 11",
+      "title": "💞 AMOR E RELACIONAMENTOS",
       "text": "O que você faria hoje para alimentar um relacionamento importante em sua vida?",
       "options": [
         "Enviaria uma mensagem carinhosa",
